@@ -20,6 +20,18 @@ http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 #EXTINF:0 tvg-id ="", tvg-name ="TV9", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png", group-title="Melayu",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
+#EXTINF:0 tvg-id ="", tvg-name ="ASTRO MAYA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/135_120.png", group-title="Melayu",ASTRO MAYA
+http://212.8.243.195:8278/MayaHD123/playlist.m3u8?tid=18912708&tsum=8654ecfd65f4b202b79232651d131365
+
+#EXTINF:0 tvg-id ="", tvg-name ="ASTRO PRIMA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png", group-title="Melayu",ASTRO PRIMA
+http://212.8.d243.195:8278/Prima/playlist.m3u8?tid=13815343&tsum=fa64d8b453db6b4bc627ab6b07db377a
+
+#EXTINF:0 tvg-id ="", tvg-name ="ASTRO RIA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_120.png", group-title="Melayu",ASTRO RIA
+http://212.8.243.195:8278/Ria2/playlist.m3u8?tid=15468417&tsum=4acd1d00f47e6185e9f74ad8c4b1c76f
+
+#EXTINF:0 tvg-id ="", tvg-name ="ASTRO CITRA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_120.png", group-title="Melayu",ASTRO CITRA
+http://212.8.243.195:8278/Citra/playlist.m3u8?tid=17916089&tsum=8028bfd24396a52c201b192119a89496
+
 #EXTINF:0 tvg-id ="Trans 7 - [Channel 110]", tvg-name ="TRANS 7", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png", group-title="Indonesia",TRANS 7
 http://id2.indostreamingtv.com/live/tv77/index.m3u8
 
@@ -113,6 +125,39 @@ http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/125140.ts
 #EXTINF:0 tvg-id ="Fox Sports 2 HD", tvg-name ="Fox sport 2 HD", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/fox-sports-2-hd/pos/fox-sports-2-hd_120.png", group-title="Sukan",Fox sport 2 HD
 http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/125139.ts
 
+#EXTINF:0 tvg-id ="", tvg-name ="BT Sport Extra 1 HD", tvg-logo="https://www.satlogo.com/logo/tv/bb/bt_sport_uk_extra_1_hd.png", group-title="Sukan",BT Sport Extra 1 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/488.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="BT Sport Extra 2 HD", tvg-logo="https://www.satlogo.com/logo/tv/bb/bt_sport_uk_extra_2_hd.png", group-title="Sukan",BT Sport Extra 2 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/487.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="BT Sport Extra 3 HD", tvg-logo="https://www.satlogo.com/logo/tv/bb/bt_sport_uk_extra_3_hd.png", group-title="Sukan",BT Sport Extra 3 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/486.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="BT Sport Extra 4 HD", tvg-logo="https://www.satlogo.com/logo/tv/bb/bt_sport_uk_extra_4_hd.png", group-title="Sukan",BT Sport Extra 4 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/485.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="BT Sport Extra 5 HD", tvg-logo="https://www.satlogo.com/logo/tv/bb/bt_sport_uk_extra_5_hd.png", group-title="Sukan",BT Sport Extra 5 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/484.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="TSN 1 HD", tvg-logo="https://www.satlogo.com/logo/tv/tt/tsn_1_ca_hd.png", group-title="Sukan",TSN 1 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/241.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="TSN 2 HD", tvg-logo="https://www.satlogo.com/logo/tv/tt/tsn_2_ca_hd.png", group-title="Sukan",TSN 2 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/242.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="TSN 3 HD", tvg-logo="https://www.satlogo.com/logo/tv/tt/tsn_3_ca_hd.png", group-title="Sukan",TSN 3 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/243.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="TSN 4 HD", tvg-logo="https://www.satlogo.com/logo/tv/tt/tsn_4_ca_hd.png", group-title="Sukan",TSN 4 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/244.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="TSN 5 HD", tvg-logo="https://www.satlogo.com/logo/tv/tt/tsn_5_ca_hd.png", group-title="Sukan",TSN 5 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/245.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="WWE HD", tvg-logo="https://www.satlogo.com/logo/tv/ww/world_wrestling_entertainment.png", group-title="Sukan",WWE HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/125131.ts
+
 #EXTINF:0 tvg-id ="Sky Cinema Action &amp; Adventure HD", tvg-name ="Sky Cinema Action & Adventure HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png", group-title="Muviee",Sky Cinema Action & Adventure HD
 http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/122.ts
 
@@ -144,4 +189,10 @@ http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/111.ts
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:0 tvg-id ="", tvg-name ="&Flix HD", tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png", group-title="Muviee",&Flix HD
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="HBO", tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png", group-title="Muviee",HBO
+http://52.163.85.34:25461/live/adam/adam123/210.m3u8?token=T0FQVRdeRgwWVABbBgMHAQlUUFYAU1ZeCAhaVVBQUVJRWgoMVlMABwJDGEAQRUNSWAg+XFcXWVQAAE4SQxYGQWsKXBZeFFMCAFkWTkFFWFpcR1sFHxcTD1USWBIBV1EFBkEUFgFOEFNGD1UOPFVUQVAGBBcJWxYKXRxAX1g6B1ZZAlZQRgxGBhZNFgsQQRMNGzEse1ZBQUoTUgtERAQXVhZZGgZSAVIUGENXDRZfRUVAR1sXfmxBShNVGkRTCxBaWw0aDkZbV0MMQxhACkJuRVwWFUdWVA4DQxJYEgZHTxFZAkBrB1kKWFECQAsMX0IVA0dTFx8XDglfWRZfRDoTWlBBAhZTB1YPBkNJ
+
+#EXTINF:0 tvg-id ="", tvg-name ="Fox Action Movies", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png", group-title="Muviee",Fox Action Movies
+http://137.116.128.70:25461/live/adam/adam123/99.m3u8?token=T0FQVRdeRgwWBwIHUQFVAAlQB1EHAVUHUAJXBgQGUwcFUAtRV1MFUwZDGEAQRUNSWAg+XFcXWV8IHEBFRQARbF0HGg5GAVACDEMYQBdYXFIbX1EZEUUKAhMKQAIDXFAFFk8aURxCAURaAFg9B1RHXloAQw9dQA8KHRINXmkBBl5VDVwWXhRUFBhDXRETEwsVbSgvUEcXT0RTWRZCVxEGEQ5BCgZcD0YaFgJbFw1FQ04bX0N4ahdPRFRIFlVYFgpcWkECFgkFEQ4WTRYLEG5DUkoRE1BSWAYUEwpAABRJQV5VG2dXC1gKU1cVXQ0NQhMNG1dDGRFYDAhYRA1CaRUKVxZZGgxSAFUGFhw=
