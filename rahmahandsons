@@ -27,7 +27,7 @@ http://id2.indostreamingtv.com/live/tv77/index.m3u8
 http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id ="Trans TV - [Channel 87]", tvg-name ="TRANS TV", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png", group-title="Indonesia",TRANS TV
-https://stream-04.sg1.dailymotion.com/dm/3/x5b99vx/live-3.m3u8
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
 
 #EXTINF:0 tvg-id ="RCTI - [Channel 80]", tvg-name ="RCTI", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png", group-title="Indonesia",RCTI
 http://id6.indostreamingtv.com/live/tv6/index.m3u8
