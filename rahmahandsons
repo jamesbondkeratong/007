@@ -1,3 +1,147 @@
 #EXTM3U
 #EXTINF:0 tvg-id ="", tvg-name ="TV 1", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_120.png", group-title="Melayu",TV 1
 http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="TV 2", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_120.png", group-title="Melayu",TV 2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="TV3", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_120.png", group-title="Melayu",TV3
+http://stream-01.sg1.dailymotion.com/dm/3/x6qp375/live-1.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="OKEY", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_120.png", group-title="Melayu",OKEY
+https://rtm-live-stream2.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="NTV7", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_120.png", group-title="Melayu",NTV7
+http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="8TV", tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_300.png", group-title="Melayu",8TV
+http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="TV9", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png", group-title="Melayu",TV9
+http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
+
+#EXTINF:0 tvg-id ="Trans 7 - [Channel 110]", tvg-name ="TRANS 7", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png", group-title="Indonesia",TRANS 7
+http://id2.indostreamingtv.com/live/tv77/index.m3u8
+
+#EXTINF:0 tvg-id ="SCTV - [Channel 89]", tvg-name ="SCTV", tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png", group-title="Indonesia",SCTV
+http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id ="Trans TV - [Channel 87]", tvg-name ="TRANS TV", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png", group-title="Indonesia",TRANS TV
+https://stream-04.sg1.dailymotion.com/dm/3/x5b99vx/live-3.m3u8
+
+#EXTINF:0 tvg-id ="RCTI - [Channel 80]", tvg-name ="RCTI", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png", group-title="Indonesia",RCTI
+http://id6.indostreamingtv.com/live/tv6/index.m3u8
+
+#EXTINF:0 tvg-id ="Indosiar - [Channel 103]", tvg-name ="INDOSIAR", tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png", group-title="Indonesia",INDOSIAR
+http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id ="", tvg-name ="NET TV", tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png", group-title="Indonesia",NET TV
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:0 tvg-id ="TVONE - [Channel 97]", tvg-name ="TV ONE", tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png", group-title="Indonesia",TV ONE
+http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id ="ANTV - [Channel 115]", tvg-name ="AN TV", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png", group-title="Indonesia",AN TV
+http://id5.indostreamingtv.com/live/tv7/index.m3u8
+
+#EXTINF:0 tvg-id ="Metro TV - [Channel 107]", tvg-name ="METRO TV", tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png", group-title="Indonesia",METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w564550898_b1128000_sleng.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="GLOBAL TV", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png", group-title="Indonesia",GLOBAL TV
+https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="BERITA 1", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg", group-title="Indonesia",BERITA 1
+http://202.80.222.171/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0 tvg-id ="", tvg-name ="DIAMOND TV", tvg-logo="http://sbctv.id/wp-content/uploads/2018/01/diamond-world-tv.jpg", group-title="Indonesia",DIAMOND TV
+http://stream1.ninmedia.tv/live/xmedia-dtv.stream_nin/playlist.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="ASTRO ARENA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png", group-title="Sukan",ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:0 tvg-id ="Sky Sports Main Event HD", tvg-name ="SKY SPORTS MAIN EVENT", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png", group-title="Sukan",SKY SPORTS MAIN EVENT
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/136.ts
+
+#EXTINF:0 tvg-id ="Sky Sports Premier League HD", tvg-name ="SKY SPORTS  PREMIER LEAGUE", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png", group-title="Sukan",SKY SPORTS  PREMIER LEAGUE
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/144.ts
+
+#EXTINF:0 tvg-id ="Sky Sports Football HD", tvg-name ="SKY SPORTS  FOOTBALL", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3939.png", group-title="Sukan",SKY SPORTS  FOOTBALL
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/82901.ts
+
+#EXTINF:0 tvg-id ="Sky Sports Cricket HD", tvg-name ="SKY SPORTS  CRICKET", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png", group-title="Sukan",SKY SPORTS  CRICKET
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/138.ts
+
+#EXTINF:0 tvg-id ="Sky Sports F1 HD", tvg-name ="SKY SPORTS  F1", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png", group-title="Sukan",SKY SPORTS  F1
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/146.ts
+
+#EXTINF:0 tvg-id ="Sky Sports Arena HD", tvg-name ="SKY SPORTS  ARENA", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3940.png", group-title="Sukan",SKY SPORTS  ARENA
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/82902.ts
+
+#EXTINF:0 tvg-id ="Sky Sports News HD", tvg-name ="SKY SPORTS  NEWSHQ", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4049.png", group-title="Sukan",SKY SPORTS  NEWSHQ
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/134.ts
+
+#EXTINF:0 tvg-id ="Sky Sports Golf HD", tvg-name ="SKY SPORTS  GOLF", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4026.png", group-title="Sukan",SKY SPORTS  GOLF
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/142.ts
+
+#EXTINF:0 tvg-id ="Sky Sports Action HD", tvg-name ="SKY SPORTS  ACTION", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png", group-title="Sukan",SKY SPORTS  ACTION
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/140.ts
+
+#EXTINF:0 tvg-id ="Sky Sports Mix HD", tvg-name ="SKY SPORTS  MIX", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png", group-title="Sukan",SKY SPORTS  MIX
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/493.ts
+
+#EXTINF:0 tvg-id ="Eurosport 1 HD", tvg-name ="Eurosport 1 HD", tvg-logo="https://i.pinimg.com/originals/11/9f/19/119f19212acac435cba24f563315f9e6.png", group-title="Sukan",Eurosport 1 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/163.ts
+
+#EXTINF:0 tvg-id ="Eurosport 2 HD", tvg-name ="Eurosport 2 HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4009.png", group-title="Sukan",Eurosport 2 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/165.ts
+
+#EXTINF:0 tvg-id ="BT Sport 1 HD", tvg-name ="BT Sport 1 HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3625.png", group-title="Sukan",BT Sport 1 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/148.ts
+
+#EXTINF:0 tvg-id ="BT Sport 2 HD", tvg-name ="BT Sport 2 HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3627.png", group-title="Sukan",BT Sport 2 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/150.ts
+
+#EXTINF:0 tvg-id ="BT Sport 3 HD", tvg-name ="BT Sport 3 HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3629.png", group-title="Sukan",BT Sport 3 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/264.ts
+
+#EXTINF:0 tvg-id ="BT Sport\/\/ESPN", tvg-name ="BT Sport/ESPN HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4040.png", group-title="Sukan",BT Sport/ESPN HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/154.ts
+
+#EXTINF:0 tvg-id ="Fox Sports 1 HD", tvg-name ="Fox sport 1 HD", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_120.png", group-title="Sukan",Fox sport 1 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/125140.ts
+
+#EXTINF:0 tvg-id ="Fox Sports 2 HD", tvg-name ="Fox sport 2 HD", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/fox-sports-2-hd/pos/fox-sports-2-hd_120.png", group-title="Sukan",Fox sport 2 HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/125139.ts
+
+#EXTINF:0 tvg-id ="Sky Cinema Action &amp; Adventure HD", tvg-name ="Sky Cinema Action & Adventure HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png", group-title="Muviee",Sky Cinema Action & Adventure HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/122.ts
+
+#EXTINF:0 tvg-id ="Sky Cinema Comedy HD", tvg-name ="Sky Cinema Comedy HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4019.png", group-title="Muviee",Sky Cinema Comedy HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/125.ts
+
+#EXTINF:0 tvg-id ="Sky Cinema Crime &amp; Thriller HD", tvg-name ="Sky Cinema  Crime & Thriller HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png", group-title="Muviee",Sky Cinema  Crime & Thriller HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/107.ts
+
+#EXTINF:0 tvg-id ="Sky Cinema Disney HD", tvg-name ="Sky Cinema  Disney HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4013.png", group-title="Muviee",Sky Cinema  Disney HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/120.ts
+
+#EXTINF:0 tvg-id ="Sky Cinema Drama &amp; Romance HD", tvg-name ="Sky Cinema  Drama &  Romance HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png", group-title="Muviee",Sky Cinema  Drama &  Romance HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/118.ts
+
+#EXTINF:0 tvg-id ="Sky Cinema Family HD", tvg-name ="Sky Cinema  Family HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png", group-title="Muviee",Sky Cinema  Family HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/116.ts
+
+#EXTINF:0 tvg-id ="Sky Cinema Premiere HD", tvg-name ="Sky Cinema  Premiere HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png", group-title="Muviee",Sky Cinema  Premiere HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/105.ts
+
+#EXTINF:0 tvg-id ="Sky ScFi\/HorHD", tvg-name ="Sky Cinema  Sci-Fi & Horror HD", tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png", group-title="Muviee",Sky Cinema  Sci-Fi & Horror HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/113.ts
+
+#EXTINF:0 tvg-id ="Sky Cinema Sky-Fi HD", tvg-name ="Sky Cinema  Select HD", tvg-logo="http://images.entertainment.ie/images/tv/channel_logos/skycinemaCLASSICS_t.png", group-title="Muviee",Sky Cinema  Select HD
+http://titan-servers.strangled.net:80/live/xQJEABE8dF/g2oVTb0T48/111.ts
+
+#EXTINF:0 tvg-id ="", tvg-name ="&Prive HD", tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng", group-title="Muviee",&Prive HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 tvg-id ="", tvg-name ="&Flix HD", tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png", group-title="Muviee",&Flix HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
