@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 tvg-id ="", tvg-name ="TV 1", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_120.png", group-title="Melayu",TV 1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
