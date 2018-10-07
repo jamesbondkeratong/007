@@ -20,18 +20,6 @@ http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 #EXTINF:0 tvg-id ="", tvg-name ="TV9", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png", group-title="Melayu",TV9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
-#EXTINF:0 tvg-id ="", tvg-name ="ASTRO MAYA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/135_120.png", group-title="Melayu",ASTRO MAYA
-http://212.8.243.195:8278/MayaHD123/playlist.m3u8?tid=18912708&tsum=8654ecfd65f4b202b79232651d131365
-
-#EXTINF:0 tvg-id ="", tvg-name ="ASTRO PRIMA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png", group-title="Melayu",ASTRO PRIMA
-http://212.8.d243.195:8278/Prima/playlist.m3u8?tid=13815343&tsum=fa64d8b453db6b4bc627ab6b07db377a
-
-#EXTINF:0 tvg-id ="", tvg-name ="ASTRO RIA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_120.png", group-title="Melayu",ASTRO RIA
-http://212.8.243.195:8278/Ria2/playlist.m3u8?tid=15468417&tsum=4acd1d00f47e6185e9f74ad8c4b1c76f
-
-#EXTINF:0 tvg-id ="", tvg-name ="ASTRO CITRA", tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_120.png", group-title="Melayu",ASTRO CITRA
-http://212.8.243.195:8278/Citra/playlist.m3u8?tid=17916089&tsum=8028bfd24396a52c201b192119a89496
-
 #EXTINF:0 tvg-id ="Trans 7 - [Channel 110]", tvg-name ="TRANS 7", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png", group-title="Indonesia",TRANS 7
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 
@@ -191,11 +179,33 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id ="", tvg-name ="&Flix HD", tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png", group-title="Muviee",&Flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-id ="", tvg-name ="HBO", tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png", group-title="Muviee",HBO
-http://52.163.85.34:25461/live/adam/adam123/210.m3u8?token=T0FQVRdeRgwWVABbBgMHAQlUUFYAU1ZeCAhaVVBQUVJRWgoMVlMABwJDGEAQRUNSWAg+XFcXWVQAAE4SQxYGQWsKXBZeFFMCAFkWTkFFWFpcR1sFHxcTD1USWBIBV1EFBkEUFgFOEFNGD1UOPFVUQVAGBBcJWxYKXRxAX1g6B1ZZAlZQRgxGBhZNFgsQQRMNGzEse1ZBQUoTUgtERAQXVhZZGgZSAVIUGENXDRZfRUVAR1sXfmxBShNVGkRTCxBaWw0aDkZbV0MMQxhACkJuRVwWFUdWVA4DQxJYEgZHTxFZAkBrB1kKWFECQAsMX0IVA0dTFx8XDglfWRZfRDoTWlBBAhZTB1YPBkNJ
+#EXTINF:0 tvg-id ="", tvg-name ="Goodachari (2018)", tvg-logo="https://s5.dunia21.net/wp-content/uploads/2018/09/film-goodachari2018-lk21.jpg", group-title="VOD",Goodachari (2018)
+https://www3833.playercdn.net/187/5/yiDkmNkTXyDbceesQI13RA/1538936101/180918/200FVDJT3IT4RO9SIQ8QG.mp4
 
-#EXTINF:0 tvg-id ="", tvg-name ="Fox Action Movies", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png", group-title="Muviee",Fox Action Movies
-http://137.116.128.70:25461/live/adam/adam123/99.m3u8?token=T0FQVRdeRgwWBwIHUQFVAAlQB1EHAVUHUAJXBgQGUwcFUAtRV1MFUwZDGEAQRUNSWAg+XFcXWV8IHEBFRQARbF0HGg5GAVACDEMYQBdYXFIbX1EZEUUKAhMKQAIDXFAFFk8aURxCAURaAFg9B1RHXloAQw9dQA8KHRINXmkBBl5VDVwWXhRUFBhDXRETEwsVbSgvUEcXT0RTWRZCVxEGEQ5BCgZcD0YaFgJbFw1FQ04bX0N4ahdPRFRIFlVYFgpcWkECFgkFEQ4WTRYLEG5DUkoRE1BSWAYUEwpAABRJQV5VG2dXC1gKU1cVXQ0NQhMNG1dDGRFYDAhYRA1CaRUKVxZZGgxSAFUGFhw=
+#EXTINF:0 tvg-id ="", tvg-name ="Lakshmi(2018)", tvg-logo="https://s6.dunia21.net/wp-content/uploads/2018/09/film-lakshmi2018-lk21.jpg", group-title="VOD",Lakshmi(2018)
+https://www3766.playercdn.net/188/0/_UewDNiOgpElgnJqfR67og/1538936745/180910/396FV4IZYYW7AIEBYHRCK.mp4
 
-#EXTINF:0 tvg-id ="", tvg-name ="Superstar", tvg-logo="", group-title="VOD-HINDI",Superstar
-https://oql954.oloadcdn.net/dl/l/_90fKeC8qjP-BEEt/T3EQ4hFNPvE/Secret.Superstar.2017.720p.BluRay.x264.mkv.mp4?mime=true
+#EXTINF:0 tvg-id ="", tvg-name ="Rangasthalam(2018)", tvg-logo="https://s7.dunia21.net/wp-content/uploads/2018/08/film-rangasthalam2018-lk21.jpg", group-title="VOD",Rangasthalam(2018)
+https://www3742.playercdn.net/188/0/LCVLQDJXmfnqqctNRYXrFA/1538936928/180821/skzWloUeo08NbFk.mp4
+
+#EXTINF:0 tvg-id ="", tvg-name ="Baahubali 2: The Conclusion) (2017)", tvg-logo="https://s1.dunia21.net/wp-content/uploads/2017/05/film-baahubali-2-the-conclusion-2017.jpg", group-title="VOD",Baahubali 2: The Conclusion) (2017)
+https://1fgqfvs.oloadcdn.net/dl/l/Y0MQlbFLbG_ZDqMX/gHLfJxP2OVI/baahubali-2-conclusion-2017.mp4?mime=true
+
+#EXTINF:0 tvg-id ="", tvg-name ="Bahubali: The Beginning (2015)", tvg-logo="https://s5.dunia21.net/wp-content/uploads/2015/12/film-baahubali-the-beginning-2015.jpg", group-title="VOD",Bahubali: The Beginning (2015)
+https://1fiag13.oloadcdn.net/dl/l/ocXw5lD5JD2Qn9MK/Y_oWgs8W2nA/baahubali-the-beginning-2015.mp4?mime=true
+
+#EXTINF:0 tvg-id ="", tvg-name ="Hum Tumhare Hain Sanam (2002)", tvg-logo="https://s1.dunia21.net/wp-content/uploads/2016/11/film-hum-tumhare-hain-sanam-2002.jpg", group-title="VOD",Hum Tumhare Hain Sanam (2002)
+https://www3572.playercdn.net/187/2/8XicskngLCa2t586fpytlw/1538945902/180203/702FO3P1IFRSAPQP2UPGS.mp4
+
+#EXTINF:0 tvg-id ="", tvg-name ="Ashoka the Great (Asoka) (2001)", tvg-logo="https://s1.dunia21.net/wp-content/uploads/2016/01/film-ashoka-the-great-2001.jpg", group-title="VOD",Ashoka the Great (Asoka) (2001)
+https://oql960.oloadcdn.net/dl/l/9nhdaI1J2tPQsNYT/aZl6rwZQSnM/ashoka-great-2001.mp4?mime=true
+
+#EXTINF:0 tvg-id ="", tvg-name ="Josh (2000)", tvg-logo="https://s0.dunia21.net/wp-content/uploads/2016/05/film-josh-2000.jpg", group-title="VOD",Josh (2000)
+https://1fiag0f.oloadcdn.net/dl/l/81KqoN4dEI3GPeLF/x15F6LWom9o/josh-2000.mp4?mime=true
+
+#EXTINF:0 tvg-id ="", tvg-name ="Mann (1999)", tvg-logo="https://s1.dunia21.net/wp-content/uploads/2016/01/film-mann-1999.jpg", group-title="VOD",Mann (1999)
+https://1fhjlk5.oloadcdn.net/dl/l/krsUUkhXmIm-pw-y/PSLc6ZSr-vY/mann-1999.mp4?mime=true
+
+#EXTINF:0 tvg-id ="", tvg-name ="Karan Arjun (1995)", tvg-logo="https://s5.dunia21.net/wp-content/uploads/2016/01/film-karan-arjun-1995.jpg", group-title="VOD",Karan Arjun (1995)
+https://oqbkip.oloadcdn.net/dl/l/3HjTE2TBgg9ijOr2/xjj39dwiQzo/karan-arjun-1995.mp4?mime=true
+
