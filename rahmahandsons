@@ -196,3 +196,6 @@ http://52.163.85.34:25461/live/adam/adam123/210.m3u8?token=T0FQVRdeRgwWVABbBgMHA
 
 #EXTINF:0 tvg-id ="", tvg-name ="Fox Action Movies", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png", group-title="Muviee",Fox Action Movies
 http://137.116.128.70:25461/live/adam/adam123/99.m3u8?token=T0FQVRdeRgwWBwIHUQFVAAlQB1EHAVUHUAJXBgQGUwcFUAtRV1MFUwZDGEAQRUNSWAg+XFcXWV8IHEBFRQARbF0HGg5GAVACDEMYQBdYXFIbX1EZEUUKAhMKQAIDXFAFFk8aURxCAURaAFg9B1RHXloAQw9dQA8KHRINXmkBBl5VDVwWXhRUFBhDXRETEwsVbSgvUEcXT0RTWRZCVxEGEQ5BCgZcD0YaFgJbFw1FQ04bX0N4ahdPRFRIFlVYFgpcWkECFgkFEQ4WTRYLEG5DUkoRE1BSWAYUEwpAABRJQV5VG2dXC1gKU1cVXQ0NQhMNG1dDGRFYDAhYRA1CaRUKVxZZGgxSAFUGFhw=
+
+#EXTINF:0 tvg-id ="", tvg-name ="Superstar", tvg-logo="", group-title="VOD-HINDI",Superstar
+https://oql954.oloadcdn.net/dl/l/_90fKeC8qjP-BEEt/T3EQ4hFNPvE/Secret.Superstar.2017.720p.BluRay.x264.mkv.mp4?mime=true
