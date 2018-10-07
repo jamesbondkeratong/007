@@ -33,13 +33,13 @@ http://212.8.243.195:8278/Ria2/playlist.m3u8?tid=15468417&tsum=4acd1d00f47e6185e
 http://212.8.243.195:8278/Citra/playlist.m3u8?tid=17916089&tsum=8028bfd24396a52c201b192119a89496
 
 #EXTINF:0 tvg-id ="Trans 7 - [Channel 110]", tvg-name ="TRANS 7", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png", group-title="Indonesia",TRANS 7
-http://id2.indostreamingtv.com/live/tv77/index.m3u8
+http://id8.indostreamingtv.com/live/tv77/index.m3u8
 
 #EXTINF:0 tvg-id ="SCTV - [Channel 89]", tvg-name ="SCTV", tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png", group-title="Indonesia",SCTV
 http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id ="Trans TV - [Channel 87]", tvg-name ="TRANS TV", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png", group-title="Indonesia",TRANS TV
-https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+https://tv.rumahstreaming.stream/9163192287720543transtv/lives/chunks.m3u8
 
 #EXTINF:0 tvg-id ="RCTI - [Channel 80]", tvg-name ="RCTI", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_80.png", group-title="Indonesia",RCTI
 http://id6.indostreamingtv.com/live/tv6/index.m3u8
@@ -54,13 +54,13 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:0 tvg-id ="ANTV - [Channel 115]", tvg-name ="AN TV", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png", group-title="Indonesia",AN TV
-http://id5.indostreamingtv.com/live/tv7/index.m3u8
+https://tv.rumahstreaming.stream/e19ea48bb71f4798antv/lives/chunks.m3u8
 
 #EXTINF:0 tvg-id ="Metro TV - [Channel 107]", tvg-name ="METRO TV", tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png", group-title="Indonesia",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w564550898_b1128000_sleng.m3u8
 
 #EXTINF:0 tvg-id ="", tvg-name ="GLOBAL TV", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png", group-title="Indonesia",GLOBAL TV
-https://cdn-livetv1.metube.id/hls/globaltv_480/index.m3u8
+https://tv.rumahstreaming.stream/1a9fd12295670b1fglobaltv/lives/chunks.m3u8
 
 #EXTINF:0 tvg-id ="", tvg-name ="BERITA 1", tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg", group-title="Indonesia",BERITA 1
 http://202.80.222.171/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
