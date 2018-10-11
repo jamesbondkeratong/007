@@ -21,19 +21,19 @@ http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png" tvg-name="TV 9"  group-title="Melayu",TV 9
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
-#EXTINF:-1, tvg-id="Trans7.id" tvg-logo="https://static.iptv-epg.com/id/Trans7.id.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
+#EXTINF:-1, tvg-id="Trans7.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 
 #EXTINF:-1, tvg-id="SCTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" tvg-name="SCTV"  group-title="Indonesia",SCTV
 http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="TransTV.id" tvg-logo="https://static.iptv-epg.com/id/TransTV.id.png" tvg-name="TRANS TV"  group-title="Indonesia",TRANS TV
+#EXTINF:-1, tvg-id="TransTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" tvg-name="TRANS TV"  group-title="Indonesia",TRANS TV
 https://tv.rumahstreaming.stream/9163192287720543transtv/lives/chunks.m3u8
 
-#EXTINF:-1, tvg-id="RCTI.id" tvg-logo="https://static.iptv-epg.com/id/RCTI.id.png" tvg-name="RCTI"  group-title="Indonesia",RCTI
+#EXTINF:-1, tvg-id="RCTI.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_430.png" tvg-name="RCTI"  group-title="Indonesia",RCTI
 http://id6.indostreamingtv.com/live/tv6/index.m3u8
 
-#EXTINF:-1, tvg-id="Indosiar.id" tvg-logo="https://static.iptv-epg.com/id/Indosiar.id.png" tvg-name="INDOSIAR"  group-title="Indonesia",INDOSIAR
+#EXTINF:-1, tvg-id="Indosiar.id" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" tvg-name="INDOSIAR"  group-title="Indonesia",INDOSIAR
 http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="NetTV.id" tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" tvg-name="NET TV"  group-title="Indonesia",NET TV
@@ -42,122 +42,116 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 #EXTINF:-1, tvg-id="TVOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" tvg-name="TV ONE"  group-title="Indonesia",TV ONE
 http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="ANTV.id" tvg-logo="https://static.iptv-epg.com/id/ANTV.id.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
+#EXTINF:-1, tvg-id="ANTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
 https://tv.rumahstreaming.stream/e19ea48bb71f4798antv/lives/chunks.m3u8
 
 #EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="METRO TV"  group-title="Indonesia",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w564550898_b1128000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="GTV.id" tvg-logo="https://static.iptv-epg.com/id/GTV.id.png" tvg-name="GLOBAL TV"  group-title="Indonesia",GLOBAL TV
+#EXTINF:-1, tvg-id="GTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" tvg-name="GLOBAL TV"  group-title="Indonesia",GLOBAL TV
 https://tv.rumahstreaming.stream/1a9fd12295670b1fglobaltv/lives/chunks.m3u8
 
-#EXTINF:-1, tvg-id="BeritaSatu.id" tvg-logo="https://static.iptv-epg.com/id/BeritaSatu.id.png" tvg-name="BERITA 1"  group-title="Indonesia",BERITA 1
+#EXTINF:-1, tvg-id="BeritaSatu.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg" tvg-name="BERITA 1"  group-title="Indonesia",BERITA 1
 http://202.80.222.171/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA"  group-title="Sukan",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT"  group-title="Sukan",SKY SPORTS MAIN EVENT
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/546.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64455.ts
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE"  group-title="Sukan",SKY SPORTS  PREMIER LEAGUE
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/544.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64458.ts
 
 #EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="SKY SPORTS  FOOTBALL"  group-title="Sukan",SKY SPORTS  FOOTBALL
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1559.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64453.ts
 
 #EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="SKY SPORTS  CRICKET"  group-title="Sukan",SKY SPORTS  CRICKET
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/547.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66520.ts
 
 #EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS  F1"  group-title="Sukan",SKY SPORTS  F1
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/539.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64977.ts
 
 #EXTINF:-1, tvg-id="SkySportsArena.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" tvg-name="SKY SPORTS  ARENA"  group-title="Sukan",SKY SPORTS  ARENA
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1558.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66522.ts
 
 #EXTINF:-1, tvg-id="SkySportsNews.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" tvg-name="SKY SPORTS  NEWSHQ"  group-title="Sukan",SKY SPORTS  NEWSHQ
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/549.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64457.ts
 
 #EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="SKY SPORTS  GOLF"  group-title="Sukan",SKY SPORTS  GOLF
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1563.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64454.ts
 
 #EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION"  group-title="Sukan",SKY SPORTS  ACTION
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/545.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/66521.ts
 
 #EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX"  group-title="Sukan",SKY SPORTS  MIX
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/513.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64456.ts
 
 #EXTINF:-1, tvg-id="Eurosport1.uk" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" tvg-name="Eurosport 1"  group-title="Sukan",Eurosport 1
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/541.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63624.ts
 
 #EXTINF:-1, tvg-id="Eurosport2.uk" tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" tvg-name="Eurosport 2"  group-title="Sukan",Eurosport 2
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/540.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63623.ts
 
 #EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1"  group-title="Sukan",BT Sport 1
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/528.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63698.ts
 
 #EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2"  group-title="Sukan",BT Sport 2
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/527.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63697.ts
 
 #EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3"  group-title="Sukan",BT Sport 3
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/453.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63696.ts
 
 #EXTINF:-1, tvg-id="BTSportESPN.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" tvg-name="BT Sport/ESPN"  group-title="Sukan",BT Sport/ESPN
-http://93.118.32.94:8000/live/0910-www.ipmagtv.com/In58oISsZG/330.ts
-
-#EXTINF:-1, tvg-id="SkySportsBoxOffice.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsBoxOffice.uk.png" tvg-name="Sports Box Office"  group-title="Sukan",Sports Box Office
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/529.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63695.ts
 
 #EXTINF:-1, tvg-id="FOXSports1.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_120.png" tvg-name="Fox sport 1"  group-title="Sukan",Fox sport 1
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1516.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67712.ts
 
 #EXTINF:-1, tvg-id="FOXSports2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/fox-sports-2-hd/pos/fox-sports-2-hd_120.png" tvg-name="Fox sport 2"  group-title="Sukan",Fox sport 2
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1502.ts
-
-#EXTINF:-1, tvg-id="BTSportX1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportX1.uk.png" tvg-name="BT Sport Extra 1"  group-title="Sukan",BT Sport Extra 1
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/533.ts
-
-#EXTINF:-1, tvg-id="BTSportX2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportX2.uk.png" tvg-name="BT Sport Extra 2"  group-title="Sukan",BT Sport Extra 2
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/532.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67710.ts
 
 #EXTINF:-1, tvg-id="TSN1.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN1.ca.png" tvg-name="TSN 1"  group-title="Sukan",TSN 1
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1451.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67809.ts
 
 #EXTINF:-1, tvg-id="TSN2.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN2.ca.png" tvg-name="TSN 2"  group-title="Sukan",TSN 2
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1452.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67808.ts
 
 #EXTINF:-1, tvg-id="TSN3.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN3.ca.png" tvg-name="TSN 3"  group-title="Sukan",TSN 3
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1453.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67807.ts
 
 #EXTINF:-1, tvg-id="TSN4.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN4.ca.png" tvg-name="TSN 4"  group-title="Sukan",TSN 4
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/1455.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67806.ts
 
 #EXTINF:-1, tvg-id="TSN5.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN5.ca.png" tvg-name="TSN 5"  group-title="Sukan",TSN 5
-http://epictv.org:8080/live/iptvforever/JZvqcg58gs/34550.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/67805.ts
+
+#EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE"  group-title="Sukan",WWE
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/64444.ts
 
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure"  group-title="Muviee",Sky Cinema Action & Adventure
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/511.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63445.ts
 
 #EXTINF:-1, tvg-id="SkyComedy.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyComedy.uk.png" tvg-name="Sky Cinema Comedy"  group-title="Muviee",Sky Cinema Comedy
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/524.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63440.ts
 
-#EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney"  group-title="Muviee",Sky Cinema  Disney
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/516.ts
+#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63428.ts
 
 #EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance HD"  group-title="Muviee",Sky Cinema  Drama &  Romance HD
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/521.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63438.ts
 
 #EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family"  group-title="Muviee",Sky Cinema  Family
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/520.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63437.ts
 
 #EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere"  group-title="Muviee",Sky Cinema  Premiere
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/519.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63434.ts
 
 #EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror"  group-title="Muviee",Sky Cinema  Sci-Fi & Horror
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/515.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63431.ts
 
 #EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select"  group-title="Muviee",Sky Cinema  Select
-http://ipsatpro.com:8080/live/Sf1BTGJXvG/q3HLSBAguQ/517.ts
+http://zerocube.co:8000/live/JiXunm2Iei/bzwe2DhMg5/63430.ts
 
 #EXTINF:-1, tvg-id="AndPrive.in" tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng" tvg-name="&Prive HD"  group-title="Muviee",&Prive HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
@@ -165,3 +159,26 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" tvg-name="&Flix HD"  group-title="Muviee",&Flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
+#EXTINF:-1, tvg-id="AstroRia.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_120.png" tvg-name="Ria"  group-title="Melayu",Ria
+http://185.216.119.144:9910/smarttv.php?playurl=http://50.7.73.90:8278/Ria/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AstroOasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_120.png" tvg-name="Oasis"  group-title="Melayu",Oasis
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Oasis/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AstroWarna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_120.png" tvg-name="Warna"  group-title="Melayu",Warna
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Warna/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Maya.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/135_120.png" tvg-name="Maya"  group-title="Melayu",Maya
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Mayasd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png" tvg-name="Prima"  group-title="Melayu",Prima
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Prima/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AstroCitra.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_120.png" tvg-name="Citra"  group-title="Melayu",Citra
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Citra/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" tvg-name="Naura"  group-title="Melayu",Naura
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Naura/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.dramasangat.my/frontend/assets/images/icons/logo.png" tvg-name="Drama Sangat"  group-title="Melayu",Drama Sangat
+http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Drama/playlist.m3u8
