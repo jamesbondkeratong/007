@@ -1,0 +1,1691 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="B4U Movies">
+    <display-name lang="en">B4U Movies</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport 1 HD">
+    <display-name lang="en">BT Sport 1 HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport 2 HD">
+    <display-name lang="en">BT Sport 2 HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport Europe HD">
+    <display-name lang="en">BT Sport Europe HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport Extra 1">
+    <display-name lang="en">BT Sport Extra 1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport Extra 2">
+    <display-name lang="en">BT Sport Extra 2</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport Extra 3">
+    <display-name lang="en">BT Sport Extra 3</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport Extra 4">
+    <display-name lang="en">BT Sport Extra 4</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport Extra 5">
+    <display-name lang="en">BT Sport Extra 5</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport Extra 6">
+    <display-name lang="en">BT Sport Extra 6</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="BT Sport//ESPN HD">
+    <display-name lang="en">BT Sport//ESPN HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Eurosport 1 HD">
+    <display-name lang="en">Eurosport 1 HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="en">Eurosport 2 HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Action &amp; Adventure HD">
+    <display-name lang="en">Sky Movies Action &amp; Adventure HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Comedy HD">
+    <display-name lang="en">Sky Movies Comedy HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Crime &amp; Thriller HD">
+    <display-name lang="en">Sky Movies Crime &amp; Thriller HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Disney HD">
+    <display-name lang="en">Sky Movies Disney HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Drama &amp; Romance HD">
+    <display-name lang="en">Sky Movies Drama &amp; Romance HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Family HD">
+    <display-name lang="en">Sky Movies Family HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Greats HD">
+    <display-name lang="en">Sky Movies Greats HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Premiere +1">
+    <display-name lang="en">Sky Movies Premiere +1</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Premiere HD">
+    <display-name lang="en">Sky Movies Premiere HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Sci-Fi &amp; Horror HD">
+    <display-name lang="en">Sky Movies Sci-Fi &amp; Horror HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Select HD">
+    <display-name lang="en">Sky Movies Select HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Showcase HD">
+    <display-name lang="en">Sky Movies Showcase HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Movies Superheroes HD">
+    <display-name lang="en">Sky Movies Superheroes HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Sports Box Office HD">
+    <display-name lang="en">Sky Sports Box Office HD</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sony Channel">
+    <display-name lang="en">Sony Channel</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sony Entertainment TV Asia">
+    <display-name lang="en">Sony Entertainment TV Asia</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sony Movie Channel">
+    <display-name lang="en">Sony Movie Channel</display-name>
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <channel id="Sky Premiere">
+    <display-name lang="en">Sky Premiere</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1409.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Prem+1">
+    <display-name lang="en">Sky Prem+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1823.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Showcase">
+    <display-name lang="en">Sky Showcase</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1814.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Superheroes">
+    <display-name lang="en">Sky Superheroes</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1815.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Disney">
+    <display-name lang="en">Sky Disney</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1838.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Family">
+    <display-name lang="en">Sky Family</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1808.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Action">
+    <display-name lang="en">Sky Action</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1001.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Comedy">
+    <display-name lang="en">Sky Comedy</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1002.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Thriller">
+    <display-name lang="en">Sky Thriller</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1818.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkyDramaRom">
+    <display-name lang="en">SkyDramaRom</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1816.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky ScFi/Horror">
+    <display-name lang="en">Sky ScFi/Horror</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1807.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Select">
+    <display-name lang="en">Sky Select</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1811.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkyPremiereHD">
+    <display-name lang="en">SkyPremiereHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4021.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Film4 HD">
+    <display-name lang="en">Film4 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4044.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Film4 +1">
+    <display-name lang="en">Film4 +1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1629.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TCM HD">
+    <display-name lang="en">TCM HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3811.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="TCM+1">
+    <display-name lang="en">TCM+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5275.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="horror channel">
+    <display-name lang="en">horror channel</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3605.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="horror ch+1">
+    <display-name lang="en">horror ch+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4502.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Movies 1">
+    <display-name lang="en">True Movies 1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3643.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="True Movies 2">
+    <display-name lang="en">True Movies 2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3751.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sony Movies">
+    <display-name lang="en">Sony Movies</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3709.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sony Movies+1">
+    <display-name lang="en">Sony Movies+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3771.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="movies4men">
+    <display-name lang="en">movies4men</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3708.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="mov4men+1">
+    <display-name lang="en">mov4men+1</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3721.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Movies 24">
+    <display-name lang="en">Movies 24</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4420.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Movies 24+">
+    <display-name lang="en">Movies 24+</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4421.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Nollywood">
+    <display-name lang="en">Nollywood</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3510.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky ShowcseHD">
+    <display-name lang="en">Sky ShowcseHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4033.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="SkySuprheroHD">
+    <display-name lang="en">SkySuprheroHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4015.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Disney HD">
+    <display-name lang="en">Sky Disney HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4013.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Family HD">
+    <display-name lang="en">Sky Family HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4018.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Action HD">
+    <display-name lang="en">Sky Action HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4014.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Comedy HD">
+    <display-name lang="en">Sky Comedy HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4019.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Thriller HD">
+    <display-name lang="en">Sky Thriller HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4062.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky DraRomHD">
+    <display-name lang="en">Sky DraRomHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4016.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky ScFi/HorHD">
+    <display-name lang="en">Sky ScFi/HorHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4017.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Select HD">
+    <display-name lang="en">Sky Select HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4020.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky SpN HQ HD">
+    <display-name lang="en">Sky SpN HQ HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4049.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 1 HD">
+    <display-name lang="en">Sky Sports 1 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4002.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 2 HD">
+    <display-name lang="en">Sky Sports 2 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4081.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 3 HD">
+    <display-name lang="en">Sky Sports 3 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4022.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 4 HD">
+    <display-name lang="en">Sky Sports 4 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4026.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sports 5 HD">
+    <display-name lang="en">Sky Sports 5 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4010.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Spts F1 HD">
+    <display-name lang="en">Sky Spts F1 HD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3835.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Sky Sp NewsHQ">
+    <display-name lang="en">Sky Sp NewsHQ</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1314.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport//ESPN">
+    <display-name lang="en">BT Sport//ESPN</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3141.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Premier Sports">
+    <display-name lang="en">Premier Sports</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb5311.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BT Sport EurHD">
+    <display-name lang="en">BT Sport EurHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb3629.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="en">Eurosport 2</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb1841.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <channel id="BTSpt//ESPNHD">
+    <display-name lang="en">BTSpt//ESPNHD</display-name>
+    <icon src="http://tv.sky.com/logo/248/60/skychb4040.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
+  <programme start="20180926191100 +0100" stop="20180926200000 +0100" channel="B4U Movies">
+    <title lang="en">Star Stop</title>
+    <desc lang="en">An in-depth interview where your favourite Bollywood stars speak about their forthcoming movies as well as other aspects of their life(n)</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20180927192500 +0100" stop="20180927200200 +0100" channel="B4U Movies">
+    <title lang="en">Star Stop</title>
+    <desc lang="en">An in-depth interview where your favourite Bollywood stars speak about their forthcoming movies as well as other aspects of their life(n)</desc>
+    <category lang="en">Talk Show</category>
+  </programme>
+  <programme start="20180926120000 +0100" stop="20180926123000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Toyota AFL Highlights Show</title>
+    <desc lang="en">The best of the latest action from the Australian Football League, featuring in-depth analysis and exclusive behind-the-scenes access(n)</desc>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXaflhighser.jpg" />
+    <episode-num>Season 2018 Episode 28/</episode-num>
+  </programme>
+  <programme start="20180926163000 +0100" stop="20180926173000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">UEFA Champions League Review</title>
+    <desc lang="en">Highlights of matchweek one, including Inter Milan v Tottenham, Liverpool v Paris Saint-Germain and Manchester City v Lyon(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXUEFAreview2018E1.jpg" />
+    <episode-num>Season 2018 Episode 1/</episode-num>
+  </programme>
+  <programme start="20180926173000 +0100" stop="20180926174500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTplpremreload18.jpg" />
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180926174500 +0100" stop="20180926191500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Betfred Cup</title>
+    <desc lang="en">Hibernian v Aberdeen Hibernian host Aberdeen in the quarter-finals of the Betfred Cup at Easter Road. Jamie MacLaren got a late equaliser for Hibs when the pair met in the league back in August(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbetfredcup2018E10rpt.jpg" />
+    <episode-num>Season 2018 Episode 10/</episode-num>
+  </programme>
+  <programme start="20180926191500 +0100" stop="20180926220000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live Betfred Cup</title>
+    <desc lang="en">Live: St. Johnstone v Celtic St. Johnstone and Celtic go head-to-head in the quarter-finals of the Betfred Cup at McDiarmid Park. Celtic look to bounce back in the cup after defeat at Kilmarnock last weekend(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbetfredcup2018E11.jpg" />
+    <episode-num>Season 2018 Episode 11/</episode-num>
+  </programme>
+  <programme start="20180926220000 +0100" stop="20180926230000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">The Workers Cup</title>
+    <desc lang="en">The story behind some of the workers building the facilities of the 2022 World Cup who compete in a football tournament of their own known as The Workers Cup(n)</desc>
+    <category lang="en">Football - International</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXtheworkcup.jpg" />
+    <episode-num>Season 2018 Episode 1/</episode-num>
+  </programme>
+  <programme start="20180926230000 +0100" stop="20180927000000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Review</title>
+    <desc lang="en">A look back at the best of the recent action from the Premier League, as West Ham and Chelsea clashed in a London derby and Cardiff City entertained champions Manchester City(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXpremleaguerev2018E6.jpg" />
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180927000000 +0100" stop="20180927010000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shieds join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbtrugbytonight18.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180927023000 +0100" stop="20180927033000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Euroformula Open Championship</title>
+    <desc lang="en">Euroformula Championship Coverage of race one from the Euroformula Championship in Monza, Italy(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXeuroformchamprace1a.jpg" />
+    <episode-num>Season 2018 Episode 11/</episode-num>
+  </programme>
+  <programme start="20180927033000 +0100" stop="20180927043000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Euroformula Open Championship</title>
+    <desc lang="en">Euroformula Championship Coverage of race two from the Euroformula Championship in Monza, Italy(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXeuroformchamprace1a.jpg" />
+    <episode-num>Season 2018 Episode 12/</episode-num>
+  </programme>
+  <programme start="20180927043000 +0100" stop="20180927050000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Irish Rally Review</title>
+    <desc lang="en">Highlights of the Sligo Stages Rally, part of the Irish Rally series(n)</desc>
+    <category lang="en">Rallying</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXirishrallyrev.jpg" />
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180927050000 +0100" stop="20180927051500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport from the last week, exclusive interviews, the best action and so much more(n)</desc>
+    <category lang="en">General Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTsportreload18.jpg" />
+    <episode-num>Season 2018 Episode 38/</episode-num>
+  </programme>
+  <programme start="20180927051500 +0100" stop="20180927053000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">A round-up of the greatest goals from around the world, including action from Ligue 1 and the Bundesliga(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTgoalsreload18.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180927053000 +0100" stop="20180927060000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Toyota AFL Highlights Show</title>
+    <desc lang="en">The best of the latest action from the Australian Football League, featuring in-depth analysis and exclusive behind-the-scenes access(n)</desc>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXaflhighser.jpg" />
+    <episode-num>Season 2018 Episode 28/</episode-num>
+  </programme>
+  <programme start="20180927060000 +0100" stop="20180927070000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">FFA Cup</title>
+    <desc lang="en">FFA Cup: Leichhardt v Adelaide Utd After stunning Melbourne Victory in the previous round, Leichhardt Tigers look for another FFA Cup scalp as they host last year's runners-up Adelaide United in the quarter-finals(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXausFA2018E4.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180927070000 +0100" stop="20180927071500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">MotoGP Rewind</title>
+    <desc lang="en">Season 2018 Episode 14/(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmotogprewindbt.jpg" />
+    <episode-num>Season 2018 Episode 14/|Relive all the best action from the Grand Prix of Aragon in Spain, round 14 of the MotoGP season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180927071500 +0100" stop="20180927073000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport from the last week, exclusive interviews, the best action and so much more(n)</desc>
+    <category lang="en">General Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTsportreload18.jpg" />
+    <episode-num>Season 2018 Episode 38/</episode-num>
+  </programme>
+  <programme start="20180927073000 +0100" stop="20180927153000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live WTA Tennis</title>
+    <desc lang="en">Live WTA Tennis: Wuhan Open Action from the quarter-finals of the Wuhan Open in China(n)</desc>
+    <category lang="en">Tennis</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXwtatennsergen.jpg" />
+    <episode-num>Season 2018 Episode 24/</episode-num>
+  </programme>
+  <programme start="20180927153000 +0100" stop="20180927154500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Sport in Focus</title>
+    <desc lang="en">Sport in Focus: Pat Lam BT Sport talk to Bristol Bears coach Pat Lam in the lead up to the club's return to the Gallagher Premiership. The former Newcastle forward speaks about his plans for the Bears(n)</desc>
+    <category lang="en">General Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTsportfocus18.jpg" />
+  </programme>
+  <programme start="20180927154500 +0100" stop="20180927160000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">UEFA Europa League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures in the UEFA Europa League(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXeuropagoalsgen.jpg" />
+    <episode-num>Season 2018 Episode 1/</episode-num>
+  </programme>
+  <programme start="20180927160000 +0100" stop="20180927161500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport from the last week, exclusive interviews, the best action and so much more(n)</desc>
+    <category lang="en">General Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTsportreload18.jpg" />
+    <episode-num>Season 2018 Episode 38/</episode-num>
+  </programme>
+  <programme start="20180927161500 +0100" stop="20180927163000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Reload</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTplpremreload18.jpg" />
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180927163000 +0100" stop="20180927180000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Betfred Cup</title>
+    <desc lang="en">St. Johnstone v Celtic St. Johnstone and Celtic go head-to-head in the quarter-finals of the Betfred Cup at McDiarmid Park. Celtic look to bounce back in the cup after defeat at Kilmarnock last weekend(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbetfredcup2018E11rpt.jpg" />
+    <episode-num>Season 2018 Episode 11/</episode-num>
+  </programme>
+  <programme start="20180927180000 +0100" stop="20180927183000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">Sadio Mane recounts his journey from Senegal to Liverpool and Romelu Lukaku reveals how his early life has shaped his footballing character. Plus, a catch-up with Jonas Gutierrez(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplworldser18.jpg" />
+    <episode-num>Season 2018 Episode 15/</episode-num>
+  </programme>
+  <programme start="20180927183000 +0100" stop="20180927190000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Ligue 1 Show</title>
+    <desc lang="en">A look ahead to the upcoming action in Ligue 1, including Lille v Marseille, Nice v Paris Saint-Germain, Montpellier v Nimes and Reims v Bordeaux(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfrenchligueshow2018E8.jpg" />
+    <episode-num>Season 2018 Episode 8/</episode-num>
+  </programme>
+  <programme start="20180927190000 +0100" stop="20180927193000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Bundesliga Weekly</title>
+    <desc lang="en">A look ahead to the next batch of matches in the Bundesliga, including Hertha Berlin v Bayern Munich, Schalke v Mainz and Bayer Leverkusen v Borussia Dortmund(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbundesligaweekly2018E7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180927193000 +0100" stop="20180927213000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live Bundesliga 2</title>
+    <desc lang="en">Live: Greuther Furth v Hamburg Season 2018 Episode 15/(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbundesliga2S2018E15.jpg" />
+    <episode-num>Season 2018 Episode 15/|Greuther Furth meet Hamburg at Sportpark Ronhof Thomas Sommer in Bundesliga 2. Hamburg lie second in the table having won four of their six matches to date this season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180927213000 +0100" stop="20180927220000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Fight Night</title>
+    <desc lang="en">Ahead of their eagerly-anticipated domestic match-up in Leicester, super-lightweights Jack Catterall and Ohara Davies come face-to-face to discuss their upcoming bout(n)</desc>
+    <category lang="en">Boxing</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbtfightnightlive18.jpg" />
+    <episode-num>Season 2018 Episode 3/</episode-num>
+  </programme>
+  <programme start="20180927220000 +0100" stop="20180927230000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Bundesliga Highlights Show</title>
+    <desc lang="en">A round-up of all of the latest action from the Bundesliga. Including, Bayer Leverkusen's trip to Fortuna Dusseldorf and Bayern Munich clash with Augsburg at the Allianz Arena(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbundesligareview2018E5.jpg" />
+    <episode-num>Season 2018 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180927230000 +0100" stop="20180928000000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Ligue 1 Highlights</title>
+    <desc lang="en">A round-up of all the latest action from the top flight in France. Including, Reims visit to champions Paris Saint-Germain, Monaco faced Angers and Nice traveled to Nantes(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXFLreview2018E7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928000000 +0100" stop="20180928003000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">All the stats and facts ahead of the latest batch of Premier League games, including West Ham v Manchester United, Chelsea v Liverpool and Huddersfield Town v Tottenham(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplmpackbt.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928003000 +0100" stop="20180928010000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting fielding and offensive plays from the past week(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmlbbestser.jpg" />
+    <episode-num>Season 2018 Episode 25/</episode-num>
+  </programme>
+  <programme start="20180928010000 +0100" stop="20180928040000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live MLB</title>
+    <desc lang="en">Live MLB: Pirates @ Cubs Major League Baseball action as the Chicago Cubs host the Pittsburgh Pirates at Wrigley Field(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmlbgen6.jpg" />
+    <episode-num>Season 2018 Episode 322/</episode-num>
+  </programme>
+  <programme start="20180928040000 +0100" stop="20180928043000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">UFC Top 10</title>
+    <desc lang="en">UFC Top 10: Submission Artists A look at the top 10 UFC submission artists to grace the Octagon(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXufctop10ser.jpg" />
+    <episode-num>Season 2017 Episode 10/</episode-num>
+  </programme>
+  <programme start="20180928043000 +0100" stop="20180928050000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Ligue 1 Show</title>
+    <desc lang="en">A look ahead to the upcoming action in Ligue 1, including Lille v Marseille, Nice v Paris Saint-Germain, Montpellier v Nimes and Reims v Bordeaux(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfrenchligueshow2018E8.jpg" />
+    <episode-num>Season 2018 Episode 8/</episode-num>
+  </programme>
+  <programme start="20180928050000 +0100" stop="20180928060000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Red Bull Air Race Magazine</title>
+    <desc lang="en">All the latest news and action as the 2018 Red Bull Air Race lands in Austria for the sixth round of the championship(n)</desc>
+    <category lang="en">Extreme</category>
+    <category lang="en">Minority Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXrbairracemag.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928060000 +0100" stop="20180928073000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Betfred Cup</title>
+    <desc lang="en">St. Johnstone v Celtic St. Johnstone and Celtic go head-to-head in the quarter-finals of the Betfred Cup at McDiarmid Park. Celtic look to bounce back in the cup after defeat at Kilmarnock last weekend(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbetfredcup2018E11rpt.jpg" />
+    <episode-num>Season 2018 Episode 11/</episode-num>
+  </programme>
+  <programme start="20180928073000 +0100" stop="20180928093000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">WTA Tennis</title>
+    <desc lang="en">WTA Tennis: Wuhan Open Highlights Highlights from the quarter finals of the Wuhan Open in China(n)</desc>
+    <category lang="en">Tennis</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXwtatennissergen2.jpg" />
+    <episode-num>Season 2018 Episode 35/</episode-num>
+  </programme>
+  <programme start="20180928093000 +0100" stop="20180928133000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live WTA Tennis</title>
+    <desc lang="en">Live WTA Tennis: Wuhan Open Action from the semi-finals of the Wuhan Open in China(n)</desc>
+    <category lang="en">Tennis</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXwtatennsergen.jpg" />
+    <episode-num>Season 2018 Episode 28/</episode-num>
+  </programme>
+  <programme start="20180928133000 +0100" stop="20180928134500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures in the UEFA Champions League(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXuefaclgoalsgen.jpg" />
+    <episode-num>Season 2018 Episode 1/</episode-num>
+  </programme>
+  <programme start="20180928134500 +0100" stop="20180928141500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Ladbrokes SPFL Highlights</title>
+    <desc lang="en">All the latest action from the Ladbrokes Premiership, including Hearts v Livingston, Aberdeen v Motherwell, Rangers v St. Johnstone and Kilmarnock v Celtic(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlbspflhighser.jpg" />
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180928141500 +0100" stop="20180928151500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">FIA F3 European Championship Highlights</title>
+    <desc lang="en">All the best action from round nine of the FIA F3 European Championship at the Red Bull Ring in Austria(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXf13.jpg" />
+    <episode-num>Season 2018 Episode 9/</episode-num>
+  </programme>
+  <programme start="20180928151500 +0100" stop="20180928154500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Bundesliga Weekly</title>
+    <desc lang="en">A look ahead to the next batch of matches in the Bundesliga, including Hertha Berlin v Bayern Munich, Schalke v Mainz and Bayer Leverkusen v Borussia Dortmund(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbundesligaweekly2018E7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928154500 +0100" stop="20180928171500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Betfred Cup</title>
+    <desc lang="en">St. Johnstone v Celtic St. Johnstone and Celtic go head-to-head in the quarter-finals of the Betfred Cup at McDiarmid Park. Celtic look to bounce back in the cup after defeat at Kilmarnock last weekend(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbetfredcup2018E11rpt.jpg" />
+    <episode-num>Season 2018 Episode 11/</episode-num>
+  </programme>
+  <programme start="20180928171500 +0100" stop="20180928173000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Sport in Focus</title>
+    <desc lang="en">Sport in Focus: Pat Lam BT Sport talk to Bristol Bears coach Pat Lam in the lead up to the club's return to the Gallagher Premiership. The former Newcastle forward speaks about his plans for the Bears(n)</desc>
+    <category lang="en">General Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTsportfocus18.jpg" />
+  </programme>
+  <programme start="20180928173000 +0100" stop="20180928183000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shieds join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbtrugbytonight18.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180928183000 +0100" stop="20180928190000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A preview of the upcoming Premier League action as Chelsea host Liverpool, Manchester United travel to West Ham and Tottenham face Huddersfield at The John Smith's Stadium(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXPL2018previewE7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928190000 +0100" stop="20180928220000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live Gallagher Premiership Rugby Union</title>
+    <desc lang="en">Live: Newcastle Falcons v Wasps Newcastle Falcons and Wasps clash at Kingston Park in the Gallagher Premiership(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXgallrugby2018E15.jpg" />
+    <episode-num>Season 2018 Episode 15/</episode-num>
+  </programme>
+  <programme start="20180928220000 +0100" stop="20180928230000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">UFC: Beyond the Octagon</title>
+    <desc lang="en">With exclusive interviews and big fight analysis, Gareth A. Davies looks behind the scenes with the biggest names in the world of the UFC(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXUFCbeyond2016E54.jpg" />
+  </programme>
+  <programme start="20180928230000 +0100" stop="20180928233000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Fight Night</title>
+    <desc lang="en">Ahead of their eagerly-anticipated domestic match-up in Leicester, super-lightweights Jack Catterall and Ohara Davies come face-to-face to discuss their upcoming bout(n)</desc>
+    <category lang="en">Boxing</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbtfightnightlive18.jpg" />
+    <episode-num>Season 2018 Episode 3/</episode-num>
+  </programme>
+  <programme start="20180928233000 +0100" stop="20180929000000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A preview of the upcoming Premier League action as Chelsea host Liverpool, Manchester United travel to West Ham and Tottenham face Huddersfield at The John Smith's Stadium(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXPL2018previewE7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929000000 +0100" stop="20180929013000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
+    <desc lang="en">Newcastle Falcons v Wasps Newcastle Falcons and Wasps clash at Kingston Park in the Gallagher Premiership(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXgallrugby2018E15rpt.jpg" />
+    <episode-num>Season 2018 Episode 15/</episode-num>
+  </programme>
+  <programme start="20180929013000 +0100" stop="20180929020000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shieds join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbtrugbytonight18.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180929020000 +0100" stop="20180929033000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Ligue 1</title>
+    <desc lang="en">Saint-Etienne v Monaco Saint Etienne face-off against Monaco at Stade Geoffroy-Guichard in Ligue 1(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfrenchligue2018E35.jpg" />
+    <episode-num>Season 2018 Episode 35/</episode-num>
+  </programme>
+  <programme start="20180929033000 +0100" stop="20180929090000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live AFL</title>
+    <desc lang="en">Live AFL: West Coast v Collingwood West Coast Eagles face Collingwood in the Grand Final of the Australian Football League at the MCG. The Eagles came out on top when these two met in the qualifying final(n)</desc>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXaflgenser2.jpg" />
+    <episode-num>Season 2018 Episode 124/</episode-num>
+  </programme>
+  <programme start="20180929090000 +0100" stop="20180929091500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Fan TV - Call Yourself a Fan</title>
+    <desc lang="en">Arsenal and Manchester United fans take their rivalry from the pitch to the studio as they test their knowledge in a brand new quiz show hosted by Lynsey Hipgrave and Max Rushden(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfantvcallyselfafan.jpg" />
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180929091500 +0100" stop="20180929094500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A preview of the upcoming Premier League action as Chelsea host Liverpool, Manchester United travel to West Ham and Tottenham face Huddersfield at The John Smith's Stadium(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXPL2018previewE7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929094500 +0100" stop="20180929101500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">All the stats and facts ahead of the latest batch of Premier League games, including West Ham v Manchester United, Chelsea v Liverpool and Huddersfield Town v Tottenham(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplmpackbt.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929101500 +0100" stop="20180929104500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">Sadio Mane recounts his journey from Senegal to Liverpool and Romelu Lukaku reveals how his early life has shaped his footballing character. Plus, a catch-up with Jonas Gutierrez(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplworldser18.jpg" />
+    <episode-num>Season 2018 Episode 15/</episode-num>
+  </programme>
+  <programme start="20180929104500 +0100" stop="20180929111500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A preview of the upcoming Premier League action as Chelsea host Liverpool, Manchester United travel to West Ham and Tottenham face Huddersfield at The John Smith's Stadium(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXPL2018previewE7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929111500 +0100" stop="20180929113000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Fan TV - Call Yourself a Fan</title>
+    <desc lang="en">Arsenal and Manchester United fans take their rivalry from the pitch to the studio as they test their knowledge in a brand new quiz show hosted by Lynsey Hipgrave and Max Rushden(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfantvcallyselfafan.jpg" />
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180929113000 +0100" stop="20180929120000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live Saturday Morning Savage</title>
+    <desc lang="en">Robbie Savage is joined by Jules Breach, Chris Sutton, Dean Saunders, Kelly Smith and Tim Sherwood to preview all the top footballing action from across the country(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXsatmornsav.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929120000 +0100" stop="20180929144500 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live Premier League</title>
+    <desc lang="en">Live: West Ham v Manchester United Jose Mourinho's Manchester United side travel to the capital to face West Ham in the Premier League at the London Stadium(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXpremleague2018E7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929144500 +0100" stop="20180929170000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">BT Sport Score</title>
+    <desc lang="en">Mark Pougatch is joined by Jules Breach, Chris Sutton, Dean Saunders, Kelly Smith and Tim Sherwood to bring you all the scores from around the country. Join in using £BTSportScore(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTsportscore18.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929170000 +0100" stop="20180929200000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live Premier League</title>
+    <desc lang="en">Live: Chelsea v Liverpool Maurizio Sarri's Chelsea side host Liverpool in the Premier League at Stamford Bridge(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXpremleague2018E8.jpg" />
+    <episode-num>Season 2018 Episode 8/</episode-num>
+  </programme>
+  <programme start="20180929200000 +0100" stop="20180929210000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live Premier League Tonight</title>
+    <desc lang="en">Jake Humphrey is joined by Steve McManaman and Jermaine Jenas to review Saturday's games, including West Ham v Manchester United, Chelsea v Liverpool and Arsenal v Watford(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXliveplton1819.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929210000 +0100" stop="20180929230000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">Live Cage Warriors</title>
+    <desc lang="en">Live: Cage Warriors 97 Cage Warriors returns to Wales for the first time since 2014 as Jack Shore fights Jakub Wiklacz for the bantamweight title at Ice Arena Wales in Cardiff(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXcagewarriors2016E23.jpg" />
+  </programme>
+  <programme start="20180929230000 +0100" stop="20180930000000 +0100" channel="BT Sport 1 HD">
+    <title lang="en">UFC: The Ultimate Fighter</title>
+    <desc lang="en">Robert Whittaker and Kelvin Gastelum lead 16 of the world's unbeaten fighters to a shot at UFC glory(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXUFCultimatefighter.jpg" />
+    <episode-num>Season 27 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180926120000 +0100" stop="20180926121500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Sport in Focus</title>
+    <desc lang="en">Sport in Focus: Dominika Cibulkova Slovak Dominika Cibulkova, known for her quick and aggressive style of play on the court and her love of fashion off it, shares her story of how she reached the top of the game(n)</desc>
+    <category lang="en">General Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTsportfocus18.jpg" />
+  </programme>
+  <programme start="20180926121500 +0100" stop="20180926131500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">MotoGP</title>
+    <desc lang="en">MotoGP: Grand Prix of Aragon Coverage of the MotoGP race from the Grand Prix of Aragon, round 14 of the 2018 season. Spanish star Marc Marquez is looking for his third win in succession at this track(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmotogp2017gen.jpg" />
+    <episode-num>Season 2018 Episode 117/</episode-num>
+  </programme>
+  <programme start="20180926131500 +0100" stop="20180926141500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">MotoGP Chequered Flag</title>
+    <desc lang="en">Post-race show featuring analysis, highlights and interviews with all the key riders. Plus, a look behind the scenes with the team bosses and mechanics(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXchequeredflag.jpg" />
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180926151500 +0100" stop="20180926153000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">UEFA Champions League Goals Reload</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures in the UEFA Champions League(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXuefaclgoalsgen.jpg" />
+    <episode-num>Season 2018 Episode 1/</episode-num>
+  </programme>
+  <programme start="20180926153000 +0100" stop="20180926170000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League</title>
+    <desc lang="en">Brighton v Tottenham Chris Hughton's Brighton welcome Tottenham to the Amex Stadium in the Premier League. Mauricio Pochettino's side look to get back to winning ways after three defeats in a row(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplbhaspurs2.jpg" />
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180926170000 +0100" stop="20180926173000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">BT Sport Reload</title>
+    <desc lang="en">The best bits from BT Sport from the last week, exclusive interviews, the best action and so much more(n)</desc>
+    <category lang="en">General Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTsportreload18.jpg" />
+    <episode-num>Season 2018 Episode 38/</episode-num>
+  </programme>
+  <programme start="20180926173000 +0100" stop="20180926183000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FIM Speedway Highlights</title>
+    <desc lang="en">Relive all the best action from round nine of the FIM Speedway Grand Prix in Teterow, Germany(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXFIMspeedway.jpg" />
+    <episode-num>Season 2018 Episode 9/</episode-num>
+  </programme>
+  <programme start="20180926183000 +0100" stop="20180926193000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">MotoGP Highlights</title>
+    <desc lang="en">All the thrills and spills from the Grand Prix of Aragon, round 14 of the 2018 calendar(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmotogphighser.jpg" />
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180926193000 +0100" stop="20180926200000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">Sadio Mane recounts his journey from Senegal to Liverpool and Romelu Lukaku reveals how his early life has shaped his footballing character. Plus, a catch-up with Jonas Gutierrez(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplworldser18.jpg" />
+    <episode-num>Season 2018 Episode 15/</episode-num>
+  </programme>
+  <programme start="20180926200000 +0100" stop="20180926210000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live Rugby Tonight</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shields join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXrugbytonight18.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180926230000 +0100" stop="20180927000000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FIM Speedway Highlights</title>
+    <desc lang="en">Relive all the best action from round nine of the FIM Speedway Grand Prix in Teterow, Germany(n)</desc>
+    <category lang="en">Motorcycling</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXFIMspeedway.jpg" />
+    <episode-num>Season 2018 Episode 9/</episode-num>
+  </programme>
+  <programme start="20180927000000 +0100" stop="20180927010000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">MotoGP Highlights</title>
+    <desc lang="en">All the thrills and spills from the Grand Prix of Aragon, round 14 of the 2018 calendar(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmotogphighser.jpg" />
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180927010000 +0100" stop="20180927020000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Chelsea Classics</title>
+    <desc lang="en">Classic Chelsea matches from the football archives, featuring the 1991 First Division clash with Arsenal and the 1997 League Cup third round match against Blackburn Rovers. 7/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaclassicb.jpg" />
+  </programme>
+  <programme start="20180927020000 +0100" stop="20180927030000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Chelsea Classics</title>
+    <desc lang="en">Classic Chelsea matches from the football archives, featuring memorable League Cup clashes at Arsenal and against Everton . 8/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXChelseaclassic.jpg" />
+  </programme>
+  <programme start="20180927030000 +0100" stop="20180927040000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">UFC: The Ultimate Fighter</title>
+    <desc lang="en">Robert Whittaker and Kelvin Gastelum lead 16 of the world's unbeaten fighters to a shot at UFC glory(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXUFCAlvarezVGaethje.jpg" />
+    <episode-num>Season 28 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180927040000 +0100" stop="20180927050000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">Liverpool - Team of the Eighties A look back at some of the best players, goals and matches from a time when Liverpool ruled British and European football. 7/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfootclasslpoolteam80s9.jpg" />
+  </programme>
+  <programme start="20180927050000 +0100" stop="20180927060000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">Liverpool - Team of the Eighties A look back at some of the best players, goals and matches from a time when Liverpool ruled British and European football. 8/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfootclaslpoolteam80s10.jpg" />
+  </programme>
+  <programme start="20180927060000 +0100" stop="20180927140000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live WTA Tennis</title>
+    <desc lang="en">Live WTA Tennis: Tashkent Open Action from the quarter-finals of the Tashkent Open in Uzbekistan(n)</desc>
+    <category lang="en">Tennis</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXwtatennsergen.jpg" />
+    <episode-num>Season 2018 Episode 10/</episode-num>
+  </programme>
+  <programme start="20180927140000 +0100" stop="20180927143000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Toyota AFL Highlights Show</title>
+    <desc lang="en">The best of the latest action from the Australian Football League, featuring in-depth analysis and exclusive behind-the-scenes access(n)</desc>
+    <category lang="en">Australian Rules Football</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXaflhighser.jpg" />
+    <episode-num>Season 2018 Episode 28/</episode-num>
+  </programme>
+  <programme start="20180927143000 +0100" stop="20180927153000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Chelsea Classics</title>
+    <desc lang="en">Classic Chelsea matches from the football archives, featuring the 1972 league clash with Leeds United and the 1998 League Cup semi-final second leg against Arsenal. 3/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXclasschelsea98.jpg" />
+  </programme>
+  <programme start="20180927153000 +0100" stop="20180927163000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Chelsea Classics</title>
+    <desc lang="en">Classic Chelsea matches from the football archives, featuring the 1982 FA Cup fifth round clash against Liverpool and the 1998 League Cup third round tie with Aston Villa. 4/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXchelclassser.jpg" />
+  </programme>
+  <programme start="20180927163000 +0100" stop="20180927173000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">Liverpool: Team of the Eighties A look back at some of the best players, goals and matches from a time when Liverpool ruled British and European football. 3/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfootclasslpool80s5.jpg" />
+  </programme>
+  <programme start="20180927173000 +0100" stop="20180927183000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">Liverpool: Team of the Eighties A look back at some of the best players, goals and matches from a time when Liverpool ruled British and European football. 4/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfballclassser.jpg" />
+  </programme>
+  <programme start="20180927183000 +0100" stop="20180927200000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Betfred Cup</title>
+    <desc lang="en">Hibernian v Aberdeen Hibernian host Aberdeen in the quarter-finals of the Betfred Cup at Easter Road. Jamie MacLaren got a late equaliser for Hibs when the pair met in the league back in August(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbetfredcup2018E10rpt.jpg" />
+    <episode-num>Season 2018 Episode 10/</episode-num>
+  </programme>
+  <programme start="20180927200000 +0100" stop="20180927213000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Betfred Cup</title>
+    <desc lang="en">St. Johnstone v Celtic St. Johnstone and Celtic go head-to-head in the quarter-finals of the Betfred Cup at McDiarmid Park. Celtic look to bounce back in the cup after defeat at Kilmarnock last weekend(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbetfredcup2018E11rpt.jpg" />
+    <episode-num>Season 2018 Episode 11/</episode-num>
+  </programme>
+  <programme start="20180927213000 +0100" stop="20180927220000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">All the stats and facts ahead of the latest batch of Premier League games, including West Ham v Manchester United, Chelsea v Liverpool and Huddersfield Town v Tottenham(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplmpackbt.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180927220000 +0100" stop="20180927230000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">UFC: The Ultimate Fighter</title>
+    <desc lang="en">Robert Whittaker and Kelvin Gastelum lead 16 of the world's unbeaten fighters to a shot at UFC glory(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXUFCAlvarezVGaethje.jpg" />
+    <episode-num>Season 28 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180927230000 +0100" stop="20180927233000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">Sadio Mane recounts his journey from Senegal to Liverpool and Romelu Lukaku reveals how his early life has shaped his footballing character. Plus, a catch-up with Jonas Gutierrez(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplworldser18.jpg" />
+    <episode-num>Season 2018 Episode 15/</episode-num>
+  </programme>
+  <programme start="20180927233000 +0100" stop="20180928000000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Ladbrokes SPFL Highlights</title>
+    <desc lang="en">All the latest action from the Ladbrokes Premiership, including Hearts v Livingston, Aberdeen v Motherwell, Rangers v St. Johnstone and Kilmarnock v Celtic(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlbspflhighser.jpg" />
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180928000000 +0100" stop="20180928010000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">Liverpool: Team of the Seventies A look back at some of the best players, goals and matches from Liverpool's golden era, as the Shankly and Paisley glory years are revisited. 1/2(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfootclasslpool70spt1.jpg" />
+  </programme>
+  <programme start="20180928010000 +0100" stop="20180928020000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">Liverpool: Team of the Seventies A look back at some of the best players, goals and matches from Liverpool's golden era, as the Shankly and Paisley glory years are revisited(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfootclasslpool70spt2.jpg" />
+  </programme>
+  <programme start="20180928020000 +0100" stop="20180928030000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">MotoGP Highlights</title>
+    <desc lang="en">All the thrills and spills from the Grand Prix of Aragon, round 14 of the 2018 calendar(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmotogphighser.jpg" />
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180928030000 +0100" stop="20180928040000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Fishing</title>
+    <desc lang="en">Fishing: On The Bank: 2017 Highlights of the 2017 British Carp Angling Championships at Wraysbury, one of the most high profile competitions in the angling calendar(n)</desc>
+    <category lang="en">Fishing</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfishonbankser.jpg" />
+  </programme>
+  <programme start="20180928040000 +0100" stop="20180928050000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">International GT Open Championship</title>
+    <desc lang="en">Coverage of race one from the International GT Open Championship at Monza(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXintgtopenchamp.jpg" />
+    <episode-num>Season 2018 Episode 11/</episode-num>
+  </programme>
+  <programme start="20180928050000 +0100" stop="20180928060000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">International GT Open Championship</title>
+    <desc lang="en">Coverage of race two from the International GT Open Championship at Monza(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXintgtopenchamp.jpg" />
+    <episode-num>Season 2018 Episode 12/</episode-num>
+  </programme>
+  <programme start="20180928060000 +0100" stop="20180928070000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Fishing</title>
+    <desc lang="en">Fishing: On The Bank: 2017 Highlights of the 2017 British Carp Angling Championships at Wraysbury, one of the most high profile competitions in the angling calendar(n)</desc>
+    <category lang="en">Fishing</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfishonbankser.jpg" />
+  </programme>
+  <programme start="20180928070000 +0100" stop="20180928110000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live WTA Tennis</title>
+    <desc lang="en">Live WTA Tennis: Tashkent Open Action from the semi-finals of the Tashkent Open in Uzbekistan(n)</desc>
+    <category lang="en">Tennis</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXwtatennsergen.jpg" />
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180928110000 +0100" stop="20180928113000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League Match Pack</title>
+    <desc lang="en">All the stats and facts ahead of the latest batch of Premier League games, including West Ham v Manchester United, Chelsea v Liverpool and Huddersfield Town v Tottenham(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplmpackbt.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928113000 +0100" stop="20180928120000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League World</title>
+    <desc lang="en">Sadio Mane recounts his journey from Senegal to Liverpool and Romelu Lukaku reveals how his early life has shaped his footballing character. Plus, a catch-up with Jonas Gutierrez(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXplworldser18.jpg" />
+    <episode-num>Season 2018 Episode 15/</episode-num>
+  </programme>
+  <programme start="20180928120000 +0100" stop="20180928140000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">US Game of the Week</title>
+    <desc lang="en">The best match-up of the week from the USA(n)</desc>
+    <category lang="en">General Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXusgameweek18.jpg" />
+    <episode-num>Season 2018 Episode 39/</episode-num>
+  </programme>
+  <programme start="20180928140000 +0100" stop="20180928143000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Bundesliga Weekly</title>
+    <desc lang="en">A look ahead to the next batch of matches in the Bundesliga, including Hertha Berlin v Bayern Munich, Schalke v Mainz and Bayer Leverkusen v Borussia Dortmund(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbundesligaweekly2018E7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928143000 +0100" stop="20180928153000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Chelsea Classics</title>
+    <desc lang="en">Classic Chelsea matches from the football archives, featuring memorable league clashes against Crystal Palace and Manchester United . 5/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfootclasschelseapt5.jpg" />
+  </programme>
+  <programme start="20180928153000 +0100" stop="20180928163000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Chelsea Classics</title>
+    <desc lang="en">Classic Chelsea matches from the football archives, featuring the 2005 League Cup semi-final at Manchester United and the 1978 FA Cup third round clash against Liverpool. 6/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXfootclasschelseapt6.jpg" />
+  </programme>
+  <programme start="20180928163000 +0100" stop="20180928173000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">Liverpool - Team of the Eighties A look back at some of the best players, goals and matches from a time when Liverpool ruled British and European football. 5/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANX80sLiverpoolb.jpg" />
+  </programme>
+  <programme start="20180928173000 +0100" stop="20180928183000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Football Classics</title>
+    <desc lang="en">Liverpool - Team of the Eighties A look back at some of the best players, goals and matches from a time when Liverpool ruled British and European football. 6/8(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANX80sLiverpool.jpg" />
+  </programme>
+  <programme start="20180928183000 +0100" stop="20180928184500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">BT Sport Goals Reload</title>
+    <desc lang="en">A round-up of the greatest goals from around the world, including action from Ligue 1 and the Bundesliga(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXBTgoalsreload18.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180928184500 +0100" stop="20180928191500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Bundesliga Weekly</title>
+    <desc lang="en">A look ahead to the next batch of matches in the Bundesliga, including Hertha Berlin v Bayern Munich, Schalke v Mainz and Bayer Leverkusen v Borussia Dortmund(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbundesligaweekly2018E7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928191500 +0100" stop="20180928213000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live Bundesliga</title>
+    <desc lang="en">Live: Hertha Berlin v Bayern Hertha Berlin face Bayern Munich in the Bundesliga at the Olympiastadion in the German capital(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbudesliga2018E46.jpg" />
+  </programme>
+  <programme start="20180928213000 +0100" stop="20180928220000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXuefaclmagazine.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180928220000 +0100" stop="20180928230000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">UEFA Europa League Magazine</title>
+    <desc lang="en">A round-up of all the latest action from the UEFA Europa League(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXeuropaleaguemag.jpg" />
+    <episode-num>Season 2018 Episode 2/</episode-num>
+  </programme>
+  <programme start="20180928230000 +0100" stop="20180929000000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">FIA F3 European Championship Highlights</title>
+    <desc lang="en">All the best action from round nine of the FIA F3 European Championship at the Red Bull Ring in Austria(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXf13.jpg" />
+    <episode-num>Season 2018 Episode 9/</episode-num>
+  </programme>
+  <programme start="20180929000000 +0100" stop="20180929030000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live MLB</title>
+    <desc lang="en">Live MLB: Yankees @ Red Sox Major League Baseball action as the Boston Red Sox face the New York Yankees at Fenway Park(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmlbgen6.jpg" />
+    <episode-num>Season 2018 Episode 324/</episode-num>
+  </programme>
+  <programme start="20180929030000 +0100" stop="20180929033000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">MLB's Best</title>
+    <desc lang="en">This weekly MLB highlights show showcases the most exciting fielding and offensive plays from the past week(n)</desc>
+    <category lang="en">Baseball</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXmlbbestser.jpg" />
+    <episode-num>Season 2018 Episode 25/</episode-num>
+  </programme>
+  <programme start="20180929033000 +0100" stop="20180929040000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">UFC Connected</title>
+    <desc lang="en">UFC Connected brings fans a unique look inside the UFC with exclusive access to fighters, teams and events from around the globe(n)</desc>
+    <category lang="en">Martial Sports</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXufcconnser.jpg" />
+    <episode-num>Season 2018 Episode 9/</episode-num>
+  </programme>
+  <programme start="20180929040000 +0100" stop="20180929053000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Gallagher Premiership Rugby Union</title>
+    <desc lang="en">Newcastle Falcons v Wasps Newcastle Falcons and Wasps clash at Kingston Park in the Gallagher Premiership(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXgallrugby2018E15rpt.jpg" />
+    <episode-num>Season 2018 Episode 15/</episode-num>
+  </programme>
+  <programme start="20180929053000 +0100" stop="20180929060000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shieds join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbtrugbytonight18.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180929060000 +0100" stop="20180929073000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Bundesliga</title>
+    <desc lang="en">Hertha Berlin v Bayern Munich Hertha Berlin face Bayern Munich in the Bundesliga at the Olympiastadion in the German capital(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbudesliga2018E46rpt.jpg" />
+    <episode-num>Season 2018 Episode 46/</episode-num>
+  </programme>
+  <programme start="20180929073000 +0100" stop="20180929080000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Premier League Preview</title>
+    <desc lang="en">A preview of the upcoming Premier League action as Chelsea host Liverpool, Manchester United travel to West Ham and Tottenham face Huddersfield at The John Smith's Stadium(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXPL2018previewE7.jpg" />
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180929080000 +0100" stop="20180929103000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live WTA Tennis</title>
+    <desc lang="en">Live WTA Tennis: Tashkent Open Action from the final of the Tashkent Open in Uzbekistan(n)</desc>
+    <category lang="en">Tennis</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXwtatennsergen.jpg" />
+  </programme>
+  <programme start="20180929103000 +0100" stop="20180929113000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">AMA Endurocross</title>
+    <desc lang="en">All the best action from round three of the AMA EnduroCross in Reno, Nevada(n)</desc>
+    <category lang="en">Motor Sport</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXamaendurcross.jpg" />
+    <episode-num>Season 2018 Episode 3/</episode-num>
+  </programme>
+  <programme start="20180929113000 +0100" stop="20180929120000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Rugby Tonight</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shieds join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbtrugbytonight18.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180929120000 +0100" stop="20180929143000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live WTA Tennis</title>
+    <desc lang="en">Live WTA Tennis: Wuhan Open Action from the final of the Wuhan Open in China(n)</desc>
+    <category lang="en">Tennis</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXwtatennsergen.jpg" />
+    <episode-num>Season 2018 Episode 30/</episode-num>
+  </programme>
+  <programme start="20180929143000 +0100" stop="20180929171500 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live Gallagher Premiership Rugby Union</title>
+    <desc lang="en">Live: Saracens v Bath Rugby Saracens host Bath in the Gallagher Premiership at Allianz Park(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXlvgallpremru18.jpg" />
+    <episode-num>Season 2018 Episode 16/</episode-num>
+  </programme>
+  <programme start="20180929171500 +0100" stop="20180929193000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live Bundesliga</title>
+    <desc lang="en">Live: B Leverkusen v B Dortmund Bayer Leverkusen go toe-to-toe with Borussia Dortmund at the BayArena(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbundesliga2018E52rpt.jpg" />
+    <episode-num>Season 2018 Episode 52/</episode-num>
+  </programme>
+  <programme start="20180929193000 +0100" stop="20180929200000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXuefaclmagazine.jpg" />
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180929200000 +0100" stop="20180929210000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Bundesliga</title>
+    <desc lang="en">Hoffenheim v RB Leipzig Hoffenheim host RB Leipzig in the Bundesliga at the Rhein-Neckar Arena(n)</desc>
+    <category lang="en">Football - Club</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXbundesliga2018E47.jpg" />
+    <episode-num>Season 2018 Episode 47/</episode-num>
+  </programme>
+  <programme start="20180929210000 +0100" stop="20180929230000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Gallagher Premiership Rugby Highlights</title>
+    <desc lang="en">All the recent action from the Gallagher Premiership, including Saracens v Bath, Exeter Chiefs v Worcester, Gloucester v Harlequins, Leicester v Sale and Bristol v Northampton(n)</desc>
+    <category lang="en">Rugby Union - Domestic</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXgallrugby2018HLE10.jpg" />
+    <episode-num>Season 2018 Episode 10/</episode-num>
+  </programme>
+  <programme start="20180929230000 +0100" stop="20180930020000 +0100" channel="BT Sport 2 HD">
+    <title lang="en">Live College Football</title>
+    <desc lang="en">Live CFB: Florida @ Mississippi St College football action as the Mississippi State Bulldogs host the Florida Gators at Davis Wade Stadium(n)</desc>
+    <category lang="en">American Football</category>
+    <icon src="https://i.yo.tv/tvguide_pictures/webANXcollegefootballgen.jpg" />
+    <episode-num>Season 2018 Episode 46/</episode-num>
+  </programme>
+  <programme start="20180926073000 +0100" stop="20180926090000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Ligue 1 (?)</title>
+    <desc lang="en">Toulouse v St Etienne Toulouse entertain Saint Etienne in the eastern French derby in Ligue 1. Toulouse are unbeaten at home in their last three, while the visitors look for a first away league win(n)</desc>
+    <episode-num>Season 2018 Episode 32/</episode-num>
+  </programme>
+  <programme start="20180926090000 +0100" stop="20180926103000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Werder Bremen v Hertha Berlin Expect a close encounter as Werder Bremen and Hertha Berlin go head-to-head in the Bundesliga at Weserstadion. The pair have shared the spoils in four of their last six meetings(n)</desc>
+    <episode-num>Season 2018 Episode 37/</episode-num>
+  </programme>
+  <programme start="20180926103000 +0100" stop="20180926123000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live FFA Cup (?)</title>
+    <desc lang="en">Live: Leichhardt v Adelaide Utd After stunning Melbourne Victory in the previous round, Leichhardt Tigers look for another FFA Cup scalp as they host last year's runners-up Adelaide United in the quarter-finals(n)</desc>
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180926123000 +0100" stop="20180926130000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga Special (?)</title>
+    <desc lang="en">The Bundesliga has more French players in it than ever before and this week we look at World Cup winners Corentin Tolisso and Benjamin Pavard who ply their trade in Germany(n)</desc>
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180926143000 +0100" stop="20180926160000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Hannover v Hoffenheim Hannover and Hoffenheim meet in the Bundesliga at the HDI-Arena. Hannover have won their last two at home against Hoffenheim, but lost 3-1 when the pair last met in April(n)</desc>
+    <episode-num>Season 2018 Episode 39/</episode-num>
+  </programme>
+  <programme start="20180926160000 +0100" stop="20180926173000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Freiburg v Schalke Freiburg take on Schalke in the Bundesliga at Schwarzwald-Stadion. Freiburg are yet to keep a clean sheet in the league this season, while Schalke sit bottom after four defeats(n)</desc>
+    <episode-num>Season 2018 Episode 40/</episode-num>
+  </programme>
+  <programme start="20180926173000 +0100" stop="20180926193000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live Bundesliga (?)</title>
+    <desc lang="en">Live: Fortuna v Bayer Leverkusen Fortuna Dusseldorf and Bayer Leverkusen clash at the Merkur Spiel-Arena in the Bundesliga. Dusseldorf haven't beaten Leverkusen at home since 1990(n)</desc>
+    <episode-num>Season 2018 Episode 41/</episode-num>
+  </programme>
+  <programme start="20180926193000 +0100" stop="20180926213000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live Bundesliga (?)</title>
+    <desc lang="en">Live: B Dortmund v Nuremberg Borussia Dortmund host Nuremberg in the Bundesliga at Signal Iduna Park. Dortmund have been in fine form at home with six wins from their last seven in the league(n)</desc>
+    <episode-num>Season 2018 Episode 42/</episode-num>
+  </programme>
+  <programme start="20180926213000 +0100" stop="20180926214500 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Fan TV - Call Yourself a Fan (?)</title>
+    <desc lang="en">Arsenal and Manchester United fans take their rivalry from the pitch to the studio as they test their knowledge in a brand new quiz show hosted by Lynsey Hipgrave and Max Rushden(n)</desc>
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180926214500 +0100" stop="20180926220000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">MotoGP Rewind (?)</title>
+    <desc lang="en">Season 2018 Episode 14/(n)</desc>
+    <episode-num>Season 2018 Episode 14/|Relive all the best action from the Grand Prix of Aragon in Spain, round 14 of the MotoGP season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180926220000 +0100" stop="20180926221500 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Sport in Focus (?)</title>
+    <desc lang="en">Sport in Focus: Pat Lam BT Sport talk to Bristol Bears coach Pat Lam in the lead up to the club's return to the Gallagher Premiership. The former Newcastle forward speaks about his plans for the Bears(n)</desc>
+  </programme>
+  <programme start="20180927004500 +0100" stop="20180927014500 +0100" channel="BT Sport Europe HD">
+    <title lang="en">UFC Unleashed (?)</title>
+    <desc lang="en">Sometimes losing in the Octagon can be the biggest lesson of all. Take a look back at three of the greatest bouncebacks in UFC history, featuring Overeem v Hunt and Lewis v Tybura(n)</desc>
+    <episode-num>Season 2018 Episode 8/</episode-num>
+  </programme>
+  <programme start="20180927014500 +0100" stop="20180927021500 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Toyota AFL Highlights Show (?)</title>
+    <desc lang="en">The best of the latest action from the Australian Football League, featuring in-depth analysis and exclusive behind-the-scenes access(n)</desc>
+    <episode-num>Season 2018 Episode 28/</episode-num>
+  </programme>
+  <programme start="20180927021500 +0100" stop="20180927023000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">MotoGP Rewind (?)</title>
+    <desc lang="en">Season 2018 Episode 14/(n)</desc>
+    <episode-num>Season 2018 Episode 14/|Relive all the best action from the Grand Prix of Aragon in Spain, round 14 of the MotoGP season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180927023000 +0100" stop="20180927030000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Irish Rally Review (?)</title>
+    <desc lang="en">Highlights of the Sligo Stages Rally, part of the Irish Rally series(n)</desc>
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180927030000 +0100" stop="20180927031500 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Fan TV - Call Yourself a Fan (?)</title>
+    <desc lang="en">Arsenal and Manchester United fans take their rivalry from the pitch to the studio as they test their knowledge in a brand new quiz show hosted by Lynsey Hipgrave and Max Rushden(n)</desc>
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180927031500 +0100" stop="20180927034500 +0100" channel="BT Sport Europe HD">
+    <title lang="en">BT Sport Reload (?)</title>
+    <desc lang="en">The best bits from BT Sport from the last week, exclusive interviews, the best action and so much more(n)</desc>
+    <episode-num>Season 2018 Episode 38/</episode-num>
+  </programme>
+  <programme start="20180927034500 +0100" stop="20180927040000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">UEFA Champions League Goals Reload (?)</title>
+    <desc lang="en">The pick of the goals from the latest round of fixtures in the UEFA Champions League(n)</desc>
+    <episode-num>Season 2018 Episode 1/</episode-num>
+  </programme>
+  <programme start="20180927040000 +0100" stop="20180927050000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Red Bull MotoGP Rookies Cup (?)</title>
+    <desc lang="en">Season 2018 Episode 11/(n)</desc>
+    <episode-num>Season 2018 Episode 11/|The first race of round seven of the Red Bull MotoGP Rookies Cup at Motorland Aragon. Young riders battle for podium places in the last and most thrilling laps of the season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180927050000 +0100" stop="20180927060000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Red Bull MotoGP Rookies Cup (?)</title>
+    <desc lang="en">Season 2018 Episode 12/(n)</desc>
+    <episode-num>Season 2018 Episode 12/|The second race of round seven of the Red Bull MotoGP Rookies Cup at Motorland Aragon. Young riders battle for podium places in the last and most thrilling laps of the season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180927060000 +0100" stop="20180927073000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Fortuna v Bayer Leverkusen Fortuna Dusseldorf and Bayer Leverkusen clash at the Merkur Spiel-Arena in the Bundesliga. Dusseldorf haven't beaten Leverkusen at home since 1990(n)</desc>
+    <episode-num>Season 2018 Episode 41/</episode-num>
+  </programme>
+  <programme start="20180927073000 +0100" stop="20180927090000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Borussia Dortmund v Nuremberg Borussia Dortmund host Nuremberg in the Bundesliga at Signal Iduna Park. Dortmund have been in fine form at home with six wins from their last seven in the league(n)</desc>
+    <episode-num>Season 2018 Episode 42/</episode-num>
+  </programme>
+  <programme start="20180927090000 +0100" stop="20180927103000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">RB Leipzig v Stuttgart Stuttgart, still looking for their first competitive win this season, visit RB Leipzig at the Red Bull Arena. The hosts hope to continue their four-game unbeaten Bundesliga run(n)</desc>
+    <episode-num>Season 2018 Episode 43/</episode-num>
+  </programme>
+  <programme start="20180927103000 +0100" stop="20180927120000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Gladbach v Eintracht Frankfurt Borussia Monchengladbach look to return to winning ways as they entertain Eintracht Frankfurt in the Bundesliga at Borussia-Park. Frankfurt are unbeaten in the last five meetings(n)</desc>
+    <episode-num>Season 2018 Episode 44/</episode-num>
+  </programme>
+  <programme start="20180927120000 +0100" stop="20180927133000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Mainz v Wolfsburg Season 2018 Episode 45/(n)</desc>
+    <episode-num>Season 2018 Episode 45/|Mainz and Wolfsburg will both be hoping to bounce back from their first defeats of the season as they clash in the Bundesliga at the Opel Arena. The two drew 1-1 here last season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180927133000 +0100" stop="20180927143000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Ligue 1 (?)</title>
+    <desc lang="en">Marseille v Strasbourg Strasbourg visit Marseille at the Orange Velodrome in Ligue 1. Marseille's three match unbeaten run in the league came to a stop at the weekend as they lost 4-2 at Lyon(n)</desc>
+    <episode-num>Season 2018 Episode 33/</episode-num>
+  </programme>
+  <programme start="20180927143000 +0100" stop="20180927153000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Ligue 1 (?)</title>
+    <desc lang="en">Paris Saint-Germain v Reims Season 2018 Episode 34/(n)</desc>
+    <episode-num>Season 2018 Episode 34/|Thomas Tuchel's Paris Saint Germain side face Reims at the Parc des Princes. The defending champions have won six in a row to start the season scoring 20 and conceding five   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180927153000 +0100" stop="20180927163000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga Highlights Show (?)</title>
+    <desc lang="en">A round-up of all of the latest action from the Bundesliga. Including, Bayer Leverkusen's trip to Fortuna Dusseldorf and Bayern Munich clash with Augsburg at the Allianz Arena(n)</desc>
+    <episode-num>Season 2018 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180927163000 +0100" stop="20180927173000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">MotoGP Highlights (?)</title>
+    <desc lang="en">All the thrills and spills from the Grand Prix of Aragon, round 14 of the 2018 calendar(n)</desc>
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180927173000 +0100" stop="20180927183000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Blancpain GT Sprint Series Review (?)</title>
+    <desc lang="en">Highlights from the fifth round of the Blancpain GT Sprint Series at the Nurburgring in Germany(n)</desc>
+    <episode-num>Season 2018 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180927183000 +0100" stop="20180927190000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">AMA Endurocross (?)</title>
+    <desc lang="en">All the best action from round three of the AMA EnduroCross in Reno, Nevada(n)</desc>
+    <episode-num>Season 2018 Episode 3/</episode-num>
+  </programme>
+  <programme start="20180927190000 +0100" stop="20180927200000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Ligue 1 Highlights (?)</title>
+    <desc lang="en">A round-up of all the latest action from the top flight in France. Including, Reims visit to champions Paris Saint-Germain, Monaco faced Angers and Nice traveled to Nantes(n)</desc>
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180927200000 +0100" stop="20180927210000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Rugby Tonight (?)</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shieds join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180927210000 +0100" stop="20180927220000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Fishing (?)</title>
+    <desc lang="en">Fishing: On The Bank: 2017 Highlights of the 2017 British Carp Angling Championships at Wraysbury, one of the most high profile competitions in the angling calendar(n)</desc>
+  </programme>
+  <programme start="20180927220000 +0100" stop="20180927230000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">MotoGP Highlights (?)</title>
+    <desc lang="en">All the thrills and spills from the Grand Prix of Aragon, round 14 of the 2018 calendar(n)</desc>
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180927230000 +0100" stop="20180928013000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">UFC Greatest Fights (?)</title>
+    <desc lang="en">UFC 25 Greatest Fights In celebration of UFC's 25th anniversary, relive the 25 finest bouts to ever take place in the Octagon(n)</desc>
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180928013000 +0100" stop="20180928030000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga 2 (?)</title>
+    <desc lang="en">Greuther Furth v Hamburg Season 2018 Episode 15/(n)</desc>
+    <episode-num>Season 2018 Episode 15/|Greuther Furth meet Hamburg at Sportpark Ronhof Thomas Sommer in Bundesliga 2. Hamburg lie second in the table having won four of their six matches to date this season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180928030000 +0100" stop="20180928040000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">UFC: The Ultimate Fighter (?)</title>
+    <desc lang="en">Robert Whittaker and Kelvin Gastelum lead 16 of the world's unbeaten fighters to a shot at UFC glory(n)</desc>
+    <episode-num>Season 28 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180928040000 +0100" stop="20180928053000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Werder Bremen v Hertha Berlin Expect a close encounter as Werder Bremen and Hertha Berlin go head-to-head in the Bundesliga at Weserstadion. The pair have shared the spoils in four of their last six meetings(n)</desc>
+    <episode-num>Season 2018 Episode 37/</episode-num>
+  </programme>
+  <programme start="20180928053000 +0100" stop="20180928060000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">British Jet Sport Racing Championships (?)</title>
+    <desc lang="en">Highlights from round six of the British Jet Sport Racing Championship(n)</desc>
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180928060000 +0100" stop="20180928073000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga 2 (?)</title>
+    <desc lang="en">Greuther Furth v Hamburg Season 2018 Episode 15/(n)</desc>
+    <episode-num>Season 2018 Episode 15/|Greuther Furth meet Hamburg at Sportpark Ronhof Thomas Sommer in Bundesliga 2. Hamburg lie second in the table having won four of their six matches to date this season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180928073000 +0100" stop="20180928080000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Ligue 1 Show (?)</title>
+    <desc lang="en">A look ahead to the upcoming action in Ligue 1, including Lille v Marseille, Nice v Paris Saint-Germain, Montpellier v Nimes and Reims v Bordeaux(n)</desc>
+    <episode-num>Season 2018 Episode 8/</episode-num>
+  </programme>
+  <programme start="20180928080000 +0100" stop="20180928090000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Rugby Tonight (?)</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shieds join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180928090000 +0100" stop="20180928100000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Blancpain GT Sprint Series Review (?)</title>
+    <desc lang="en">Highlights from the fifth round of the Blancpain GT Sprint Series at the Nurburgring in Germany(n)</desc>
+    <episode-num>Season 2018 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180928100000 +0100" stop="20180928110000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">MotoGP Highlights (?)</title>
+    <desc lang="en">All the thrills and spills from the Grand Prix of Aragon, round 14 of the 2018 calendar(n)</desc>
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180928110000 +0100" stop="20180928120000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">International GT Open Championship (?)</title>
+    <desc lang="en">Coverage of race one from the International GT Open Championship at Monza(n)</desc>
+    <episode-num>Season 2018 Episode 11/</episode-num>
+  </programme>
+  <programme start="20180928120000 +0100" stop="20180928130000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">International GT Open Championship (?)</title>
+    <desc lang="en">Coverage of race two from the International GT Open Championship at Monza(n)</desc>
+    <episode-num>Season 2018 Episode 12/</episode-num>
+  </programme>
+  <programme start="20180928130000 +0100" stop="20180928133000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Ligue 1 Show (?)</title>
+    <desc lang="en">A look ahead to the upcoming action in Ligue 1, including Lille v Marseille, Nice v Paris Saint-Germain, Montpellier v Nimes and Reims v Bordeaux(n)</desc>
+    <episode-num>Season 2018 Episode 8/</episode-num>
+  </programme>
+  <programme start="20180928133000 +0100" stop="20180928143000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">FFA Cup (?)</title>
+    <desc lang="en">FFA Cup: Leichhardt v Adelaide Utd After stunning Melbourne Victory in the previous round, Leichhardt Tigers look for another FFA Cup scalp as they host last year's runners-up Adelaide United in the quarter-finals(n)</desc>
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180928143000 +0100" stop="20180928153000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Rugby Tonight (?)</title>
+    <desc lang="en">England's most capped player, Rocky Clark, and Wasps forward Brad Shieds join Sarra Elgan, Ugo Monye, Lawrence Dallaglio and Austin Healey to discuss all things rugby(n)</desc>
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180928153000 +0100" stop="20180928163000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">FIM Speedway Highlights (?)</title>
+    <desc lang="en">Relive all the best action from round nine of the FIM Speedway Grand Prix in Teterow, Germany(n)</desc>
+    <episode-num>Season 2018 Episode 9/</episode-num>
+  </programme>
+  <programme start="20180928163000 +0100" stop="20180928173000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">MotoGP Highlights (?)</title>
+    <desc lang="en">All the thrills and spills from the Grand Prix of Aragon, round 14 of the 2018 calendar(n)</desc>
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180928173000 +0100" stop="20180928183000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">FIA F3 European Championship Highlights (?)</title>
+    <desc lang="en">All the best action from round nine of the FIA F3 European Championship at the Red Bull Ring in Austria(n)</desc>
+    <episode-num>Season 2018 Episode 9/</episode-num>
+  </programme>
+  <programme start="20180928183000 +0100" stop="20180928190000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">FIM Enduro World Championship (?)</title>
+    <desc lang="en">Round seven of the FIM Enduro World Championship in Hawkstone Park, Great Britain(n)</desc>
+    <episode-num>Season 2018 Episode 7/</episode-num>
+  </programme>
+  <programme start="20180928190000 +0100" stop="20180928193000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Ligue 1 Show (?)</title>
+    <desc lang="en">A look ahead to the upcoming action in Ligue 1, including Lille v Marseille, Nice v Paris Saint-Germain, Montpellier v Nimes and Reims v Bordeaux(n)</desc>
+    <episode-num>Season 2018 Episode 8/</episode-num>
+  </programme>
+  <programme start="20180928193000 +0100" stop="20180928214500 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live Ligue 1 (?)</title>
+    <desc lang="en">Live: Saint-Etienne v Monaco Saint Etienne face-off against Monaco at Stade Geoffroy-Guichard in Ligue 1(n)</desc>
+    <episode-num>Season 2018 Episode 35/</episode-num>
+  </programme>
+  <programme start="20180928214500 +0100" stop="20180928220000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Premier League Reload (?)</title>
+    <desc lang="en">A whirlwind catch-up from the weekend's Premier League matches, featuring all the goals and major talking points(n)</desc>
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180928220000 +0100" stop="20180929003000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">UFC Greatest Fights (?)</title>
+    <desc lang="en">UFC 25 Greatest Fights In celebration of UFC's 25th anniversary, relive the 25 finest bouts to ever take place in the Octagon(n)</desc>
+    <episode-num>Season 2018 Episode 5/</episode-num>
+  </programme>
+  <programme start="20180929003000 +0100" stop="20180929020000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Bundesliga (?)</title>
+    <desc lang="en">Hertha Berlin v Bayern Munich Hertha Berlin face Bayern Munich in the Bundesliga at the Olympiastadion in the German capital(n)</desc>
+    <episode-num>Season 2018 Episode 46/</episode-num>
+  </programme>
+  <programme start="20180929020000 +0100" stop="20180929050000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live CFL (?)</title>
+    <desc lang="en">Live CFL: Toronto @ Calgary The Calgary Stampeders take on the Toronto Argonauts in the Canadian Football League at McMahon Stadium(n)</desc>
+    <episode-num>Season 2018 Episode 58/</episode-num>
+  </programme>
+  <programme start="20180929050000 +0100" stop="20180929053000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">British Jet Sport Racing Championships (?)</title>
+    <desc lang="en">Highlights from round six of the British Jet Sport Racing Championship(n)</desc>
+    <episode-num>Season 2018 Episode 6/</episode-num>
+  </programme>
+  <programme start="20180929053000 +0100" stop="20180929113000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live WTA Tennis (?)</title>
+    <desc lang="en">Live WTA Tennis: China Open Season 2018 Episode 1/(n)</desc>
+    <episode-num>Season 2018 Episode 1/|Day one of the China Open in Beijing. This tournament is the biggest on the Asian leg of the WTA calendar and the fourth and last Premier Mandatory stop of the season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180929113000 +0100" stop="20180929120000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">WTA All Access (?)</title>
+    <desc lang="en">All the latest news from the women's tennis tour as the game's top players go head-to-head in Tokyo, Seoul and Guangzhou(n)</desc>
+    <episode-num>Season 2018 Episode 3/</episode-num>
+  </programme>
+  <programme start="20180929120000 +0100" stop="20180929123000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">AMA Endurocross (?)</title>
+    <desc lang="en">All the best action from round three of the AMA EnduroCross in Reno, Nevada(n)</desc>
+    <episode-num>Season 2018 Episode 3/</episode-num>
+  </programme>
+  <programme start="20180929123000 +0100" stop="20180929163000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live WTA Tennis (?)</title>
+    <desc lang="en">WTA Tennis: China Open Season 2018 Episode 4/(n)</desc>
+    <episode-num>Season 2018 Episode 4/|Day one of the China Open in Beijing. This tournament is the biggest on the Asian leg of the WTA calendar and the fourth and last Premier Mandatory stop of the season   
+                            &lt;div class="other"&gt;</episode-num>
+  </programme>
+  <programme start="20180929163000 +0100" stop="20180929170000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Irish Rally Review (?)</title>
+    <desc lang="en">Highlights of the Sligo Stages Rally, part of the Irish Rally series(n)</desc>
+    <episode-num>Season 2018 Episode 14/</episode-num>
+  </programme>
+  <programme start="20180929170000 +0100" stop="20180929173000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">AMA Endurocross (?)</title>
+    <desc lang="en">All the best action from round three of the AMA EnduroCross in Reno, Nevada(n)</desc>
+    <episode-num>Season 2018 Episode 3/</episode-num>
+  </programme>
+  <programme start="20180929173000 +0100" stop="20180929180000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">UEFA Champions League Magazine (?)</title>
+    <desc lang="en">The latest news and updates from the UEFA Champions League(n)</desc>
+    <episode-num>Season 2018 Episode 4/</episode-num>
+  </programme>
+  <programme start="20180929180000 +0100" stop="20180929190000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">UEFA Europa League Magazine (?)</title>
+    <desc lang="en">A round-up of all the latest action from the UEFA Europa League(n)</desc>
+    <episode-num>Season 2018 Episode 2/</episode-num>
+  </programme>
+  <programme start="20180929190000 +0100" stop="20180929210000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live Ligue 1 (?)</title>
+    <desc lang="en">Live: Lyon v Nantes Action from Ligue 1 as Bruno Genesio's Lyon side host Nantes at the Groupama Stadium(n)</desc>
+    <episode-num>Season 2018 Episode 37/</episode-num>
+  </programme>
+  <programme start="20180929210000 +0100" stop="20180930000000 +0100" channel="BT Sport Europe HD">
+    <title lang="en">Live MLB (?)</title>
+    <desc lang="en">Live MLB: Dodgers @ Giants Major League Baseball action as the San Francisco Giants host the Los Angeles Dodgers at AT&amp;T Park(n)</desc>
+    <episode-num>Season 2018 Episode 325/</episode-num>
+  </programme>
+</tv>
