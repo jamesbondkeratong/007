@@ -45,38 +45,38 @@ http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Naura/
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.dramasangat.my/frontend/assets/images/icons/logo.png" tvg-name="Drama Sangat"  group-title="Melayu",Drama Sangat
 http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Drama/playlist.m3u8
 
-#EXTINF:-1, tvg-id="Trans7.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
+#EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 
-#EXTINF:-1, tvg-id="SCTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" tvg-name="SCTV"  group-title="Indonesia",SCTV
+#EXTINF:-1, tvg-id="SCTV - [Channel 89]" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" tvg-name="SCTV"  group-title="Indonesia",SCTV
 http://202.80.222.171/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="TransTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" tvg-name="TRANS TV"  group-title="Indonesia",TRANS TV
+#EXTINF:-1, tvg-id="Trans TV - [Channel 87]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" tvg-name="TRANS TV"  group-title="Indonesia",TRANS TV
 https://tv.rumahstreaming.stream/9163192287720543transtv/lives/chunks.m3u8
 
-#EXTINF:-1, tvg-id="RCTI.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_430.png" tvg-name="RCTI"  group-title="Indonesia",RCTI
+#EXTINF:-1, tvg-id="RCTI - [Channel 80]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_430.png" tvg-name="RCTI"  group-title="Indonesia",RCTI
 http://id6.indostreamingtv.com/live/tv6/index.m3u8
 
-#EXTINF:-1, tvg-id="Indosiar.id" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" tvg-name="INDOSIAR"  group-title="Indonesia",INDOSIAR
+#EXTINF:-1, tvg-id="Indosiar - [Channel 103]" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" tvg-name="INDOSIAR"  group-title="Indonesia",INDOSIAR
 http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="NetTV.id" tvg-logo="http://www.netmedia.co.id/assets/img/logo1.png" tvg-name="NET TV"  group-title="Indonesia",NET TV
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="TVOne.id" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" tvg-name="TV ONE"  group-title="Indonesia",TV ONE
+#EXTINF:-1, tvg-id="TVONE - [Channel 97]" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" tvg-name="TV ONE"  group-title="Indonesia",TV ONE
 http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
-#EXTINF:-1, tvg-id="ANTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
+#EXTINF:-1, tvg-id="ANTV - [Channel 115]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
 https://tv.rumahstreaming.stream/e19ea48bb71f4798antv/lives/chunks.m3u8
 
-#EXTINF:-1, tvg-id="MetroTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="METRO TV"  group-title="Indonesia",METRO TV
+#EXTINF:-1, tvg-id="Metro TV - [Channel 107]" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="METRO TV"  group-title="Indonesia",METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w564550898_b1128000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="GTV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" tvg-name="GLOBAL TV"  group-title="Indonesia",GLOBAL TV
+#EXTINF:-1, tvg-id="Global TV - [Channel 81]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" tvg-name="GLOBAL TV"  group-title="Indonesia",GLOBAL TV
 https://tv.rumahstreaming.stream/1a9fd12295670b1fglobaltv/lives/chunks.m3u8
 
-#EXTINF:-1, tvg-id="BeritaSatu.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_103.jpg" tvg-name="BERITA 1"  group-title="Indonesia",BERITA 1
-http://202.80.222.171/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1, tvg-id="TVRI - [Channel 118]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.png" tvg-name="TVRI"  group-title="Indonesia",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 
 #EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA"  group-title="Sukan",ASTRO ARENA
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
@@ -132,10 +132,10 @@ http://niobzca.cf:8080/live/shahin/12345/94772.ts
 #EXTINF:-1, tvg-id="BTSportESPN.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" tvg-name="BT Sport/ESPN"  group-title="Sukan",BT Sport/ESPN
 http://niobzca.cf:8080/live/shahin/12345/94773.ts
 
-#EXTINF:-1, tvg-id="FOXSports1.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_120.png" tvg-name="Fox sport 1"  group-title="Sukan",Fox sport 1
+#EXTINF:-1, tvg-id="FOX Sports HD - [Channel 421]">" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_120.png" tvg-name="Fox sport 1"  group-title="Sukan",Fox sport 1
 http://niobzca.cf:8080/live/shahin/12345/60410.ts
 
-#EXTINF:-1, tvg-id="FOXSports2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/fox-sports-2-hd/pos/fox-sports-2-hd_120.png" tvg-name="Fox sport 2"  group-title="Sukan",Fox sport 2
+#EXTINF:-1, tvg-id="FOX Sports 2 HD - [Channel 422]" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/fox-sports-2-hd/pos/fox-sports-2-hd_120.png" tvg-name="Fox sport 2"  group-title="Sukan",Fox sport 2
 http://niobzca.cf:8080/live/shahin/12345/60409.ts
 
 #EXTINF:-1, tvg-id="TSN1.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN1.ca.png" tvg-name="TSN 1"  group-title="Sukan",TSN 1
@@ -195,5 +195,11 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" tvg-name="&Flix HD"  group-title="Muviee",&Flix HD
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s5.dunia21.net/wp-content/uploads/2015/12/film-baahubali-the-beginning-2015.jpg" tvg-name="Bahubali: The Beginning (2015)"  group-title="VOD",Bahubali: The Beginning (2015)
-https://lime-tree.fruithosted.net/dl/n/R1Ug81kESASj4l4p/qqatrtenqtdldtnp/ak-wXyynXsKuEcNtYdA7-4F39BwP6U5mNgZU8qt6KOi_IUIBDb40mHRVzePEdAmkbPVR4gW9R7TcQX2OwTN3r1BxNkwgTsxZfV_SqFquhjHwqsJxV32sP9qhRIxnl_KT1axYLW98QczknZ4uztOpUQKIndJtLn2OHy_-DWmmbf3A0-BpobIaLRZurR-QftT-dn7Lj82i6HINSyJriytXLPiJVDPH5-B8DMHDiGeZX7mKrc8-QyPQ6gTlsukQ6axEz3v8zE-Q_h3D6uqaXMGLFIzMRdqG1YAbsu3NpN_kpHD8xTH1SDBMegtSv2Pcu1WVH-CnhbP5-WeLzIiYkLv9jwLu-tq1Spdj3Cw1B0WUvdDP72l1idHpxHF6PRPoK_4SEjgvyNOctIMJp-kRZ_rTJQ2thfBbLu7-_ziEm96YxA5vQC_kBXZ44xeRCCG4UzCciZuZhU7Pi_zo7-ePIbLpld5OsMyLhLil75dzVU5BLUM/baahubali-the-beginning-2015.mp4
+#EXTINF:-1, tvg-id="FOX Action Movies HD - [Channel 411]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" tvg-name="Fox Action Movies"  group-title="Muviee",Fox Action Movies
+http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Foxactionhd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CineMax HD - [Channel 402]" tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" tvg-name="Cinemax"  group-title="Muviee",Cinemax
+http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Cinemax/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" tvg-name="BOO"  group-title="Muviee",BOO
+http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Boo/playlist.m3u8
