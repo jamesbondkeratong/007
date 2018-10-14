@@ -1,0 +1,1019 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="FOX Sports - [Channel 301]">
+    <display-name lang="id">FOX Sports - [Channel 301]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Sports 2 - [Channel 302]">
+    <display-name lang="id">FOX Sports 2 - [Channel 302]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Sports 2 HD - [Channel 422]">
+    <display-name lang="id">FOX Sports 2 HD - [Channel 422]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Sports 3 - [Channel 303]">
+    <display-name lang="id">FOX Sports 3 - [Channel 303]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="FOX Sports HD - [Channel 421]">
+    <display-name lang="id">FOX Sports HD - [Channel 421]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="ANTV - [Channel 115]">
+    <display-name lang="id">ANTV - [Channel 115]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Indosiar - [Channel 103]">
+    <display-name lang="id">Indosiar - [Channel 103]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="MNC TV - [Channel 82]">
+    <display-name lang="id">MNC TV - [Channel 82]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Metro TV - [Channel 107]">
+    <display-name lang="id">Metro TV - [Channel 107]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="RCTI - [Channel 80]">
+    <display-name lang="id">RCTI - [Channel 80]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="SCTV - [Channel 89]">
+    <display-name lang="id">SCTV - [Channel 89]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TVONE - [Channel 97]">
+    <display-name lang="id">TVONE - [Channel 97]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="TVRI - [Channel 118]">
+    <display-name lang="id">TVRI - [Channel 118]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans 7 - [Channel 110]">
+    <display-name lang="id">Trans 7 - [Channel 110]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Trans TV - [Channel 87]">
+    <display-name lang="id">Trans TV - [Channel 87]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="Global TV - [Channel 81]">
+    <display-name lang="id">Global TV - [Channel 81]</display-name>
+    <url>http://www.mncvision.id</url>
+  </channel>
+  <channel id="BeritaSatu">
+    <display-name lang="id">BeritaSatu</display-name>
+    <url>http://www.transvision.co.id</url>
+  </channel>
+  <programme start="20181014015900 +0700" stop="20181014020000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Fight News 2018</title>
+  </programme>
+  <programme start="20181014020000 +0700" stop="20181014040000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">MotoGP: Thailand Grand Prix</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014050000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014050000 +0700" stop="20181014060000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014065900 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014065900 +0700" stop="20181014070000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Fight News 2018</title>
+  </programme>
+  <programme start="20181014070000 +0700" stop="20181014080000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014085900 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014085900 +0700" stop="20181014090000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Fight News 2018</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014093000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Racemax</title>
+  </programme>
+  <programme start="20181014093000 +0700" stop="20181014094000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">In Focus: Roman Weidenfeller</title>
+  </programme>
+  <programme start="20181014094000 +0700" stop="20181014111500 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Blancpain GT Asia 2018: CHN (L)</title>
+  </programme>
+  <programme start="20181014111500 +0700" stop="20181014112000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">In Focus: Chad Le Clos</title>
+  </programme>
+  <programme start="20181014112000 +0700" stop="20181014113000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">In Focus: Chatri Sityodtong</title>
+  </programme>
+  <programme start="20181014113000 +0700" stop="20181014120000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Football Stars</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014130000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">F1 2018 Japanese Grand Prix HL</title>
+  </programme>
+  <programme start="20181014130000 +0700" stop="20181014160000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">FIM Asia Road Racing: IDN (L)</title>
+  </programme>
+  <programme start="20181014160000 +0700" stop="20181014190000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">Spurs TV</title>
+  </programme>
+  <programme start="20181014190000 +0700" stop="20181014213000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">UFC 229: Khabib Vs McGregor</title>
+  </programme>
+  <programme start="20181014213000 +0700" stop="20181014233000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">FIM Asia Road Racing 2018: IDN</title>
+  </programme>
+  <programme start="20181014233000 +0700" stop="20181015020000 +0700" channel="FOX Sports - [Channel 301]">
+    <title lang="id">UFC Epics</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014013000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">Gillette World Sport 2018</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014030000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">Motul FIM Superbike 2018 (L)</title>
+  </programme>
+  <programme start="20181014030000 +0700" stop="20181014060000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">NLCS 2018: LAD Vs MIL (L)</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014070000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">Watersports World</title>
+  </programme>
+  <programme start="20181014070000 +0700" stop="20181014100000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">ALCS 2018 (L)</title>
+  </programme>
+  <programme start="20181014100000 +0700" stop="20181014113000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">Netball Silver Ferns 2018 (L)</title>
+  </programme>
+  <programme start="20181014113000 +0700" stop="20181014120000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">World Judo Tour 2018 HL: Baku</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014130000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">Pro Bull Riding 2018</title>
+  </programme>
+  <programme start="20181014130000 +0700" stop="20181014163000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">Hammers Series 2018 (L)</title>
+  </programme>
+  <programme start="20181014163000 +0700" stop="20181014170000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">World Judo Tour 2018 HL: Baku</title>
+  </programme>
+  <programme start="20181014170000 +0700" stop="20181014200000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">ALCS 2018</title>
+  </programme>
+  <programme start="20181014200000 +0700" stop="20181014210000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">LPGA KEB Hana Bank C'ship</title>
+  </programme>
+  <programme start="20181014210000 +0700" stop="20181014220000 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">NLCS 2018: LAD Vs MIL</title>
+  </programme>
+  <programme start="20181014220000 +0700" stop="20181014231500 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">Netball Silver Ferns 2018</title>
+  </programme>
+  <programme start="20181014231500 +0700" stop="20181015001500 +0700" channel="FOX Sports 2 - [Channel 302]">
+    <title lang="id">ALCS 2018</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014013000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">Gillette World Sport 2018</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014030000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">Motul FIM Superbike 2018 (L)</title>
+  </programme>
+  <programme start="20181014030000 +0700" stop="20181014060000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">NLCS 2018: LAD Vs MIL (L)</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014070000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">Watersports World</title>
+  </programme>
+  <programme start="20181014070000 +0700" stop="20181014100000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">ALCS 2018 (L)</title>
+  </programme>
+  <programme start="20181014100000 +0700" stop="20181014113000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">Netball Silver Ferns 2018 (L)</title>
+  </programme>
+  <programme start="20181014113000 +0700" stop="20181014120000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">World Judo Tour 2018 HL: Baku</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014130000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">Pro Bull Riding 2018</title>
+  </programme>
+  <programme start="20181014130000 +0700" stop="20181014163000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">Hammers Series 2018 (L)</title>
+  </programme>
+  <programme start="20181014163000 +0700" stop="20181014170000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">World Judo Tour 2018 HL: Baku</title>
+  </programme>
+  <programme start="20181014170000 +0700" stop="20181014200000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">ALCS 2018</title>
+  </programme>
+  <programme start="20181014200000 +0700" stop="20181014210000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">LPGA KEB Hana Bank C'ship</title>
+  </programme>
+  <programme start="20181014210000 +0700" stop="20181014220000 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">NLCS 2018: LAD Vs MIL</title>
+  </programme>
+  <programme start="20181014220000 +0700" stop="20181014231500 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">Netball Silver Ferns 2018</title>
+  </programme>
+  <programme start="20181014231500 +0700" stop="20181015001500 +0700" channel="FOX Sports 2 HD - [Channel 422]">
+    <title lang="id">ALCS 2018</title>
+  </programme>
+  <programme start="20181014000000 +0700" stop="20181014010000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">KOTV Classics 2018</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014020000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">KOTV Classics 2018</title>
+  </programme>
+  <programme start="20181014020000 +0700" stop="20181014030000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">KOTV Classics 2018</title>
+  </programme>
+  <programme start="20181014030000 +0700" stop="20181014040000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">ITU World Triathlon: Edmonton</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014050000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">FIA World Touring Car: China</title>
+  </programme>
+  <programme start="20181014050000 +0700" stop="20181014070000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">World Judo Tour: Cancun (L)</title>
+  </programme>
+  <programme start="20181014070000 +0700" stop="20181014080000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">AJ Bell London Triathlon</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014090000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">Blancpain GT Endurance HL</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014120000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">LPGA KEB Hana Bank C'ship (L)</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014140000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">LPGA KEB Hana Bank C'ship (L)</title>
+  </programme>
+  <programme start="20181014140000 +0700" stop="20181014143000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">Rallye Du Maroc 2018 HL</title>
+  </programme>
+  <programme start="20181014143000 +0700" stop="20181014153000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">Challenge Roth</title>
+  </programme>
+  <programme start="20181014153000 +0700" stop="20181014163000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">Blancpain GT Endurance HL</title>
+  </programme>
+  <programme start="20181014163000 +0700" stop="20181014170000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">TCR Highlights 2018: Europe</title>
+  </programme>
+  <programme start="20181014170000 +0700" stop="20181014190000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">Tour Of Taihu Lake 2018</title>
+  </programme>
+  <programme start="20181014190000 +0700" stop="20181014200000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">FIM Supersport 2018: France</title>
+  </programme>
+  <programme start="20181014200000 +0700" stop="20181014210000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">Motul FIM Superbike HL: France</title>
+  </programme>
+  <programme start="20181014210000 +0700" stop="20181014230000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">World Judo Tour: Cancun</title>
+  </programme>
+  <programme start="20181014230000 +0700" stop="20181015000000 +0700" channel="FOX Sports 3 - [Channel 303]">
+    <title lang="id">KOTV Classics 2018</title>
+  </programme>
+  <programme start="20181014015900 +0700" stop="20181014020000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Fight News 2018</title>
+  </programme>
+  <programme start="20181014020000 +0700" stop="20181014040000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">MotoGP: Thailand Grand Prix</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014050000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014050000 +0700" stop="20181014060000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014065900 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014065900 +0700" stop="20181014070000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Fight News 2018</title>
+  </programme>
+  <programme start="20181014070000 +0700" stop="20181014080000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014085900 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Ultimate Fighter: Heavy Hitters</title>
+  </programme>
+  <programme start="20181014085900 +0700" stop="20181014090000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Fight News 2018</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014093000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Racemax</title>
+  </programme>
+  <programme start="20181014093000 +0700" stop="20181014094000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">In Focus: Roman Weidenfeller</title>
+  </programme>
+  <programme start="20181014094000 +0700" stop="20181014111500 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Blancpain GT Asia 2018: CHN (L)</title>
+  </programme>
+  <programme start="20181014111500 +0700" stop="20181014112000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">In Focus: Chad Le Clos</title>
+  </programme>
+  <programme start="20181014112000 +0700" stop="20181014113000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">In Focus: Chatri Sityodtong</title>
+  </programme>
+  <programme start="20181014113000 +0700" stop="20181014120000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Football Stars</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014130000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">F1 2018 Japanese Grand Prix HL</title>
+  </programme>
+  <programme start="20181014130000 +0700" stop="20181014160000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">FIM Asia Road Racing: IDN (L)</title>
+  </programme>
+  <programme start="20181014160000 +0700" stop="20181014190000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">Spurs TV</title>
+  </programme>
+  <programme start="20181014190000 +0700" stop="20181014213000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">UFC 229: Khabib Vs McGregor</title>
+  </programme>
+  <programme start="20181014213000 +0700" stop="20181014233000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">FIM Asia Road Racing 2018: IDN</title>
+  </programme>
+  <programme start="20181014233000 +0700" stop="20181015020000 +0700" channel="FOX Sports HD - [Channel 421]">
+    <title lang="id">UFC Epics</title>
+  </programme>
+  <programme start="20181014000000 +0700" stop="20181014003000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Rajapati</title>
+  </programme>
+  <programme start="20181014003000 +0700" stop="20181014010000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Jejak Kriminal</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014030000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Sinema Spesial</title>
+  </programme>
+  <programme start="20181014030000 +0700" stop="20181014033000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Porus</title>
+  </programme>
+  <programme start="20181014033000 +0700" stop="20181014043000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Takdir Lonceng Cinta</title>
+  </programme>
+  <programme start="20181014043000 +0700" stop="20181014060000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">New Adventure Of Tom &amp; Jerry</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014090000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Shiva</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014120000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Dosti: Friends Forever</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014150000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Kaho Naa... Pyaar Hai</title>
+  </programme>
+  <programme start="20181014150000 +0700" stop="20181014161500 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Pleboy Jaman Now</title>
+  </programme>
+  <programme start="20181014161500 +0700" stop="20181014171500 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Taubat</title>
+  </programme>
+  <programme start="20181014171500 +0700" stop="20181014183000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Ganjaran Hidup</title>
+  </programme>
+  <programme start="20181014183000 +0700" stop="20181014201500 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Kun Fayakun</title>
+  </programme>
+  <programme start="20181014201500 +0700" stop="20181014220000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Jodoh Wasiat Bapak</title>
+  </programme>
+  <programme start="20181014220000 +0700" stop="20181015000000 +0700" channel="ANTV - [Channel 115]">
+    <title lang="id">Menembus Mata Batin</title>
+  </programme>
+  <programme start="20181014000000 +0700" stop="20181014010000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">News Of The Week</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014013000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014020000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20181014020000 +0700" stop="20181014030000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Jurnal Malam</title>
+  </programme>
+  <programme start="20181014030000 +0700" stop="20181014040000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">DK Show</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014043000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Jurnal Ekstra</title>
+  </programme>
+  <programme start="20181014043000 +0700" stop="20181014050000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20181014050000 +0700" stop="20181014053000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">BeritaSatu Highlights</title>
+  </programme>
+  <programme start="20181014053000 +0700" stop="20181014060000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014080000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Jurnal Pagi</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014083000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Jurnal Ekstra</title>
+  </programme>
+  <programme start="20181014083000 +0700" stop="20181014090500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">BeritaSatu Highlights</title>
+  </programme>
+  <programme start="20181014090500 +0700" stop="20181014093000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">People &amp; Inspiration</title>
+  </programme>
+  <programme start="20181014093000 +0700" stop="20181014100500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Business Round Up</title>
+  </programme>
+  <programme start="20181014100500 +0700" stop="20181014103500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Fakta Data</title>
+  </programme>
+  <programme start="20181014103500 +0700" stop="20181014110500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Travel Notes</title>
+  </programme>
+  <programme start="20181014110500 +0700" stop="20181014130500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">News On The Spot</title>
+  </programme>
+  <programme start="20181014130500 +0700" stop="20181014140500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Lunch Talk</title>
+  </programme>
+  <programme start="20181014140500 +0700" stop="20181014150500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">DK Show</title>
+  </programme>
+  <programme start="20181014150500 +0700" stop="20181014160500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Special Interview</title>
+  </programme>
+  <programme start="20181014160500 +0700" stop="20181014163000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Jurnal Ekstra</title>
+  </programme>
+  <programme start="20181014163000 +0700" stop="20181014180500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Prime Time</title>
+  </programme>
+  <programme start="20181014180500 +0700" stop="20181014190500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Connect 360</title>
+  </programme>
+  <programme start="20181014190500 +0700" stop="20181014200500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">News Of The Week</title>
+  </programme>
+  <programme start="20181014200500 +0700" stop="20181014203000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">News Buzz</title>
+  </programme>
+  <programme start="20181014203000 +0700" stop="20181014210500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Female Zone</title>
+  </programme>
+  <programme start="20181014210500 +0700" stop="20181014213000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Real Politics</title>
+  </programme>
+  <programme start="20181014213000 +0700" stop="20181014220500 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Real Politics</title>
+  </programme>
+  <programme start="20181014220500 +0700" stop="20181014223000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">People &amp; Inspiration</title>
+  </programme>
+  <programme start="20181014223000 +0700" stop="20181014233000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Jurnal Malam</title>
+  </programme>
+  <programme start="20181014233000 +0700" stop="20181015000000 +0700" channel="Indosiar - [Channel 103]">
+    <title lang="id">Jurnal Ekstra</title>
+  </programme>
+  <programme start="20181014000000 +0700" stop="20181014020000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">SOS</title>
+  </programme>
+  <programme start="20181014020000 +0700" stop="20181014023000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Midnite Great Sale</title>
+  </programme>
+  <programme start="20181014023000 +0700" stop="20181014040000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">3 Hati 2 Dunia 1 Cinta</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014043000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Bimbingan Rohani Kristen</title>
+  </programme>
+  <programme start="20181014043000 +0700" stop="20181014050000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Lintas iNews Pagi</title>
+  </programme>
+  <programme start="20181014050000 +0700" stop="20181014060000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Siraman Qolbu: Ust. Dhanu</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014063000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Pada Zaman Dahulu</title>
+  </programme>
+  <programme start="20181014063000 +0700" stop="20181014080000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014083000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">I Want To Know</title>
+  </programme>
+  <programme start="20181014083000 +0700" stop="20181014090000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Mom &amp; Kids</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014091000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">MNC Shop</title>
+  </programme>
+  <programme start="20181014091000 +0700" stop="20181014094000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Riska Dan Si Gembul</title>
+  </programme>
+  <programme start="20181014094000 +0700" stop="20181014103000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Pada Zaman Dahulu</title>
+  </programme>
+  <programme start="20181014103000 +0700" stop="20181014110000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Adit Sopo Jarwo &amp; D.O.A</title>
+  </programme>
+  <programme start="20181014110000 +0700" stop="20181014133000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20181014133000 +0700" stop="20181014140000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Indonesian Authentic Places</title>
+  </programme>
+  <programme start="20181014140000 +0700" stop="20181014160000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Nonton Lagi KDI 2018</title>
+  </programme>
+  <programme start="20181014160000 +0700" stop="20181014173000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Cahaya Hikmah</title>
+  </programme>
+  <programme start="20181014173000 +0700" stop="20181014180000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Upin &amp; Ipin</title>
+  </programme>
+  <programme start="20181014180000 +0700" stop="20181014190000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Upin &amp; Ipin Bermula</title>
+  </programme>
+  <programme start="20181014190000 +0700" stop="20181014203000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Cahaya Hikmah</title>
+  </programme>
+  <programme start="20181014203000 +0700" stop="20181014220000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Paman Perebut Harta Anak...</title>
+  </programme>
+  <programme start="20181014220000 +0700" stop="20181014233000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">Warkop: Saya Duluan Dong</title>
+  </programme>
+  <programme start="20181014233000 +0700" stop="20181015020000 +0700" channel="MNC TV - [Channel 82]">
+    <title lang="id">ABCD Any Body Can Dance</title>
+  </programme>
+  <programme start="20181014000000 +0700" stop="20181014000500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014000500 +0700" stop="20181014003000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro Malam</title>
+  </programme>
+  <programme start="20181014003000 +0700" stop="20181014010000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Perspektif</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014010500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014010500 +0700" stop="20181014013000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Syiar Sirah Nabawiyah</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014023000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20181014023000 +0700" stop="20181014030000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro Highlights</title>
+  </programme>
+  <programme start="20181014030000 +0700" stop="20181014030500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014030500 +0700" stop="20181014040000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014040500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014040500 +0700" stop="20181014043000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Syiar Sirah Nabawiyah</title>
+  </programme>
+  <programme start="20181014043000 +0700" stop="20181014070000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro Pagi Primetime</title>
+  </programme>
+  <programme start="20181014070000 +0700" stop="20181014070500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014070500 +0700" stop="20181014073000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Dunia Kita</title>
+  </programme>
+  <programme start="20181014073000 +0700" stop="20181014080000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Channel Japan</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014080500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014080500 +0700" stop="20181014090000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Selamat Pagi Indonesia</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014090500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014090500 +0700" stop="20181014093000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Tasty &amp; Healthy</title>
+  </programme>
+  <programme start="20181014093000 +0700" stop="20181014100000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Agung Sedayu Group</title>
+  </programme>
+  <programme start="20181014100000 +0700" stop="20181014100500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014100500 +0700" stop="20181014103000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro iCare</title>
+  </programme>
+  <programme start="20181014103000 +0700" stop="20181014110000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Agung Sedayu Group</title>
+  </programme>
+  <programme start="20181014110000 +0700" stop="20181014110500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014110500 +0700" stop="20181014130000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro Siang</title>
+  </programme>
+  <programme start="20181014130000 +0700" stop="20181014130500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014130500 +0700" stop="20181014140000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">360</title>
+  </programme>
+  <programme start="20181014140000 +0700" stop="20181014140500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014140500 +0700" stop="20181014150000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Little VIP</title>
+  </programme>
+  <programme start="20181014150000 +0700" stop="20181014150500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014150500 +0700" stop="20181014160000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Khazanah Islam</title>
+  </programme>
+  <programme start="20181014160000 +0700" stop="20181014160500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014160500 +0700" stop="20181014163000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Journey</title>
+  </programme>
+  <programme start="20181014163000 +0700" stop="20181014170000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20181014170000 +0700" stop="20181014170500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014170500 +0700" stop="20181014173000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro Hari Ini</title>
+  </programme>
+  <programme start="20181014173000 +0700" stop="20181014180000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro This Week</title>
+  </programme>
+  <programme start="20181014180000 +0700" stop="20181014180500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014180500 +0700" stop="20181014190000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Primetime News</title>
+  </programme>
+  <programme start="20181014190000 +0700" stop="20181014190500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014190500 +0700" stop="20181014200000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Big Circle</title>
+  </programme>
+  <programme start="20181014200000 +0700" stop="20181014200500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014200500 +0700" stop="20181014210000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">I'm_Possible</title>
+  </programme>
+  <programme start="20181014210000 +0700" stop="20181014210500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014210500 +0700" stop="20181014213000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Top News</title>
+  </programme>
+  <programme start="20181014213000 +0700" stop="20181014220000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Idenesia</title>
+  </programme>
+  <programme start="20181014220000 +0700" stop="20181014220500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014220500 +0700" stop="20181014230000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Everlasting Young</title>
+  </programme>
+  <programme start="20181014230000 +0700" stop="20181014230500 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Headline News</title>
+  </programme>
+  <programme start="20181014230500 +0700" stop="20181014233000 +0700" channel="Metro TV - [Channel 107]">
+    <title lang="id">Metro Sport</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014033000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Flordeliza</title>
+  </programme>
+  <programme start="20181014033000 +0700" stop="20181014040000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Sketsa Oo Em Ji</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014043000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Assalamu'alaikum Ustadz</title>
+  </programme>
+  <programme start="20181014043000 +0700" stop="20181014053000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Seputar iNews Pagi (L)</title>
+  </programme>
+  <programme start="20181014053000 +0700" stop="20181014060000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Mukjizat Itu Nyata</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014063000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Go Spot</title>
+  </programme>
+  <programme start="20181014063000 +0700" stop="20181014073000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">DuckTales</title>
+  </programme>
+  <programme start="20181014073000 +0700" stop="20181014080000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Rudy Dan Sahabat</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014083000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Doraemon</title>
+  </programme>
+  <programme start="20181014083000 +0700" stop="20181014090000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Doraemon Spesial</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014100000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Kiko S2</title>
+  </programme>
+  <programme start="20181014100000 +0700" stop="20181014103000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Zak Storm</title>
+  </programme>
+  <programme start="20181014103000 +0700" stop="20181014113000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Larva</title>
+  </programme>
+  <programme start="20181014113000 +0700" stop="20181014120000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Barista</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014123000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Seputar iNews Siang (L)</title>
+  </programme>
+  <programme start="20181014123000 +0700" stop="20181014144500 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Si Doel Anak Sekolahan S3</title>
+  </programme>
+  <programme start="20181014144500 +0700" stop="20181014170000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Indonesian Idol Junior</title>
+  </programme>
+  <programme start="20181014170000 +0700" stop="20181014190000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Tukang Ojek Pengkolan</title>
+  </programme>
+  <programme start="20181014190000 +0700" stop="20181014210000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Cinta Yang Hilang</title>
+  </programme>
+  <programme start="20181014210000 +0700" stop="20181014233000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Dunia Terbalik</title>
+  </programme>
+  <programme start="20181014233000 +0700" stop="20181015013000 +0700" channel="RCTI - [Channel 80]">
+    <title lang="id">Dagelan OK</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014020000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Sigi Investigasi</title>
+  </programme>
+  <programme start="20181014020000 +0700" stop="20181014023000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Status Palsu</title>
+  </programme>
+  <programme start="20181014023000 +0700" stop="20181014040000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">The Best Of ONE Championship</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014043000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Kata Ustadz Solmed</title>
+  </programme>
+  <programme start="20181014043000 +0700" stop="20181014060000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Liputan 6 Pagi</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014070000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Hot Shot</title>
+  </programme>
+  <programme start="20181014070000 +0700" stop="20181014083000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">The Babysitter And I</title>
+  </programme>
+  <programme start="20181014083000 +0700" stop="20181014100000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Babysitter Sang Pemikat</title>
+  </programme>
+  <programme start="20181014100000 +0700" stop="20181014120000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Film Drama</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014123000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Liputan 6 Siang</title>
+  </programme>
+  <programme start="20181014123000 +0700" stop="20181014134500 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Ungkap</title>
+  </programme>
+  <programme start="20181014134500 +0700" stop="20181014150000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Cinta Terlarang</title>
+  </programme>
+  <programme start="20181014150000 +0700" stop="20181014170000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Journey Of Syahrini</title>
+  </programme>
+  <programme start="20181014170000 +0700" stop="20181014181500 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Siapa Takut Jatuh Cinta</title>
+  </programme>
+  <programme start="20181014181500 +0700" stop="20181014201500 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Cinta Suci</title>
+  </programme>
+  <programme start="20181014201500 +0700" stop="20181014214500 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Anak Langit</title>
+  </programme>
+  <programme start="20181014214500 +0700" stop="20181014233000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Orang Ketiga</title>
+  </programme>
+  <programme start="20181014233000 +0700" stop="20181015010000 +0700" channel="SCTV - [Channel 89]">
+    <title lang="id">Panggil Aja Aku Mas Tresno</title>
+  </programme>
+  <programme start="20181014000000 +0700" stop="20181014003000 +0700" channel="TVONE - [Channel 97]">
+    <title lang="id">Menyingkap Tabir</title>
+  </programme>
+  <programme start="20181014003000 +0700" stop="20181014010000 +0700" channel="TVONE - [Channel 97]">
+    <title lang="id">Buru Sergap</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014013000 +0700" channel="TVONE - [Channel 97]">
+    <title lang="id">Lejel Home Shopping</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014023000 +0700" channel="TVONE - [Channel 97]">
+    <title lang="id">One Pride Pro Never Quit</title>
+  </programme>
+  <programme start="20181014000000 +0700" stop="20181014003000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Membangun</title>
+  </programme>
+  <programme start="20181014003000 +0700" stop="20181014013000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Malam</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014020000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Lagu Bagimu Negeri</title>
+  </programme>
+  <programme start="20181014020000 +0700" stop="20181014040000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Pola Teknik</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014043000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Jalan-Jalan Islami</title>
+  </programme>
+  <programme start="20181014043000 +0700" stop="20181014060000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Serambi Islami</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014070000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Pagi</title>
+  </programme>
+  <programme start="20181014070000 +0700" stop="20181014083000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Semangat Pagi Indonesia</title>
+  </programme>
+  <programme start="20181014083000 +0700" stop="20181014090000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Kick Off</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014093300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Halo Dokter</title>
+  </programme>
+  <programme start="20181014093300 +0700" stop="20181014100300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Negeri Indonesia</title>
+  </programme>
+  <programme start="20181014100300 +0700" stop="20181014110300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Buah Hatiku Sayang</title>
+  </programme>
+  <programme start="20181014110300 +0700" stop="20181014113000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Membangun</title>
+  </programme>
+  <programme start="20181014113000 +0700" stop="20181014120000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Kuliner Indonesia</title>
+  </programme>
+  <programme start="20181014120000 +0700" stop="20181014130000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Siang</title>
+  </programme>
+  <programme start="20181014130000 +0700" stop="20181014133300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Kabar Dari Petani</title>
+  </programme>
+  <programme start="20181014133300 +0700" stop="20181014140000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Gatra</title>
+  </programme>
+  <programme start="20181014140000 +0700" stop="20181014143000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Dialog Indonesia Hari Ini</title>
+  </programme>
+  <programme start="20181014143000 +0700" stop="20181014150300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">TVRI Sport</title>
+  </programme>
+  <programme start="20181014150300 +0700" stop="20181014160300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Buah Hatiku Sayang</title>
+  </programme>
+  <programme start="20181014160300 +0700" stop="20181014170000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Hari Ini</title>
+  </programme>
+  <programme start="20181014170000 +0700" stop="20181014173000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">English News Service</title>
+  </programme>
+  <programme start="20181014173000 +0700" stop="20181014181300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Asyik Menggambar</title>
+  </programme>
+  <programme start="20181014181300 +0700" stop="20181014183000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Kick Off</title>
+  </programme>
+  <programme start="20181014183000 +0700" stop="20181014190000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Inovator</title>
+  </programme>
+  <programme start="20181014190000 +0700" stop="20181014200000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Malam</title>
+  </programme>
+  <programme start="20181014200000 +0700" stop="20181014210300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Bicara</title>
+  </programme>
+  <programme start="20181014210300 +0700" stop="20181014213300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Dunia Dalam Berita</title>
+  </programme>
+  <programme start="20181014213300 +0700" stop="20181014220300 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Suku-Suku</title>
+  </programme>
+  <programme start="20181014220300 +0700" stop="20181014230000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Taman Buaya Beat Club</title>
+  </programme>
+  <programme start="20181014230000 +0700" stop="20181014233000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Bon Voyage</title>
+  </programme>
+  <programme start="20181014233000 +0700" stop="20181015003000 +0700" channel="TVRI - [Channel 118]">
+    <title lang="id">Indonesia Malam</title>
+  </programme>
+  <programme start="20181014004500 +0700" stop="20181014021500 +0700" channel="Trans 7 - [Channel 110]">
+    <title lang="id">Theater Malam</title>
+  </programme>
+  <programme start="20181014003000 +0700" stop="20181014010000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">CNN Tech News</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014013000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">CNN ShowBiz</title>
+  </programme>
+  <programme start="20181014013000 +0700" stop="20181014020000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">CNN Tech News</title>
+  </programme>
+  <programme start="20181014020000 +0700" stop="20181014023000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">CNN ShowBiz</title>
+  </programme>
+  <programme start="20181014023000 +0700" stop="20181014033000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">Sinema Indonesia</title>
+  </programme>
+  <programme start="20181014033000 +0700" stop="20181014043000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">Sinema Indonesia</title>
+  </programme>
+  <programme start="20181014043000 +0700" stop="20181014050000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">Adventure Time S2</title>
+  </programme>
+  <programme start="20181014050000 +0700" stop="20181014063000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">Islam Itu Indah</title>
+  </programme>
+  <programme start="20181014063000 +0700" stop="20181014073000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">Insert Pagi (L)</title>
+  </programme>
+  <programme start="20181014073000 +0700" stop="20181014080000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">Demen Makan</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014083000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">Harmoni Indonesia</title>
+  </programme>
+  <programme start="20181014083000 +0700" stop="20181014090000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">The Project</title>
+  </programme>
+  <programme start="20181014090000 +0700" stop="20181014100000 +0700" channel="Trans TV - [Channel 87]">
+    <title lang="id">My Trip My Adventure</title>
+  </programme>
+  <programme start="20181014010000 +0700" stop="20181014023000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Full House</title>
+  </programme>
+  <programme start="20181014023000 +0700" stop="20181014040000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Demam Cinta Korea</title>
+  </programme>
+  <programme start="20181014040000 +0700" stop="20181014050000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Buletin iNews Pagi (L)</title>
+  </programme>
+  <programme start="20181014050000 +0700" stop="20181014060000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Curious George</title>
+  </programme>
+  <programme start="20181014060000 +0700" stop="20181014080000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">SpongeBob SquarePants</title>
+  </programme>
+  <programme start="20181014080000 +0700" stop="20181014103000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Amazing 16</title>
+  </programme>
+  <programme start="20181014103000 +0700" stop="20181014113000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Buletin iNews Siang (L)</title>
+  </programme>
+  <programme start="20181014113000 +0700" stop="20181014133000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20181014133000 +0700" stop="20181014143000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Komunikata Indonesia</title>
+  </programme>
+  <programme start="20181014143000 +0700" stop="20181014160000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Penguin Of Madagascar</title>
+  </programme>
+  <programme start="20181014160000 +0700" stop="20181014173000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">SpongeBob SquarePants Movie</title>
+  </programme>
+  <programme start="20181014173000 +0700" stop="20181014193000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Monsters University</title>
+  </programme>
+  <programme start="20181014193000 +0700" stop="20181014210000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Amazing Roadshow Bedah Rumah</title>
+  </programme>
+  <programme start="20181014210000 +0700" stop="20181014220000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Rombak Warung</title>
+  </programme>
+  <programme start="20181014220000 +0700" stop="20181014233000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">Rise Of The Legend</title>
+  </programme>
+  <programme start="20181014233000 +0700" stop="20181015010000 +0700" channel="Global TV - [Channel 81]">
+    <title lang="id">7 Assassins</title>
+  </programme>
+</tv>
