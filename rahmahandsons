@@ -203,3 +203,18 @@ http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Cinemax/
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" tvg-name="BOO"  group-title="Muviee",BOO
 http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Boo/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s0.dunia21.net/wp-content/uploads/2016/05/film-josh-2000.jpg" tvg-name="Josh (2000)"  group-title="VOD",Josh (2000)
+https://www3515.playercdn.net/186/3/zT_49bS4Tu7GJKuzxWZnGQ/1539524732/180401/266FPX37ZMVEVB1P6ABEL.mp4
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s1.dunia21.net/wp-content/uploads/2016/01/film-mann-1999.jpg" tvg-name="Mann (1999)"  group-title="VOD",Mann (1999)
+https://www3539.playercdn.net/186/2/T-lI1hiGtWhPTyIVOzxHQw/1539524878/180401/573FPXFZVYOSDSX3XWK2F.mp4
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s1.dunia21.net/wp-content/uploads/2016/03/film-har-dil-jo-pyar-karega-2000.jpg" tvg-name=" Har Dil Jo Pyar Karega ((2000)"  group-title="VOD", Har Dil Jo Pyar Karega ((2000)
+https://duku.fruithosted.net/dl/n/kqQ7qlZCQyHs3iob/mkmrtlpadpoaskod/7jpk083X2rylvuDSM7x-dlbDQDtTxeXwW_RkBTUoWqVxeBf1nnK_u2-mwSji1b2qjlUcUE-qE_pNZaEFbzDNbLskWCiH-bEIj7gBqbvvd7OErTY8vqucmKSenXEqMX2fhBydPbzMby35pdPMyh1GuAvN5U5PCgMoq2I12siSy0L3imvdVPMHxRc1K-6hnVoV2k2ju9nJXpUylQ3x2NX5di1pebs33ruZEOsKuFZ93Mx7QcIdNFp2DUQJTFbU3lnDexSA0bnfnlx4OB78pyW_ps6a6mwkORKWLSxYoNTXk6cebx4Hq70R_-v5bLR5nBwlBILlp1sJv8ETdLLa-QYMPn88pQRhDwUbtKZcbHVbSiYs-ZWkFkvspklCrd3EDNQAdtV9CXYnJmzzmXQSfh3mvsjQMLZBNa-8taOGXReUWh9ErkmyfXsFIG3XR6hNEoVxTwcABNdHkzNSELC8qmhlMg/har-dil-jo-pyar-karega-2000.mp4
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s4.dunia21.net/wp-content/uploads/2018/05/film-high-low-the-movie-3-final-mission-2017.jpg" tvg-name="High & Low: The Movie 3 – Final Mission (2017)"  group-title="VOD",High & Low: The Movie 3 – Final Mission (2017)
+https://1fgqfvi.oloadcdn.net/dl/l/IM-nEAolmZSHcjB1/aYVWn85QK9U/high-low-the-movie-3-final-mission-2017.mp4?mime=true
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s0.dunia21.net/wp-content/uploads/2018/03/film-high-low-movie-2-end-sky-2017.jpg" tvg-name="High & Low: The Movie 2 – End of SKY (2017)"  group-title="VOD",High & Low: The Movie 2 – End of SKY (2017)
+https://www3516.playercdn.net/187/0/1NGWU9cxguyI_u5Aw1IloQ/1539525638/180306/178FP2XGDTSC215EDZ4Q4.mp4
