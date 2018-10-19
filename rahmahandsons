@@ -27,6 +27,12 @@ http://190.2.153.35:8278/Warna/playlist.m3u8?tid=18256738&tsum=212558752bd851be8
 #EXTINF:-1, tvg-id="Maya.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/135_120.png" tvg-name="Maya"  group-title="Melayu",Maya
 http://212.8.243.195:8278/MayaHD123/playlist.m3u8?tid=13256092&tsum=d8ddc7c90d5a96319a8caa92c104cc2b
 
+#EXTINF:-1, tvg-id="AstroRia.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_120.png" tvg-name="Ria"  group-title="Melayu",Ria
+http://212.8.243.195:8278/Prima/playlist.m3u8?tid=12578154&tsum=a75d4179920a117f8fbea653005f1bd3
+
+#EXTINF:-1, tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png" tvg-name="Prima"  group-title="Melayu",Prima
+http://212.8.243.195:8278/Prima/playlist.m3u8?tid=12578154&tsum=a75d4179920a117f8fbea653005f1bd3
+
 #EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
 http://id8.indostreamingtv.com/live/tv77/index.m3u8
 
