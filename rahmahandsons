@@ -174,8 +174,5 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s5.dunia21.net/wp-content/uploads/2016/01/film-karan-arjun-1995.jpg" tvg-name="Karan Arjun (1995)"  group-title="VOD",Karan Arjun (1995)
 https://pgli8w.oloadcdn.net/dl/l/rZSuxVPQsIYFrTF5/JrQFCy-I59E/MCNaz.Karan.Arjun.%281995%29.720p.DVDRip.mp4?mime=true
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s4.dunia21.net/wp-content/uploads/2018/06/film-raid-2018-lk21.jpg" tvg-name="Raid (2018)"  group-title="VOD",Raid (2018)
-https://www3368.playercdn.net/188/0/QDI0yME5sL9Pt6XLxQ47LQ/1540038894/181009/271FW1WRN335JXYNUVNSA.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.dunia21.net/wp-content/uploads/2018/09/film-the-legend-of-muay-thai-9-satra2018-lk21.jpg" tvg-name="The Legend of Muay Thai: 9 Satra(2018)"  group-title="New Group",The Legend of Muay Thai: 9 Satra(2018)
-https://www4064.playercdn.net/188/0/3yDw_KQlnogSHllcePcjMw/1540039038/180926/291FVMWJJ5IKYD6EJAMXM.mp4
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.dunia21.net/wp-content/uploads/2018/09/film-the-legend-of-muay-thai-9-satra2018-lk21.jpg" tvg-name="The Legend of Muay Thai: 9 Satra(2018)"  group-title="VOD",The Legend of Muay Thai: 9 Satra(2018)
+https://www4064.playercdn.net/188/0/DIU72k3BuTsnpX_QsDymMA/1540072454/180926/291FVMWJJ5IKYD6EJAMXM.mp4
