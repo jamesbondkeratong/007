@@ -1,292 +1,262 @@
 #EXTM3U
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_120.png" tvg-name="TV 1"  group-title="Melayu",TV 1
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_120.png" tvg-name="[COLOR YELLOW] TV 1 - MY. [/COLOR]"  group-title="Malayee",[COLOR YELLOW] TV 1 - MY. [/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch001.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_120.png" tvg-name="TV 2"  group-title="Melayu",TV 2
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_120.png" tvg-name="[COLOR YELLOW] TV 2 - MY. [/COLOR]"  group-title="Malayee",[COLOR YELLOW] TV 2 - MY. [/COLOR]
 http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_120.png" tvg-name="TV3"  group-title="Melayu",TV3
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_120.png" tvg-name="[COLOR YELLOW] TV3 - MY. [/COLOR]"  group-title="Malayee",[COLOR YELLOW] TV3 - MY. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/443.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_120.png" tvg-name="OKEY"  group-title="Melayu",OKEY
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_120.png" tvg-name="[COLOR YELLOW] OKEY - MY. [/COLOR]"  group-title="Malayee",[COLOR YELLOW] OKEY - MY. [/COLOR]
 https://rtm-live-stream2.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_120.png" tvg-name="NTV7"  group-title="Melayu",NTV7
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_120.png" tvg-name="[COLOR YELLOW] NTV7 - MY. [/COLOR]"  group-title="Malayee",[COLOR YELLOW] NTV7 - MY. [/COLOR]
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_300.png" tvg-name="8TV"  group-title="Melayu",8TV
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_300.png" tvg-name="[COLOR YELLOW] 8TV - MY. [/COLOR]"  group-title="Malayee",[COLOR YELLOW] 8TV - MY. [/COLOR]
 http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png" tvg-name="TV 9"  group-title="Melayu",TV 9
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png" tvg-name="[COLOR YELLOW] TV 9 - MY. [/COLOR]"  group-title="Malayee",[COLOR YELLOW] TV 9 - MY. [/COLOR]
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
-#EXTINF:-1, tvg-id="AstroRia.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_120.png" tvg-name="Ria"  group-title="Melayu",Ria
-http://185.216.119.144:9910/smarttv.php?playurl=http://50.7.73.90:8278/Ria/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" tvg-name="[COLOR YELLOW] Hello - MY. [/COLOR]"  group-title="Malayee",[COLOR YELLOW] Hello - MY. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/804.ts
 
-#EXTINF:-1, tvg-id="AstroOasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_120.png" tvg-name="Oasis"  group-title="Melayu",Oasis
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Oasis/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AstroWarna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_120.png" tvg-name="Warna"  group-title="Melayu",Warna
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Warna/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Maya.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/135_120.png" tvg-name="Maya"  group-title="Melayu",Maya
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Mayasd/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png" tvg-name="Prima"  group-title="Melayu",Prima
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Prima/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AstroCitra.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_120.png" tvg-name="Citra"  group-title="Melayu",Citra
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Citra/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" tvg-name="Naura"  group-title="Melayu",Naura
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Naura/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.dramasangat.my/frontend/assets/images/icons/logo.png" tvg-name="Drama Sangat"  group-title="Melayu",Drama Sangat
-http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Drama/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7"  group-title="Indonesia",TRANS 7
+#EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7"  group-title="Indonesee",[COLOR RED] TRANS 7 - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/35.ts
 
-#EXTINF:-1, tvg-id="SCTV - [Channel 89]" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" tvg-name="SCTV"  group-title="Indonesia",SCTV
+#EXTINF:-1, tvg-id="SCTV - [Channel 89]" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" tvg-name="SCTV"  group-title="Indonesee",[COLOR RED] SCTV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/32.ts
 
-#EXTINF:-1, tvg-id="Trans TV - [Channel 87]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" tvg-name="TRANS TV"  group-title="Indonesia",TRANS TV
+#EXTINF:-1, tvg-id="Trans TV - [Channel 87]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" tvg-name="TRANS TV"  group-title="Indonesee",[COLOR RED] TRANS TV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/34.ts
 
-#EXTINF:-1, tvg-id="RCTI - [Channel 80]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_430.png" tvg-name="RCTI"  group-title="Indonesia",RCTI
+#EXTINF:-1, tvg-id="RCTI - [Channel 80]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_430.png" tvg-name="RCTI"  group-title="Indonesee",[COLOR RED] RCTI - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/25.ts
 
-#EXTINF:-1, tvg-id="Indosiar - [Channel 103]" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" tvg-name="INDOSIAR"  group-title="Indonesia",INDOSIAR
+#EXTINF:-1, tvg-id="Indosiar - [Channel 103]" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" tvg-name="INDOSIAR"  group-title="Indonesee",[COLOR RED] INDOSIAR - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/33.ts
 
-#EXTINF:-1, tvg-id="NetTV.id" tvg-logo="https://mbtskoudsalg.com/images/net-tv-logo-png-1.png" tvg-name="NET TV"  group-title="Indonesia",NET TV
+#EXTINF:-1, tvg-id="NetTV.id" tvg-logo="https://mbtskoudsalg.com/images/net-tv-logo-png-1.png" tvg-name="NET TV"  group-title="Indonesee",[COLOR RED] NET TV - IND. [/COLOR]
 http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
 
-#EXTINF:-1, tvg-id="TVONE - [Channel 97]" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" tvg-name="TV ONE"  group-title="Indonesia",TV ONE
+#EXTINF:-1, tvg-id="TVONE - [Channel 97]" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" tvg-name="TV ONE"  group-title="Indonesee",[COLOR RED] TV ONE - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/29.ts
 
-#EXTINF:-1, tvg-id="ANTV - [Channel 115]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" tvg-name="ANTV"  group-title="Indonesia",ANTV
+#EXTINF:-1, tvg-id="ANTV - [Channel 115]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" tvg-name="ANTV"  group-title="Indonesee",[COLOR RED] ANTV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/31.ts
 
-#EXTINF:-1, tvg-id="Metro TV - [Channel 107]" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="METRO TV"  group-title="Indonesia",METRO TV
+#EXTINF:-1, tvg-id="Metro TV - [Channel 107]" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="METRO TV"  group-title="Indonesee",[COLOR RED] METRO TV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/52.ts
 
-#EXTINF:-1, tvg-id="Global TV - [Channel 81]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" tvg-name="GLOBAL TV"  group-title="Indonesia",GLOBAL TV
+#EXTINF:-1, tvg-id="Global TV - [Channel 81]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" tvg-name="GLOBAL TV"  group-title="Indonesee",[COLOR RED] GLOBAL TV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/26.ts
 
-#EXTINF:-1, tvg-id="TVRI - [Channel 118]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.png" tvg-name="TVRI"  group-title="Indonesia",TVRI
+#EXTINF:-1, tvg-id="TVRI - [Channel 118]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.png" tvg-name="TVRI"  group-title="Indonesee",[COLOR RED] TVRI - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/36.ts
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://sbctv.id/wp-content/uploads/2018/01/diamond-world-tv.jpg" tvg-name="DIAMOND TV"  group-title="Indonesia",DIAMOND TV
-http://stream1.ninmedia.tv/live/xmedia-dtv.stream_nin/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA"  group-title="Sukan",ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
-
-#EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT"  group-title="Sukan",SKY SPORTS MAIN EVENT
-http://niobzca.cf:8080/live/shahin/12345/127821.ts
-
-#EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE"  group-title="Sukan",SKY SPORTS  PREMIER LEAGUE
-http://niobzca.cf:8080/live/shahin/12345/65083.ts
-
-#EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="SKY SPORTS  FOOTBALL"  group-title="Sukan",SKY SPORTS  FOOTBALL
-http://niobzca.cf:8080/live/shahin/12345/127826.ts
-
-#EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="SKY SPORTS  CRICKET"  group-title="Sukan",SKY SPORTS  CRICKET
-http://niobzca.cf:8080/live/shahin/12345/127823.ts
-
-#EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS  F1"  group-title="Sukan",SKY SPORTS  F1
-http://niobzca.cf:8080/live/shahin/12345/74497.ts
-
-#EXTINF:-1, tvg-id="SkySportsArena.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" tvg-name="SKY SPORTS  ARENA"  group-title="Sukan",SKY SPORTS  ARENA
-http://niobzca.cf:8080/live/shahin/12345/74495.ts
-
-#EXTINF:-1, tvg-id="SkySportsNews.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" tvg-name="SKY SPORTS  NEWSHQ"  group-title="Sukan",SKY SPORTS  NEWSHQ
-http://niobzca.cf:8080/live/shahin/12345/93230.ts
-
-#EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="SKY SPORTS  GOLF"  group-title="Sukan",SKY SPORTS  GOLF
-http://niobzca.cf:8080/live/shahin/12345/74770.ts
-
-#EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION"  group-title="Sukan",SKY SPORTS  ACTION
-http://niobzca.cf:8080/live/shahin/12345/74496.ts
-
-#EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX"  group-title="Sukan",SKY SPORTS  MIX
-http://niobzca.cf:8080/live/shahin/12345/98196.ts
-
-#EXTINF:-1, tvg-id="SkySportsBoxOffice.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsBoxOffice.uk.png" tvg-name="Sky Sports Box Office"  group-title="Sukan",Sky Sports Box Office
-http://niobzca.cf:8080/live/shahin/12345/128429.ts
-
-#EXTINF:-1, tvg-id="Eurosport1.uk" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" tvg-name="Eurosport 1"  group-title="Sukan",Eurosport 1
-http://niobzca.cf:8080/live/shahin/12345/94786.ts
-
-#EXTINF:-1, tvg-id="Eurosport2.uk" tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" tvg-name="Eurosport 2"  group-title="Sukan",Eurosport 2
-http://niobzca.cf:8080/live/shahin/12345/64985.ts
-
-#EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1"  group-title="Sukan",BT Sport 1
-http://niobzca.cf:8080/live/shahin/12345/120666.ts
-
-#EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2"  group-title="Sukan",BT Sport 2
-http://niobzca.cf:8080/live/shahin/12345/62224.ts
-
-#EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3"  group-title="Sukan",BT Sport 3
-http://niobzca.cf:8080/live/shahin/12345/94772.ts
-
-#EXTINF:-1, tvg-id="BTSportESPN.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" tvg-name="BT Sport/ESPN"  group-title="Sukan",BT Sport/ESPN
-http://niobzca.cf:8080/live/shahin/12345/94773.ts
-
-#EXTINF:-1, tvg-id="FoxSports1.us" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812_120.png" tvg-name="Fox sport 1 US"  group-title="Sukan",Fox sport 1 US
-http://niobzca.cf:8080/live/shahin/12345/60410.ts
-
-#EXTINF:-1, tvg-id="FoxSports2.us" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/fox-sports-2-hd/pos/fox-sports-2-hd_120.png" tvg-name="Fox sport 2 US"  group-title="Sukan",Fox sport 2 US
-http://niobzca.cf:8080/live/shahin/12345/60409.ts
-
-#EXTINF:-1, tvg-id="FoxSports3.us" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/fox-sports-3-hd/pos/fox-sports-3-hd_120.png" tvg-name="Fox sport 3 US"  group-title="Sukan",Fox sport 3 US
-http://slingiptv.ddns.net:9999/live/3iXshVw4LM/ci6sxgw837/415.ts
-
-#EXTINF:-1, tvg-id="BTSportX1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportX1.uk.png" tvg-name="BT Sport Extra 1"  group-title="Sukan",BT Sport Extra 1
-http://slingiptv.ddns.net:9999/live/3iXshVw4LM/ci6sxgw837/158.ts
-
-#EXTINF:-1, tvg-id="BTSportX2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportX2.uk.png" tvg-name="BT Sport Extra 2"  group-title="Sukan",BT Sport Extra 2
-http://slingiptv.ddns.net:9999/live/3iXshVw4LM/ci6sxgw837/157.ts
-
-#EXTINF:-1, tvg-id="BTSportX3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportX3.uk.png" tvg-name="BT Sport Extra 3"  group-title="Sukan",BT Sport Extra 3
-http://slingiptv.ddns.net:9999/live/3iXshVw4LM/ci6sxgw837/156.ts
-
-#EXTINF:-1, tvg-id="BTSportX4.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportX4.uk.png" tvg-name="BT Sport Extra 4"  group-title="Sukan",BT Sport Extra 4
-http://slingiptv.ddns.net:9999/live/3iXshVw4LM/ci6sxgw837/155.ts
-
-#EXTINF:-1, tvg-id="BTSportX5.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportX5.uk.png" tvg-name="BT Sport Extra 5"  group-title="Sukan",BT Sport Extra 5
-http://slingiptv.ddns.net:9999/live/3iXshVw4LM/ci6sxgw837/154.ts
-
-#EXTINF:-1, tvg-id="BTSportX6.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportX6.uk.png" tvg-name="BT Sport Extra 6"  group-title="Sukan",BT Sport Extra 6
-http://123.456.789
-
-#EXTINF:-1, tvg-id="TSN1.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN1.ca.png" tvg-name="TSN 1"  group-title="Sukan",TSN 1
-http://niobzca.cf:8080/live/shahin/12345/74882.ts
-
-#EXTINF:-1, tvg-id="TSN2.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN2.ca.png" tvg-name="TSN 2"  group-title="Sukan",TSN 2
-http://niobzca.cf:8080/live/shahin/12345/74883.ts
-
-#EXTINF:-1, tvg-id="TSN3.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN3.ca.png" tvg-name="TSN 3"  group-title="Sukan",TSN 3
-http://niobzca.cf:8080/live/shahin/12345/76947.ts
-
-#EXTINF:-1, tvg-id="TSN4.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN4.ca.png" tvg-name="TSN 4"  group-title="Sukan",TSN 4
-http://niobzca.cf:8080/live/shahin/12345/74885.ts
-
-#EXTINF:-1, tvg-id="TSN5.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN5.ca.png" tvg-name="TSN 5"  group-title="Sukan",TSN 5
-http://niobzca.cf:8080/live/shahin/12345/74886.ts
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11"  group-title="Sukan",beIN Sport 11
-http://niobzca.cf:8080/live/shahin/12345/77950.ts
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12"  group-title="Sukan",beIN Sport 12
-http://niobzca.cf:8080/live/shahin/12345/101487.ts
-
-#EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE"  group-title="Sukan",WWE
-http://niobzca.cf:8080/live/shahin/12345/93245.ts
-
-#EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure"  group-title="Muviee",Sky Cinema Action & Adventure
-http://niobzca.cf:8080/live/shahin/12345/75656.ts
-
-#EXTINF:-1, tvg-id="SkyComedy.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyComedy.uk.png" tvg-name="Sky Cinema Comedy"  group-title="Muviee",Sky Cinema Comedy
-http://niobzca.cf:8080/live/shahin/12345/65148.ts
-
-#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
-http://niobzca.cf:8080/live/shahin/12345/88316.ts
-
-#EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney"  group-title="Muviee",Sky Cinema  Disney
-http://niobzca.cf:8080/live/shahin/12345/98206.ts
-
-#EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance HD"  group-title="Muviee",Sky Cinema  Drama &  Romance HD
-http://niobzca.cf:8080/live/shahin/12345/65146.ts
-
-#EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family"  group-title="Muviee",Sky Cinema  Family
-http://niobzca.cf:8080/live/shahin/12345/88320.ts
-
-#EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere"  group-title="Muviee",Sky Cinema  Premiere
-http://niobzca.cf:8080/live/shahin/12345/104308.ts
-
-#EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror"  group-title="Muviee",Sky Cinema  Sci-Fi & Horror
-http://niobzca.cf:8080/live/shahin/12345/74545.ts
-
-#EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select"  group-title="Muviee",Sky Cinema  Select
-http://niobzca.cf:8080/live/shahin/12345/93470.ts
-
-#EXTINF:-1, tvg-id="AndPrive.in" tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng" tvg-name="&Prive HD"  group-title="Muviee",&Prive HD
-http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" tvg-name="&Flix HD"  group-title="Muviee",&Flix HD
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1, tvg-id="FOX Action Movies HD - [Channel 411]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" tvg-name="Fox Action Movies IND."  group-title="Muviee",Fox Action Movies IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/99.ts
-
-#EXTINF:-1, tvg-id="CineMax HD - [Channel 402]" tvg-logo="https://mncvision.id/userfiles/image/channel/cinemax.jpg" tvg-name="Cinemax"  group-title="Muviee",Cinemax
-http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Cinemax/playlist.m3u8
-
-#EXTINF:-1, tvg-id="HBO Family HD - [Channel 403]" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" tvg-name="HBO Family"  group-title="Muviee",HBO Family
-http://123.456.789
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png" tvg-name="BOO"  group-title="Muviee",BOO
-http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Boo/playlist.m3u8
-
-#EXTINF:-1, tvg-id="MNC TV - [Channel 82]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" tvg-name="MNC TV"  group-title="Indonesia",MNC TV
+#EXTINF:-1, tvg-id="MNC TV - [Channel 82]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" tvg-name="MNC TV"  group-title="Indonesee",[COLOR RED] MNC TV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/27.ts
 
-#EXTINF:-1, tvg-id="KompasTv.id" tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png" tvg-name="Kompas TV"  group-title="Indonesia",Kompas TV
+#EXTINF:-1, tvg-id="KompasTv.id" tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png" tvg-name="Kompas TV"  group-title="Indonesee",[COLOR RED] Kompas TV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/30.ts
 
-#EXTINF:-1, tvg-id="Metro TV - [Channel 107]" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="Metro TV"  group-title="Indonesia",Metro TV
+#EXTINF:-1, tvg-id="Metro TV - [Channel 107]" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="Metro TV"  group-title="Indonesee",[COLOR RED] Metro TV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/52.ts
 
-#EXTINF:-1, tvg-id="FOX Movies - [Channel 14]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" tvg-name="Fox Movies IND."  group-title="Muviee",Fox Movies IND.
+#EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="[COLOR BLUE] Sky Cinema Action & Adventure - UK. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Sky Cinema Action & Adventure - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78690.ts
+
+#EXTINF:-1, tvg-id="SkyComedy.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyComedy.uk.png" tvg-name="[COLOR BLUE] Sky Cinema Comedy - UK. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Sky Cinema Comedy - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78698.ts
+
+#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="[COLOR BLUE] Sky Cinema  Crime & Thriller"  group-title="Muviee",[COLOR BLUE] Sky Cinema  Crime & Thriller
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78691.ts
+
+#EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="[COLOR BLUE] Sky Cinema  Disney - UK. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Sky Cinema  Disney - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78697.ts
+
+#EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="[COLOR BLUE] Sky Cinema  Drama &  Romance HD - UK. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Sky Cinema  Drama &  Romance HD - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78696.ts
+
+#EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="[COLOR BLUE] Sky Cinema  Family - UK. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Sky Cinema  Family - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78695.ts
+
+#EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="[COLOR BLUE] Sky Cinema  Premiere - UK. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Sky Cinema  Premiere - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78699.ts
+
+#EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="[COLOR BLUE] Sky Cinema  Sci-Fi & Horror - UK. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Sky Cinema  Sci-Fi & Horror - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78692.ts
+
+#EXTINF:-1, tvg-id="AndPrive.in" tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng" tvg-name="[COLOR BLUE] &Prive HD - ID. [/COLOR]"  group-title="Muviee",[COLOR BLUE] &Prive HD - ID. [/COLOR]
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" tvg-name="[COLOR BLUE] &Flix HD - ID. [/COLOR]"  group-title="Muviee",[COLOR BLUE] &Flix HD - ID. [/COLOR]
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="FOX Action Movies HD - [Channel 411]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" tvg-name="[COLOR BLUE] Fox Action Movies - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Fox Action Movies - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/99.ts
+
+#EXTINF:-1, tvg-id="FOX Movies - [Channel 14]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" tvg-name="[COLOR BLUE] Fox Movies - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Fox Movies - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/98.ts
 
-#EXTINF:-1, tvg-id="FOX Family Movies HD - [Channel 410]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" tvg-name="Fox Family Movies IND."  group-title="Muviee",Fox Family Movies IND.
+#EXTINF:-1, tvg-id="FOX Family Movies HD - [Channel 410]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" tvg-name="[COLOR BLUE] Fox Family Movies - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Fox Family Movies - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/100.ts
 
-#EXTINF:-1, tvg-id="FOXCrime - [Channel 152]" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_crime.png" tvg-name="Fox Crime IND."  group-title="Muviee",Fox Crime IND.
+#EXTINF:-1, tvg-id="FOXCrime - [Channel 152]" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_crime.png" tvg-name="[COLOR BLUE] Fox Crime - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Fox Crime - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/763.ts
 
-#EXTINF:-1, tvg-id="Fox Life HD - [Channel 439]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_156.png" tvg-name="FOX Life IND."  group-title="Series",FOX Life IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/94.ts
-
-#EXTINF:-1, tvg-id="FOX HD - [Channel 437]" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_channel.png" tvg-name="Fox IND."  group-title="Series",Fox IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/95.ts
-
-#EXTINF:-1, tvg-id="FX - [Channel 159]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_159.png" tvg-name="FX IND."  group-title="Series",FX IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/776.ts
-
-#EXTINF:-1, tvg-id="Diva HD - [Channel 436]" tvg-logo="https://mncvision.id/userfiles/image/channel/diva.jpg" tvg-name="Diva IND."  group-title="Series",Diva IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/841.ts
-
-#EXTINF:-1, tvg-id="HBO HD - [Channel 401]" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hd.png" tvg-name="HBO IND."  group-title="Muviee",HBO IND.
+#EXTINF:-1, tvg-id="HBO HD - [Channel 401]" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hd.png" tvg-name="[COLOR BLUE] HBO - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] HBO - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/863.ts
 
-#EXTINF:-1, tvg-id="WarnerTV - [Channel 163]" tvg-logo="https://mncvision.id/userfiles/image/channel/warner_tv.png" tvg-name="Warner TV IND."  group-title="Muviee",Warner TV IND.
+#EXTINF:-1, tvg-id="WarnerTV - [Channel 163]" tvg-logo="https://mncvision.id/userfiles/image/channel/warner_tv.png" tvg-name="[COLOR BLUE] Warner TV - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Warner TV - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/865.ts
 
-#EXTINF:-1, tvg-id="SCM - [Channel 18]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_18.jpg" tvg-name="Star Chinese Movies IND."  group-title="Muviee",Star Chinese Movies IND.
+#EXTINF:-1, tvg-id="SCM - [Channel 18]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_18.jpg" tvg-name="[COLOR BLUE] Star Chinese Movies - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Star Chinese Movies - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/780.ts
 
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="KBS World IND."  group-title="Series",KBS World IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/846.ts
-
-#EXTINF:-1, tvg-id="Sony One HD - [Channel 440]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_440.png" tvg-name="Sony One IND."  group-title="Series",Sony One IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/19.ts
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="K Plus - IND."  group-title="Series",K Plus - IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/18.ts
-
-#EXTINF:-1, tvg-id="Thrill - [Channel 19]" tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" tvg-name="Thrill - IND."  group-title="Muviee",Thrill - IND.
+#EXTINF:-1, tvg-id="Thrill - [Channel 19]" tvg-logo="https://mncvision.id/userfiles/image/channel/thrill_150x150px.jpg" tvg-name="[COLOR BLUE] Thrill - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Thrill - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/4.ts
 
-#EXTINF:-1, tvg-id="KIX - [Channel 161]" tvg-logo="https://mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" tvg-name="KIX - IND."  group-title="Muviee",KIX - IND.
+#EXTINF:-1, tvg-id="KIX - [Channel 161]" tvg-logo="https://mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg" tvg-name="[COLOR BLUE] KIX - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] KIX - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/8.ts
 
-#EXTINF:-1, tvg-id="Sony Channel - [Channel 160]" tvg-logo="https://mncvision.id/userfiles/image/channel/sony.jpg" tvg-name="Sony Channel - IND."  group-title="Series",Sony Channel - IND.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/15.ts
-
-#EXTINF:-1, tvg-id="Celestial Movies - [Channel 20]" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" tvg-name="Celestial Movies - IND."  group-title="Muviee",Celestial Movies - IND.
+#EXTINF:-1, tvg-id="Celestial Movies - [Channel 20]" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" tvg-name="[COLOR BLUE] Celestial Movies - IND. [/COLOR]"  group-title="Muviee",[COLOR BLUE] Celestial Movies - IND. [/COLOR]
 http://sg.ganteng.stream:8888/live/mawan/juli2018/5.ts
+
+#EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="[COLOR GREEN] ASTRO ARENA - MY. [/COLOR]"  group-title="Sportee",[COLOR GREEN] ASTRO ARENA - MY. [/COLOR]
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1, tvg-id="beIN Sports 1 HD - [Channel 425]" tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-1.jpg" tvg-name="[COLOR GREEN] BeIN Sport 1 - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BeIN Sport 1 - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/728.ts
+
+#EXTINF:-1, tvg-id="beIN Sports 2 HD - [Channel 426]" tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-2.jpg" tvg-name="[COLOR GREEN] BeIN Sport 2 - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BeIN Sport 2 - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/729.ts
+
+#EXTINF:-1, tvg-id="beIN Sports 3 - [Channel 307]" tvg-logo="https://mncvision.id/userfiles/image/channel/beIN-3.jpg" tvg-name="[COLOR GREEN] BeIN Sport 3 - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BeIN Sport 3 - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/730.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://epg.beinsports.com/th_sports/BS1.svg" tvg-name="[COLOR GREEN] BeIN Sports 1 TrueVisions - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BeIN Sports 1 TrueVisions - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/848.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://epg.beinsports.com/th_sports/BS2.svg" tvg-name="[COLOR GREEN] BeIN Sports 2 TrueVisions - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BeIN Sports 2 TrueVisions - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/849.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://epg.beinsports.com/th_sports/BS3.svg" tvg-name="[COLOR GREEN] BeIN Sports 3 TrueVisions - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BeIN Sports 3 TrueVisions - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/850.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://epg.beinsports.com/th_sports/BS4.svg" tvg-name="[COLOR GREEN] BeIN Sports 4 TrueVisions - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BeIN Sports 4 TrueVisions - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/851.ts
+
+#EXTINF:-1, tvg-id="FOX Sports 2 HD - [Channel 422]" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg" tvg-name="[COLOR GREEN] Fox Sports 2 - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Fox Sports 2 - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/102.ts
+
+#EXTINF:-1, tvg-id="FOX Sports 3 - [Channel 303]" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png" tvg-name="[COLOR GREEN] Fox Sports 3 - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Fox Sports 3 - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/101.ts
+
+#EXTINF:-1, tvg-id="Fight Sports - [Channel 304]" tvg-logo="https://mncvision.id/userfiles/image/channel/150x150fightsport.jpg" tvg-name="[COLOR GREEN] Fight Sports - IND. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Fight Sports - IND. [/COLOR]
+http://sg.ganteng.stream:8888/live/mawan/juli2018/784.ts
+
+#EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS MAIN EVENT - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS MAIN EVENT - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78706.ts
+
+#EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS  PREMIER LEAGUE - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS  PREMIER LEAGUE - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78705.ts
+
+#EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS  FOOTBALL - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS  FOOTBALL - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78704.ts
+
+#EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS  CRICKET - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS  CRICKET - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78703.ts
+
+#EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS F1 - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS F1 - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78701.ts
+
+#EXTINF:-1, tvg-id="SkySportsArena.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS  ARENA - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS  ARENA - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/34125.ts
+
+#EXTINF:-1, tvg-id="SkySportsNews.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsNews.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS  NEWSHQ - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS  NEWSHQ - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/34150.ts
+
+#EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS  GOLF - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS  GOLF - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78702.ts
+
+#EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS  ACTION - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS  ACTION - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/78700.ts
+
+#EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="[COLOR GREEN] SKY SPORTS  MIX - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] SKY SPORTS  MIX - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/40682.ts
+
+#EXTINF:-1, tvg-id="Eurosport1.uk" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" tvg-name="[COLOR GREEN] Eurosport 1 - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Eurosport 1 - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/17557.ts
+
+#EXTINF:-1, tvg-id="Eurosport2.uk" tvg-logo="https://static.iptv-epg.com/gb/Eurosport2.uk.png" tvg-name="[COLOR GREEN] Eurosport 2 - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Eurosport 2 - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/8769.ts
+
+#EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="[COLOR GREEN] BT Sport 1 - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BT Sport 1 - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/34131.ts
+
+#EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="[COLOR GREEN] BT Sport 2 - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BT Sport 2 - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/34130.ts
+
+#EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="[COLOR GREEN] BT Sport 3 - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BT Sport 3 - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/34129.ts
+
+#EXTINF:-1, tvg-id="BTSportESPN.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSportESPN.uk.png" tvg-name="[COLOR GREEN] BT Sport/ESPN - UK. [/COLOR]"  group-title="Sportee",[COLOR GREEN] BT Sport/ESPN - UK. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/15363.ts
+
+#EXTINF:-1, tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" tvg-name="[COLOR GREEN] Fox sport 1 - USA. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Fox sport 1 - USA. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/75813.ts
+
+#EXTINF:-1, tvg-id="FoxSports2.us" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" tvg-name="[COLOR GREEN] Fox sport 2 - USA. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Fox sport 2 - USA. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/75811.ts
+
+#EXTINF:-1, tvg-id="TSN1.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN1.ca.png" tvg-name="[COLOR GREEN] TSN 1 - USA. [/COLOR]"  group-title="Sportee",[COLOR GREEN] TSN 1 - USA. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/68181.ts
+
+#EXTINF:-1, tvg-id="TSN2.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN2.ca.png" tvg-name="[COLOR GREEN] TSN 2 - USA. [/COLOR]"  group-title="Sportee",[COLOR GREEN] TSN 2 - USA. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/68247.ts
+
+#EXTINF:-1, tvg-id="TSN3.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN3.ca.png" tvg-name="[COLOR GREEN] TSN 3 - USA. [/COLOR]"  group-title="Sportee",[COLOR GREEN] TSN 3 - USA. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/68246.ts
+
+#EXTINF:-1, tvg-id="TSN4.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN4.ca.png" tvg-name="[COLOR GREEN] TSN 4 - USA. [/COLOR]"  group-title="Sportee",[COLOR GREEN] TSN 4 - USA. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/68245.ts
+
+#EXTINF:-1, tvg-id="TSN5.ca" tvg-logo="https://static.iptv-epg.com/ca/TSN5.ca.png" tvg-name="[COLOR GREEN] TSN 5 - USA. [/COLOR]"  group-title="Sportee",[COLOR GREEN] TSN 5 - USA. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/68244.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="[COLOR GREEN] beIN Sport 11 - AR. [/COLOR]"  group-title="Sportee",[COLOR GREEN] beIN Sport 11 - AR. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/68219.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="[COLOR GREEN] beIN Sport 12 - AR. [/COLOR]"  group-title="Sportee",[COLOR GREEN] beIN Sport 12 - AR. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/68218.ts
+
+#EXTINF:-1, tvg-id="StarSports1.in" tvg-logo="https://i.pinimg.com/originals/13/e4/9f/13e49f299098079953d3a95ddfa39def.jpg" tvg-name="[COLOR GREEN] Star Sports 1 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Star Sports 1 - IN. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/69318.ts
+
+#EXTINF:-1, tvg-id="StarSports2.in" tvg-logo="https://www.theindianwire.com/wp-content/uploads/2017/07/Star-Sports2.jpg" tvg-name="[COLOR GREEN] Star Sports 2 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Star Sports 2 - IN. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/69319.ts
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="New Logo" tvg-name="[COLOR GREEN] Star Sports 3 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Star Sports 3 - IN. [/COLOR]
+http://123.456.789
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="New Logo" tvg-name="[COLOR GREEN] Star Sports 4 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Star Sports 4 - IN. [/COLOR]
+http://123.456.789
+
+#EXTINF:-1, tvg-id="StarSportsSelect1.in" tvg-logo="New Logo" tvg-name="[COLOR GREEN] Star Sports Select 1 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Star Sports Select 1 - IN. [/COLOR]
+http://123.456.789
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="New Logo" tvg-name="[COLOR GREEN] Star Sports Select 2 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Star Sports Select 2 - IN. [/COLOR]
+http://123.456.789
+
+#EXTINF:-1, tvg-id="SonyTEN1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo2.png" tvg-name="[COLOR GREEN] Sony TEN 1 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Sony TEN 1 - IN. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/31409.ts
+
+#EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="[COLOR GREEN] Sony TEN 2 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Sony TEN 2 - IN. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/31408.ts
+
+#EXTINF:-1, tvg-id="SonyTEN3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo4.png" tvg-name="[COLOR GREEN] Sony TEN 3 - IN. [/COLOR]"  group-title="Sportee",[COLOR GREEN] Sony TEN 3 - IN. [/COLOR]
+http://1.s-sat.uk:80/live/shahbaz/shahbaz/31407.ts
