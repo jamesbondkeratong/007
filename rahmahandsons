@@ -105,3 +105,6 @@ http://e2.iudtv.org:8080/live/tura/123456/159.ts
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
 http://e2.iudtv.org:8080/live/tura/123456/170.ts
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s5.dunia21.net/wp-content/uploads/2016/01/film-karan-arjun-1995.jpg" subtitles="http://thesubtitles.net/subtitle/the-mummy-malay-2760729" tvg-name="Karan Arjun (1995)"  group-title="VOD",Karan Arjun (1995)
+https://1fhjm36.oloadcdn.net/dl/l/Mj1Fg2yfcLC2Injq/JrQFCy-I59E/MCNaz.Karan.Arjun.%281995%29.720p.DVDRip.mp4?mime=true
+
