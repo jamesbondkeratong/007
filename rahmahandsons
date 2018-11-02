@@ -16,13 +16,13 @@ https://rtm-live-stream2.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_300.png" tvg-name="8TV - MY."  group-title="Malayee",8TV - MY.
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
+https://stream-03.sv6.dailymotion.com/dm/3/x6qud17/live-4.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png" tvg-name="TV 9 - MY."  group-title="Malayee",TV 9 - MY.
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
 #EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7 - IND."  group-title="Indonesee",TRANS 7 - IND.
-https://stream-04.sg1.dailymotion.com/dm/3/x5b99vx/live-3.m3u8
+http://id8.indostreamingtv.com/live/tv77/index.m3u8
 
 #EXTINF:-1, tvg-id="SCTV - [Channel 89]" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" tvg-name="SCTV - IND."  group-title="Indonesee",SCTV - IND.
 https://cdn-livetv1.metube.id/hls/sctv_480/index.m3u8
@@ -69,9 +69,6 @@ http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
 http://217.23.7.160:5475/live/iptv2016/5622295666745/641.m3u8
 
-#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
-http://1.s-sat.uk:80/live/abcd1234/abcd1234/78691.ts
-
 #EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror - UK."  group-title="Muviee",Sky Cinema  Sci-Fi & Horror - UK.
 http://217.23.7.160:5475/live/iptv2016/5622295666745/635.m3u8
 
@@ -79,7 +76,7 @@ http://217.23.7.160:5475/live/iptv2016/5622295666745/635.m3u8
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
-http://1.s-sat.uk:80/live/abcd1234/abcd1234/78706.ts
+http://e2.iudtv.org:8080/live/tura/123456/546.ts
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
 http://217.23.7.160:5475/live/iptv2016/5622295666745/272.m3u8
@@ -100,8 +97,8 @@ http://217.23.7.160:5475/live/iptv2016/5622295666745/1506.m3u8
 http://niobzca.cf:8080/live/shahin/12345/93245.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - AR."  group-title="Sportee",beIN Sport 11 - AR.
-http://1.s-sat.uk:80/live/abcd1234/abcd1234/68219.ts
+http://e2.iudtv.org:8080/live/tura/123456/2466.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
-http://1.s-sat.uk:80/live/abcd1234/abcd1234/68218.ts
+http://e2.iudtv.org:8080/live/tura/123456/2467.ts
 
