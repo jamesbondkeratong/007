@@ -100,8 +100,8 @@ http://217.23.7.160:5475/live/iptv2016/5622295666745/1506.m3u8
 http://niobzca.cf:8080/live/shahin/12345/93245.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - AR."  group-title="Sportee",beIN Sport 11 - AR.
-http://e2.iudtv.org:8080/live/tura/123456/2466.ts
+http://e2.iudtv.org:8080/live/tura/123456/159.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
-http://e2.iudtv.org:8080/live/tura/123456/2467.ts
+http://e2.iudtv.org:8080/live/tura/123456/170.ts
 
