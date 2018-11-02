@@ -73,7 +73,7 @@ http://217.23.7.160:5475/live/iptv2016/5622295666745/641.m3u8
 http://217.23.7.160:5475/live/iptv2016/5622295666745/635.m3u8
 
 #EXTINF:-1, tvg-id="FOX Action Movies HD - [Channel 411]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" tvg-name="Fox Action Movies - IND."  group-title="Muviee",Fox Action Movies - IND.
-http://e2.iudtv.org:8080/live/tura/123456/1441.m3u8
+http://e2.iudtv.org:8080/live/tura/123456/1441.ts
 
 #EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA - MY."  group-title="Sportee",ASTRO ARENA - MY.
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
