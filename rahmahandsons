@@ -16,38 +16,113 @@ https://rtm-live-stream2.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.
 http://stream-03.sg1.dailymotion.com/dm/dm/3/x6qp6ou/live.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_300.png" tvg-name="8TV - MY."  group-title="Malayee",8TV - MY.
-http://stream-02.sg1.dailymotion.com/dm/3/x6qud17/live-1.m3u8
+https://stream-03.sv6.dailymotion.com/dm/3/x6qud17/live-4.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png" tvg-name="TV 9 - MY."  group-title="Malayee",TV 9 - MY.
 http://stream-02.sg1.dailymotion.com/dm/3/x6qqja6/live.m3u8
 
-#EXTINF:-1, tvg-id="AstroRia.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_120.png" tvg-name="Ria - MY."  group-title="Malayee",Ria - MY.
-http://185.216.119.144:9910/smarttv.php?playurl=http://50.7.73.90:8278/Ria/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AstroOasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_120.png" tvg-name="Oasis - MY."  group-title="Melayu",Oasis - MY.
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Oasis/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AstroWarna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_120.png" tvg-name="Warna - MY."  group-title="Malayee",Warna - MY.
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Warna/playlist.m3u8
-
-#EXTINF:-1, tvg-id="Maya.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/135_120.png" tvg-name="Maya - MY."  group-title="Malayee",Maya - MY.
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Mayasd/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png" tvg-name="Prima - MY."  group-title="Malayee",Prima - MY.
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Prima/playlist.m3u8
-
-#EXTINF:-1, tvg-id="AstroCitra.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_120.png" tvg-name="Citra - MY."  group-title="Malayee",Citra - MY.
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Citra/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" tvg-name="Naura - MY."  group-title="Malayee",Naura - MY.
-http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Naura/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.dramasangat.my/frontend/assets/images/icons/logo.png" tvg-name="Drama Sangat - MY."  group-title="Malayee",Drama Sangat - MY.
-http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Drama/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/110_300.png" tvg-name="Hello - MY."  group-title="Malayee",Hello - MY.
-http://sg.ganteng.stream:8888/live/mawan/juli2018/804.ts
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://alhijrahmedia.com/wp-content/uploads/2014/04/153x44.png" tvg-name="Al Hijrah"  group-title="Malayee",Al Hijrah
 http://103.82.219.66:6543/live/80F2361F36DA417F87672CF14CDC9D85/playlist.m3u8?sid=56284c63a1d04b729926aad05d4145e5&origin=MTAuMjAuNjMuMjAyOjYwNjA=
+
+#EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7 - IND."  group-title="Indonesee",TRANS 7 - IND.
+http://id8.indostreamingtv.com/live/tv77/index.m3u8
+
+#EXTINF:-1, tvg-id="SCTV - [Channel 89]" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" tvg-name="SCTV - IND."  group-title="Indonesee",SCTV - IND.
+http://id7.indostreamingtv.com/live/tv2/index.m3u8
+
+#EXTINF:-1, tvg-id="Trans TV - [Channel 87]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_87.png" tvg-name="TRANS TV - IND."  group-title="Indonesee",TRANS TV - IND.
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
+
+#EXTINF:-1, tvg-id="RCTI - [Channel 80]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_430.png" tvg-name="RCTI - IND."  group-title="Indonesee",RCTI - IND.
+http://id8.indostreamingtv.com/live/tv6/index.m3u8
+
+#EXTINF:-1, tvg-id="Indosiar - [Channel 103]" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" tvg-name="INDOSIAR - IND."  group-title="Indonesee",INDOSIAR - IND.
+http://id1.indostreamingtv.com/live/tv11/index.m3u8
+
+#EXTINF:-1, tvg-id="NetTV.id" tvg-logo="https://mbtskoudsalg.com/images/net-tv-logo-png-1.png" tvg-name="NET TV - IND."  group-title="Indonesee",NET TV - IND.
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1, tvg-id="TVONE - [Channel 97]" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" tvg-name="TV ONE - IND."  group-title="Indonesee",TV ONE - IND.
+http://id1.indostreamingtv.com/live/tv44/index.m3u8
+
+#EXTINF:-1, tvg-id="ANTV - [Channel 115]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" tvg-name="ANTV - IND."  group-title="Indonesee",ANTV - IND.
+http://id2.indostreamingtv.com/live/tv4/index.m3u8
+
+#EXTINF:-1, tvg-id="Metro TV - [Channel 107]" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="METRO TV - IND."  group-title="Indonesee",METRO TV - IND.
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w230636936_b1492000_sleng.m3u8
+
+#EXTINF:-1, tvg-id="Global TV - [Channel 81]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_81.png" tvg-name="GLOBAL TV - IND."  group-title="Indonesee",GLOBAL TV - IND.
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1, tvg-id="TVRI - [Channel 118]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.png" tvg-name="TVRI - IND."  group-title="Indonesee",TVRI - IND.
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
+
+#EXTINF:-1, tvg-id="MNC TV - [Channel 82]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_82.png" tvg-name="MNC TV - IND."  group-title="Indonesee",MNC TV - IND.
+http://id2.indostreamingtv.com/live/event/index.m3u8
+
+#EXTINF:-1, tvg-id="KompasTv.id" tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png" tvg-name="Kompas TV - IND."  group-title="Indonesee",Kompas TV - IND.
+https://stream-01.sg1.dailymotion.com/dm/3/x6pz4sa/live-3.m3u8
+
+#EXTINF:-1, tvg-id="AndPrive.in" tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng" tvg-name="&Prive HD - ID."  group-title="Muviee",&Prive HD - ID.
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" tvg-name="&Flix HD - ID."  group-title="Muviee",&Flix HD - ID.
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="FOX Movies - [Channel 14]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" tvg-name="Fox Movies - IND."  group-title="Muviee",Fox Movies - IND.
+http://sg.ganteng.stream:8888/Jason/Jason123/98
+
+#EXTINF:-1, tvg-id="FOX Family Movies HD - [Channel 410]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" tvg-name="Fox Family Movies - IND."  group-title="Muviee",Fox Family Movies - IND.
+http://sg.ganteng.stream:8888/Jason/Jason123/100
+
+#EXTINF:-1, tvg-id="FOXCrime - [Channel 152]" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_crime.png" tvg-name="Fox Crime - IND."  group-title="Muviee",Fox Crime - IND.
+http://sg.ganteng.stream:8888/Jason/Jason123/763
+
+#EXTINF:-1, tvg-id="HBO HD - [Channel 401]" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hd.png" tvg-name="HBO - IND."  group-title="Muviee",HBO - IND.
+http://sg.ganteng.stream:8888/Jason/Jason123/210
+
+#EXTINF:-1, tvg-id="FOX Action Movies HD - [Channel 411]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" tvg-name="Fox Action Movies - IND."  group-title="Muviee",Fox Action Movies - IND.
+http://sg.ganteng.stream:8888/Jason/Jason123/99
+
+#EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA - MY."  group-title="Sportee",ASTRO ARENA - MY.
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1, tvg-id="AstroSuperSport.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_160.png" tvg-name="Astro Super Sports"  group-title="Sportee",Astro Super Sports
+http://sg.ganteng.stream:8888/Jason/Jason123/882
+
+#EXTINF:-1, tvg-id="AstroSuperSport2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_160.png" tvg-name="Astro Super Sports 2"  group-title="Sportee",Astro Super Sports 2
+http://sg.ganteng.stream:8888/Jason/Jason123/892
+
+#EXTINF:-1, tvg-id="AstroSuperSport3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_160.png" tvg-name="Astro Super Sports 3"  group-title="Sportee",Astro Super Sports 3
+http://sg.ganteng.stream:8888/Jason/Jason123/893
+
+#EXTINF:-1, tvg-id="AstroSuperSport4.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/817_160.png" tvg-name="Astro Super Sports 4"  group-title="Sportee",Astro Super Sports 4
+http://sg.ganteng.stream:8888/Jason/Jason123/894
+
+#EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
+http://sg.ganteng.stream:8888/Jason/Jason123/316
+
+#EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
+http://217.23.7.160:5475/live/iptv2016/5622295666745/272.m3u8
+
+#EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION - UK."  group-title="Sportee",SKY SPORTS  ACTION - UK.
+http://217.23.7.160:5475/live/iptv2016/5622295666745/274.m3u8
+
+#EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1504.m3u8
+
+#EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2 - UK."  group-title="Sportee",BT Sport 2 - UK.
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1505.m3u8
+
+#EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3 - UK."  group-title="Sportee",BT Sport 3 - UK.
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1506.m3u8
+
+#EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE - USA."  group-title="Sportee",WWE - USA.
+http://liveal.quanmin.tv/live/2115620138.flv
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - AR."  group-title="Sportee",beIN Sport 11 - AR.
+http://sg.ganteng.stream:8888/Jason/Jason123/254
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
+http://sg.ganteng.stream:8888/Jason/Jason123/255
 
