@@ -52,7 +52,7 @@ http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast
 http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="ANTV - [Channel 115]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" tvg-name="ANTV - IND."  group-title="Indonesee",ANTV - IND.
-http://id2.indostreamingtv.com/live/tv4/index.m3u8
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="Metro TV - [Channel 107]" tvg-logo="https://mncvision.id/userfiles/image/channel/metro_tv.png" tvg-name="METRO TV - IND."  group-title="Indonesee",METRO TV - IND.
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w230636936_b1492000_sleng.m3u8
@@ -75,59 +75,56 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" tvg-name="&Flix HD - ID."  group-title="Muviee",&Flix HD - ID.
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
-#EXTINF:-1, tvg-id="FOX Movies - [Channel 14]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" tvg-name="Fox Movies - IND."  group-title="Muviee",Fox Movies - IND.
-http://sg.ganteng.stream:8888/Jason/Jason123/98
+#EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9096
 
-#EXTINF:-1, tvg-id="FOX Family Movies HD - [Channel 410]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" tvg-name="Fox Family Movies - IND."  group-title="Muviee",Fox Family Movies - IND.
-http://sg.ganteng.stream:8888/Jason/Jason123/100
+#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller - UK."  group-title="Muviee",Sky Cinema  Crime & Thriller - UK.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9092
 
-#EXTINF:-1, tvg-id="FOXCrime - [Channel 152]" tvg-logo="https://mncvision.id/userfiles/image/channel/fox_crime.png" tvg-name="Fox Crime - IND."  group-title="Muviee",Fox Crime - IND.
-http://sg.ganteng.stream:8888/Jason/Jason123/763
+#EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere - UK."  group-title="Muviee",Sky Cinema  Premiere - UK.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9110
 
-#EXTINF:-1, tvg-id="HBO HD - [Channel 401]" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hd.png" tvg-name="HBO - IND."  group-title="Muviee",HBO - IND.
-http://sg.ganteng.stream:8888/Jason/Jason123/210
-
-#EXTINF:-1, tvg-id="FOX Action Movies HD - [Channel 411]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" tvg-name="Fox Action Movies - IND."  group-title="Muviee",Fox Action Movies - IND.
-http://sg.ganteng.stream:8888/Jason/Jason123/99
+#EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror - UK."  group-title="Muviee",Sky Cinema  Sci-Fi & Horror - UK.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9090
 
 #EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA - MY."  group-title="Sportee",ASTRO ARENA - MY.
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
-#EXTINF:-1, tvg-id="AstroSuperSport.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_160.png" tvg-name="Astro Super Sports"  group-title="Sportee",Astro Super Sports
-http://sg.ganteng.stream:8888/Jason/Jason123/882
-
-#EXTINF:-1, tvg-id="AstroSuperSport2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_160.png" tvg-name="Astro Super Sports 2"  group-title="Sportee",Astro Super Sports 2
-http://sg.ganteng.stream:8888/Jason/Jason123/892
-
-#EXTINF:-1, tvg-id="AstroSuperSport3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_160.png" tvg-name="Astro Super Sports 3"  group-title="Sportee",Astro Super Sports 3
-http://sg.ganteng.stream:8888/Jason/Jason123/893
-
-#EXTINF:-1, tvg-id="AstroSuperSport4.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/817_160.png" tvg-name="Astro Super Sports 4"  group-title="Sportee",Astro Super Sports 4
-http://sg.ganteng.stream:8888/Jason/Jason123/894
-
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
-http://rb-group-server.com:25461/fluxamibelge/PDXrdtP7y0/4784
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9137
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
-http://217.23.7.160:5475/live/iptv2016/5622295666745/272.m3u8
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9132
+
+#EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="SKY SPORTS  FOOTBALL - UK."  group-title="Sportee",SKY SPORTS  FOOTBALL - UK.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9130
+
+#EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS F1 - UK."  group-title="Sportee",SKY SPORTS F1 - UK.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9124
+
+#EXTINF:-1, tvg-id="SkySportsArena.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" tvg-name="SKY SPORTS  ARENA - UK."  group-title="Sportee",SKY SPORTS  ARENA - UK.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9120
 
 #EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION - UK."  group-title="Sportee",SKY SPORTS  ACTION - UK.
-http://rb-group-server.com:25461/fluxamibelge/PDXrdtP7y0/4783
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9122
+
+#EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX - UK."  group-title="Sportee",SKY SPORTS  MIX - UK.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9116
 
 #EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
-http://217.23.7.160:5475/live/iptv2016/5622295666745/1504.m3u8
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9147
 
 #EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2 - UK."  group-title="Sportee",BT Sport 2 - UK.
-http://rb-group-server.com:25461/fluxamibelge/PDXrdtP7y0/4776
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9144
 
 #EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3 - UK."  group-title="Sportee",BT Sport 3 - UK.
-http://217.23.7.160:5475/live/iptv2016/5622295666745/1506.m3u8
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9141
 
 #EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE - USA."  group-title="Sportee",WWE - USA.
 http://liveal.quanmin.tv/live/2115620138.flv
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - AR."  group-title="Sportee",beIN Sport 11 - AR.
-http://rb-group-server.com:25461/fluxamibelge/PDXrdtP7y0/3157
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/7224
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
-http://rb-group-server.com:25461/fluxamibelge/PDXrdtP7y0/3156
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/7223
