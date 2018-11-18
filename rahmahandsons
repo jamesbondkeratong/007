@@ -128,3 +128,6 @@ http://194.88.107.101:6204/marwan/123/9012
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
 http://194.88.107.101:6204/marwan/123/189
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.cinema.com.my/images/movies/2018/7munafik200_450.jpg" tvg-name="Munafik 2 (2018)"  group-title="VOD",Munafik 2 (2018)
+https://1llrao.oloadcdn.net/dl/l/JBoLpdST19v6CttB/pp7y911x60M/Munafik.2.2018.WEB-DL.480p.x264.AAC-OMG-Akai.mp4?mime=true
