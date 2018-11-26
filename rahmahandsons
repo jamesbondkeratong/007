@@ -46,7 +46,7 @@ http://202.80.222.182/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=0
 http://202.80.222.171/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="NetTV.id" tvg-logo="https://mbtskoudsalg.com/images/net-tv-logo-png-1.png" tvg-name="NET TV - IND."  group-title="Indonesee",NET TV - IND.
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+http://202.80.222.171/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="TVONE - [Channel 97]" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" tvg-name="TV ONE - IND."  group-title="Indonesee",TV ONE - IND.
 http://202.80.222.171/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -76,52 +76,67 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/43.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4607.m3u8
 
-#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller - UK."  group-title="Muviee",Sky Cinema  Crime & Thriller - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/46.ts
+#EXTINF:-1, tvg-id="SkyComedy.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyComedy.uk.png" tvg-name="Sky Cinema Comedy - UK."  group-title="Muviee",Sky Cinema Comedy - UK.
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4606.m3u8
+
+#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4605.m3u8
+
+#EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney - UK."  group-title="Muviee",Sky Cinema  Disney - UK.
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4604.m3u8
+
+#EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance - UK."  group-title="Muviee",Sky Cinema  Drama &  Romance - UK.
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4603.m3u8
+
+#EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family - UK."  group-title="Muviee",Sky Cinema  Family - UK.
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4602.m3u8
 
 #EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere - UK."  group-title="Muviee",Sky Cinema  Premiere - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/42.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4601.m3u8
 
 #EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror - UK."  group-title="Muviee",Sky Cinema  Sci-Fi & Horror - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/52.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4600.m3u8
+
+#EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select - UK."  group-title="Muviee",Sky Cinema  Select - UK.
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4599.m3u8
 
 #EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA - MY."  group-title="Sportee",ASTRO ARENA - MY.
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/85.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4565.m3u8
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/37.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4563.m3u8
 
-#EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="SKY SPORTS  FOOTBALL - UK."  group-title="Sportee",SKY SPORTS  FOOTBALL - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/291.ts
+#EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="SKY SPORTS  CRICKET - UK."  group-title="Sportee",SKY SPORTS  CRICKET - UK.
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4620.m3u8
 
 #EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS F1 - UK."  group-title="Sportee",SKY SPORTS F1 - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/328.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4616.m3u8
+
+#EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="SKY SPORTS  GOLF - UK."  group-title="Sportee",SKY SPORTS  GOLF - UK.
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4618.m3u8
 
 #EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION - UK."  group-title="Sportee",SKY SPORTS  ACTION - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/86.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4619.m3u8
 
 #EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX - UK."  group-title="Sportee",SKY SPORTS  MIX - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/329.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4652.m3u8
 
 #EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/17.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4523.m3u8
 
 #EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2 - UK."  group-title="Sportee",BT Sport 2 - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/302.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4524.m3u8
 
 #EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3 - UK."  group-title="Sportee",BT Sport 3 - UK.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/19.ts
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4654.m3u8
 
 #EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE - USA."  group-title="Sportee",WWE - USA.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/376.ts
+http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - AR."  group-title="Sportee",beIN Sport 11 - AR.
-http://hiddennetworks.xyz:80/live/WHMCS2MAG:WHMCS2:424/Tf0M45frl6/121.ts
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
-http://194.88.107.101:6204/marwan/123/189
+#EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
+http://163.172.218.205:8081/2Ten/2/index.m3u8
