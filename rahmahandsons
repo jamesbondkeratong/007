@@ -200,3 +200,9 @@ http://163.172.218.205:8081/2Ten/2/index.m3u8
 
 #EXTINF:-1, tvg-id="SonyTEN3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo4.png" tvg-name="Sony TEN 3 - IN."  group-title="Sportee",Sony TEN 3 - IN.
 http://linux-app.tv:6204/jabar2/jabar2/8929
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.cinema.com.my/images/movies/2018/7munafik200_450.jpg" tvg-name="Munafik 2 (2018)"  group-title="VOD",Munafik 2 (2018)
+https://stream03.cdncv.net/hls/mfqjwlehwdo6sr7qw4oez7qhwytvhkxhd7ham3pqa,hvgb4qnn26v3wz3dyya,okgd4qnn26s4qnbnzjq,vigf4qnn26tn26pxsua,.urlset/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-vbDNn3UrClQ/W8mgdXkGz-I/AAAAAAAAGj0/nw6idxtarQUL7virtdYFleutIJDYsws4wCLcBGAs/s1600/Hantu%2BKak%2BLimah%2B2018.jpg" tvg-name="Hantu Kak Limah (2018)"  group-title="VOD",Hantu Kak Limah (2018)
+https://iienc.cdncv.net/hls/,mfqjqm6fwpo6sr7qw4wezl2m6ujrysbxssnk3nau3cgeqr6nrbvnmfwoiiuq,.urlset/master.m3u8
