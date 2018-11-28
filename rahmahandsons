@@ -30,6 +30,30 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
 #EXTINF:-1, tvg-id="AstroAwani.my" tvg-logo="https://img.astroawani.com/template/awani.jpg" tvg-name="Awani - MY."  group-title="Malayee",Awani - MY.
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8.m3u8
 
+#EXTINF:-1, tvg-id="AstroRia.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_120.png" tvg-name="Ria - MY."  group-title="Malayee",Ria - MY.
+http://50.7.73.90:8278/Ria/playlist.m3u8?tid=13479663&tsum=997a1fadb70e7ec656f1d78995210c2d
+
+#EXTINF:-1, tvg-id="AstroOasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_120.png" tvg-name="Oasis - MY."  group-title="Malayee",Oasis - MY.
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Oasis/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AstroWarna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_120.png" tvg-name="Warna - MY."  group-title="Malayee",Warna - MY.
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Warna/playlist.m3u8
+
+#EXTINF:-1, tvg-id="Maya.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/135_120.png" tvg-name="Maya - MY."  group-title="Malayee",Maya - MY.
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Mayasd/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png" tvg-name="Prima - MY."  group-title="Malayee",Prima - MY.
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Prima/playlist.m3u8
+
+#EXTINF:-1, tvg-id="AstroCitra.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_120.png" tvg-name="Citra - MY."  group-title="Malayee",Citra - MY.
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Citra/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_300.png" tvg-name="Naura - MY."  group-title="Malayee",Naura - MY.
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Naura/playlist.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.dramasangat.my/frontend/assets/images/icons/logo.png" tvg-name="Drama Sangat - MY."  group-title="Malayee",Drama Sangat - MY.
+http://185.216.119.144:9910/smarttv.php?playurl=http://5.79.87.234:8278/Drama/playlist.m3u8
+
 #EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7 - IND."  group-title="Indonesee",TRANS 7 - IND.
 http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -76,46 +100,31 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8545
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2314
 
 #EXTINF:-1, tvg-id="SkyComedy.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyComedy.uk.png" tvg-name="Sky Cinema Comedy - UK."  group-title="Muviee",Sky Cinema Comedy - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8539
-
-#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
-http://linux-app.tv:6204/jabar2/jabar2/8543
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2313
 
 #EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney - UK."  group-title="Muviee",Sky Cinema  Disney - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8542
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2312
 
 #EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance - UK."  group-title="Muviee",Sky Cinema  Drama &  Romance - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8541
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2311
 
 #EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family - UK."  group-title="Muviee",Sky Cinema  Family - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8540
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2310
 
 #EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere - UK."  group-title="Muviee",Sky Cinema  Premiere - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8538
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2309
 
 #EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror - UK."  group-title="Muviee",Sky Cinema  Sci-Fi & Horror - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8537
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2308
 
 #EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select - UK."  group-title="Muviee",Sky Cinema  Select - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8537
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO - USA"  group-title="Muviee",HBO - USA
-http://linux-app.tv:6204/jabar2/jabar2/10409
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2307
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" tvg-name="HBO2 - USA"  group-title="Muviee",HBO2 - USA
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE - USA"  group-title="Muviee",HBO SIGNATURE - USA
-http://linux-app.tv:6204/jabar2/jabar2/10410
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" tvg-name="HBO COMEDY - USA"  group-title="Muviee",HBO COMEDY - USA
-http://linux-app.tv:6204/jabar2/jabar2/10411
-
-#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" tvg-name="HBO ZONE - USA"  group-title="Muviee",HBO ZONE - USA
-http://linux-app.tv:6204/jabar2/jabar2/10408
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 1 - CN"  group-title="Muviee",24/7 Hollywood Movies 1 - CN
 http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
@@ -148,61 +157,31 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8517
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2249
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8513
-
-#EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="SKY SPORTS  FOOTBALL - UK."  group-title="Sportee",SKY SPORTS  FOOTBALL - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8523
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2298
 
 #EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="SKY SPORTS  CRICKET - UK."  group-title="Sportee",SKY SPORTS  CRICKET - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8516
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2250
 
 #EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS F1 - UK."  group-title="Sportee",SKY SPORTS F1 - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8512
-
-#EXTINF:-1, tvg-id="SkySportsArena.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" tvg-name="SKY SPORTS  ARENA - UK."  group-title="Sportee",SKY SPORTS  ARENA - UK.
-http://linux-app.tv:6204/jabar2/jabar2/9059
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2299
 
 #EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="SKY SPORTS  GOLF - UK."  group-title="Sportee",SKY SPORTS  GOLF - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8514
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2297
 
 #EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION - UK."  group-title="Sportee",SKY SPORTS  ACTION - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8515
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2296
 
 #EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX - UK."  group-title="Sportee",SKY SPORTS  MIX - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8511
-
-#EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8582
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/3439
 
 #EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2 - UK."  group-title="Sportee",BT Sport 2 - UK.
-http://linux-app.tv:6204/jabar2/jabar2/8580
-
-#EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3 - UK."  group-title="Sportee",BT Sport 3 - UK.
-http://linux-app.tv:6204/jabar2/jabar2/10166
+http://zeebra.tv:8000/735779834744/5b49798ddd14f/2300
 
 #EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE - USA."  group-title="Sportee",WWE - USA.
 http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - AR."  group-title="Sportee",beIN Sport 11 - AR.
-http://linux-app.tv:6204/jabar2/jabar2/188
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
-http://linux-app.tv:6204/jabar2/jabar2/189
-
-#EXTINF:-1, tvg-id="SonyTEN1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo2.png" tvg-name="Sony TEN 1 - IN."  group-title="Sportee",Sony TEN 1 - IN.
-http://linux-app.tv:6204/jabar2/jabar2/8931
-
 #EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
 http://163.172.218.205:8081/2Ten/2/index.m3u8
-
-#EXTINF:-1, tvg-id="SonyTEN3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo4.png" tvg-name="Sony TEN 3 - IN."  group-title="Sportee",Sony TEN 3 - IN.
-http://linux-app.tv:6204/jabar2/jabar2/8929
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.cinema.com.my/images/movies/2018/7munafik200_450.jpg" tvg-name="Munafik 2 (2018)"  group-title="VOD",Munafik 2 (2018)
-https://stream03.cdncv.net/hls/mfqjwlehwdo6sr7qw4oez7qhwytvhkxhd7ham3pqa,hvgb4qnn26v3wz3dyya,okgd4qnn26s4qnbnzjq,vigf4qnn26tn26pxsua,.urlset/master.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-vbDNn3UrClQ/W8mgdXkGz-I/AAAAAAAAGj0/nw6idxtarQUL7virtdYFleutIJDYsws4wCLcBGAs/s1600/Hantu%2BKak%2BLimah%2B2018.jpg" tvg-name="Hantu Kak Limah (2018)"  group-title="VOD",Hantu Kak Limah (2018)
-https://iienc.cdncv.net/hls/,mfqjqm6fwpo6sr7qw4wezl2m6ujrysbxssnk3nau3cgeqr6nrbvnmfwoiiuq,.urlset/master.m3u8
