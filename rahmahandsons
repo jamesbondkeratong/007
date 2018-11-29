@@ -190,7 +190,10 @@ http://195.154.214.187:2086/house/house/39
 http://163.172.218.205:8081/2Ten/2/index.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.cinema.com.my/images/movies/2018/7munafik200_450.jpg" tvg-name="Munafik 2 (2018)"  group-title="VOD",Munafik 2 (2018)
-https://stream03.cdncv.net/hls/mfqjwlehwdo6sr7qw4oez7qhwytvhkxhd7ham3pqa,hvgb4qnn26v3wz3dyya,okgd4qnn26s4qnbnzjq,vigf4qnn26tn26pxsua,.urlset/master.m3u8
+https://straw.playercdn.net/188/2/1nq-P3VjdftqZT-NQVUxcg/1543524073/181119/385FXDFXXN6I1DXSNQPLD.mp4
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-vbDNn3UrClQ/W8mgdXkGz-I/AAAAAAAAGj0/nw6idxtarQUL7virtdYFleutIJDYsws4wCLcBGAs/s1600/Hantu%2BKak%2BLimah%2B2018.jpg" tvg-name="Hantu Kak Limah (2018)"  group-title="VOD",Hantu Kak Limah (2018)
 https://iienc.cdncv.net/hls/,mfqjqm6fwpo6sr7qw4wezl2m6ujrysbxssnk3nau3cgeqr6nrbvnmfwoiiuq,.urlset/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s1.dunia21.net/wp-content/uploads/2018/10/film-venom2018-lk21.jpg" tvg-name="Venom (2018)"  group-title="VOD",Venom (2018)
+https://designer.playercdn.net/188/0/8nIHav11mq2OInx23vVfvw/1543523415/181128/535FXO0R719IOLEA7EOUE.mp4
