@@ -189,6 +189,39 @@ http://195.154.214.187:2086/house/house/39
 #EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
 http://163.172.218.205:8081/2Ten/2/index.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_300.png" tvg-name="Hitz FM"  group-title="Radioee",Hitz FM
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Logo_of_LiteFM.svg/761px-Logo_of_LiteFM.svg.png" tvg-name="Lite FM"  group-title="Radioee",Lite FM
+http://astro1.rastream.com/lite
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://static-media.streema.com/media/cache/f3/b8/f3b8fa2dbe9f2582a26d83030b96e9e7.jpg" tvg-name="My FM"  group-title="Radioee",My FM
+http://astro1.rastream.com/myfm
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/855_300.png" tvg-name="Mix FM"  group-title="Radioee",Mix FM
+http://astro2.rastream.com/mix
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/857_300.png" tvg-name="Sinar FM"  group-title="Radioee",Sinar FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.dengaronline.com/wp-content/uploads/2013/02/erafm-logo.png" tvg-name="Era FM"  group-title="Radioee",Era FM
+http://astro2.rastream.com/era
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/863_300.png" tvg-name="THR Gegar FM"  group-title="Radioee",THR Gegar FM
+http://astro3.rastream.com/gegar?type=.flv&_=0.7412667996250093
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.radiomalaysia.net/radio/fb/1005opusfm.png" tvg-name="Opus FM"  group-title="Radioee",Opus FM
+http://astro4.rastream.com/opus
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Radio_Gold_FM.jpg" tvg-name="Gold FM"  group-title="Radioee",Gold FM
+http://astro4.rastream.com/gold
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://banner2.kisspng.com/20180403/lte/kisspng-jazz-fm-radio-station-digital-audio-broadcasting-i-jazz-5ac4378773ae25.6754893115228087114738.jpg" tvg-name="Jazz FM"  group-title="Radioee",Jazz FM
+http://astro4.rastream.com/jazz
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lastminutemedia.hu/image/cache/2017,09/Rock_FM_log%C3%B3uj-500x500.jpg" tvg-name="Rock FM"  group-title="Radioee",Rock FM
+http://astro4.rastream.com/rock
+
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.cinema.com.my/images/movies/2018/7munafik200_450.jpg" tvg-name="Munafik 2 (2018)"  group-title="VOD",Munafik 2 (2018)
 https://straw.playercdn.net/188/2/1nq-P3VjdftqZT-NQVUxcg/1543524073/181119/385FXDFXXN6I1DXSNQPLD.mp4
 
