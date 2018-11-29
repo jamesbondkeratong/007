@@ -67,7 +67,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3
 http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="KompasTv.id" tvg-logo="https://media-id.kompas.tv/webassets/images/365x100web.png" tvg-name="Kompas TV - IND."  group-title="Indonesee",Kompas TV - IND.
-https://stream-01.sg1.dailymotion.com/dm/3/x6pz4sa/live-3.m3u8
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 #EXTINF:-1, tvg-id="AndPrive.in" tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng" tvg-name="&Prive HD - ID."  group-title="Muviee",&Prive HD - ID.
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
@@ -76,31 +76,43 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2314
+http://195.154.214.187:2086/house/house/306
 
 #EXTINF:-1, tvg-id="SkyComedy.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyComedy.uk.png" tvg-name="Sky Cinema Comedy - UK."  group-title="Muviee",Sky Cinema Comedy - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2313
+http://195.154.214.187:2086/house/house/305
+
+#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
+http://195.154.214.187:2086/house/house/307
 
 #EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney - UK."  group-title="Muviee",Sky Cinema  Disney - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2312
+http://195.154.214.187:2086/house/house/301
 
 #EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance - UK."  group-title="Muviee",Sky Cinema  Drama &  Romance - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2311
+http://195.154.214.187:2086/house/house/304
 
 #EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family - UK."  group-title="Muviee",Sky Cinema  Family - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2310
-
-#EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere - UK."  group-title="Muviee",Sky Cinema  Premiere - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2309
+http://195.154.214.187:2086/house/house/303
 
 #EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror - UK."  group-title="Muviee",Sky Cinema  Sci-Fi & Horror - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2308
+http://195.154.214.187:2086/house/house/309
 
 #EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select - UK."  group-title="Muviee",Sky Cinema  Select - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2307
+http://195.154.214.187:2086/house/house/308
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" tvg-name="HBO - USA"  group-title="Muviee",HBO - USA
+http://195.154.214.187:2086/house/house/2904
 
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" tvg-name="HBO2 - USA"  group-title="Muviee",HBO2 - USA
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" tvg-name="HBO SIGNATURE - USA"  group-title="Muviee",HBO SIGNATURE - USA
+http://195.154.214.187:2086/house/house/2901
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" tvg-name="HBO COMEDY - USA"  group-title="Muviee",HBO COMEDY - USA
+http://195.154.214.187:2086/house/house/2902
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" tvg-name="HBO ZONE - USA"  group-title="Muviee",HBO ZONE - USA
+http://195.154.214.187:2086/house/house/2123
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 1 - CN"  group-title="Muviee",24/7 Hollywood Movies 1 - CN
 http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
@@ -136,31 +148,49 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2249
+http://195.154.214.187:2086/house/house/229
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2298
+http://195.154.214.187:2086/house/house/2302
 
 #EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="SKY SPORTS  CRICKET - UK."  group-title="Sportee",SKY SPORTS  CRICKET - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2250
+http://195.154.214.187:2086/house/house/228
 
 #EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS F1 - UK."  group-title="Sportee",SKY SPORTS F1 - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2299
+http://195.154.214.187:2086/house/house/224
 
 #EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="SKY SPORTS  GOLF - UK."  group-title="Sportee",SKY SPORTS  GOLF - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2297
+http://195.154.214.187:2086/house/house/226
 
 #EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION - UK."  group-title="Sportee",SKY SPORTS  ACTION - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2296
+http://195.154.214.187:2086/house/house/2300
 
 #EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX - UK."  group-title="Sportee",SKY SPORTS  MIX - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/3439
+http://195.154.214.187:2086/house/house/2303
+
+#EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
+http://195.154.214.187:2086/house/house/251
 
 #EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2 - UK."  group-title="Sportee",BT Sport 2 - UK.
-http://zeebra.tv:8000/735779834744/5b49798ddd14f/2300
+http://195.154.214.187:2086/house/house/250
+
+#EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3 - UK."  group-title="Sportee",BT Sport 3 - UK.
+http://195.154.214.187:2086/house/house/249
 
 #EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE - USA."  group-title="Sportee",WWE - USA.
 http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
 
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - AR."  group-title="Sportee",beIN Sport 11 - AR.
+http://195.154.214.187:2086/house/house/40
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - AR."  group-title="Sportee",beIN Sport 12 - AR.
+http://195.154.214.187:2086/house/house/39
+
 #EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
 http://163.172.218.205:8081/2Ten/2/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.cinema.com.my/images/movies/2018/7munafik200_450.jpg" tvg-name="Munafik 2 (2018)"  group-title="VOD",Munafik 2 (2018)
+https://stream03.cdncv.net/hls/mfqjwlehwdo6sr7qw4oez7qhwytvhkxhd7ham3pqa,hvgb4qnn26v3wz3dyya,okgd4qnn26s4qnbnzjq,vigf4qnn26tn26pxsua,.urlset/master.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-vbDNn3UrClQ/W8mgdXkGz-I/AAAAAAAAGj0/nw6idxtarQUL7virtdYFleutIJDYsws4wCLcBGAs/s1600/Hantu%2BKak%2BLimah%2B2018.jpg" tvg-name="Hantu Kak Limah (2018)"  group-title="VOD",Hantu Kak Limah (2018)
+https://iienc.cdncv.net/hls/,mfqjqm6fwpo6sr7qw4wezl2m6ujrysbxssnk3nau3cgeqr6nrbvnmfwoiiuq,.urlset/master.m3u8
