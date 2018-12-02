@@ -255,14 +255,11 @@ http://astro4.rastream.com/jazz
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lastminutemedia.hu/image/cache/2017,09/Rock_FM_log%C3%B3uj-500x500.jpg" tvg-name="Rock FM"  group-title="Radioee",Rock FM
 http://astro4.rastream.com/rock
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.cinema.com.my/images/movies/2018/7munafik200_450.jpg" tvg-name="Munafik 2 (2018)"  group-title="VOD",Munafik 2 (2018)
-https://straw.playercdn.net/188/2/1nq-P3VjdftqZT-NQVUxcg/1543524073/181119/385FXDFXXN6I1DXSNQPLD.mp4
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://3.bp.blogspot.com/-oJW0kslnZAw/W8gMIZiy0oI/AAAAAAAAGhw/_86wkVKBkOwAFb0rBfsiKcI4QFtAn9aXgCLcBGAs/s1600/Fenomena.jpg" tvg-name="Fenomena (1990)"  group-title="VOD",Fenomena (1990)
+https://www1008.superembed.com/token=av4Qj5Dzh1bvgWN4uUPT5Q/1543765411/2001:e68::/5/b/8c/e6fd378f3d41ac24a8555258d633e8cb-720p.mp4
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-vbDNn3UrClQ/W8mgdXkGz-I/AAAAAAAAGj0/nw6idxtarQUL7virtdYFleutIJDYsws4wCLcBGAs/s1600/Hantu%2BKak%2BLimah%2B2018.jpg" tvg-name="Hantu Kak Limah (2018)"  group-title="VOD",Hantu Kak Limah (2018)
-https://iienc.cdncv.net/hls/,mfqjqm6fwpo6sr7qw4wezl2m6ujrysbxssnk3nau3cgeqr6nrbvnmfwoiiuq,.urlset/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-OK7Zx-wVqPY/W8gNtdOWfVI/AAAAAAAAGiE/L7ZkmbJstSwvtxVN1lEXFuD77ycfKy4xQCLcBGAs/s1600/Prebet%2BLapok.jpg" tvg-name="Prebet Lapok (1979)"  group-title="VOD",Prebet Lapok (1979)
+http://streamango.com/v/d/dslscfbplrqafdbn~1543838386~2001:e68::~VUqUye36/720
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s1.dunia21.net/wp-content/uploads/2018/10/film-venom2018-lk21.jpg" tvg-name="Venom (2018)"  group-title="VOD",Venom (2018)
-http://streamango.com/v/d/abffdbrpftpmtomk~1543716808~2001:e68::~6BK9Oz9O/720
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.dunia21.net/wp-content/uploads/2018/09/film-the-legend-of-muay-thai-9-satra2018-lk21.jpg" tvg-name="The Legend of Muay Thai: 9 Satra(2018)"  group-title="VOD",The Legend of Muay Thai: 9 Satra(2018)
-https://straw.playercdn.net/188/3/JGHKZZuX1byR9sKoVdfSCw/1543524810/180926/291FVMWJJ5IKYD6EJAMXM.mp4
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-GqI2OhqWjaM/W8sJSE4HtgI/AAAAAAAAGkY/8jp5JziffCsWnzyJrG0HaPNUpA3ERaj2gCLcBGAs/s1600/Sumpah%2BOrang%2BMinyak.gif" tvg-name="Sumpah Orang Minyak (1958)"  group-title="VOD",Sumpah Orang Minyak (1958)
+https://www3977.playercdn.net/186/0/JPKfvzs6gc3KJ2apuFPyCA/1543773335/181019/854FWE58PYT3RL4XKLBYZ.mp4
