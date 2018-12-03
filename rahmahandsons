@@ -85,33 +85,33 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/335
+http://niobzca.cf:8080/francis1234/francis1234/102188
 
 #EXTINF:-1, tvg-id="SkyComedy.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyComedy.uk.png" tvg-name="Sky Cinema Comedy - UK."  group-title="Muviee",Sky Cinema Comedy - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/334
+http://niobzca.cf:8080/francis1234/francis1234/65148
 
 #EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/417
+http://niobzca.cf:8080/francis1234/francis1234/88316
 
 #EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney - UK."  group-title="Muviee",Sky Cinema  Disney - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/859
+http://niobzca.cf:8080/francis1234/francis1234/65135
 
 #EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance - UK."  group-title="Muviee",Sky Cinema  Drama &  Romance - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/333
+http://niobzca.cf:8080/francis1234/francis1234/126543
 
 #EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family - UK."  group-title="Muviee",Sky Cinema  Family - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/441
+http://niobzca.cf:8080/francis1234/francis1234/75657
 
 #EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere - UK."  group-title="Muviee",Sky Cinema  Premiere - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/331
+http://niobzca.cf:8080/francis1234/francis1234/65154
 
 #EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror - UK."  group-title="Muviee",Sky Cinema  Sci-Fi & Horror - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/330
+http://niobzca.cf:8080/francis1234/francis1234/122949
 
 #EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select - UK."  group-title="Muviee",Sky Cinema  Select - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/329
+http://niobzca.cf:8080/francis1234/francis1234/86333
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_movies.jpg" tvg-name="FOX Premium Movies - USA."  group-title="Muviee",FOX Premium Movies - USA.
+#EXTINF:-1, tvg-id="FOXMoviesPremium.id" tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_movies.jpg" tvg-name="FOX Premium Movies - USA."  group-title="Muviee",FOX Premium Movies - USA.
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
 #EXTINF:-1, tvg-id="HBO.us" tvg-logo="https://static.iptv-epg.com/us/HBO.us.png" tvg-name="HBO - USA"  group-title="Muviee",HBO - USA
@@ -122,6 +122,9 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 
 #EXTINF:-1, tvg-id="HBOSignature.us" tvg-logo="https://static.iptv-epg.com/us/HBOSignature.us.png" tvg-name="HBO SIGNATURE - USA"  group-title="Muviee",HBO SIGNATURE - USA
 http://195.154.214.187:2086/house/house/2901
+
+#EXTINF:-1, tvg-id="HBOFamily.us" tvg-logo="https://static.iptv-epg.com/us/HBOFamily.us.png" tvg-name="HBO FAMILY - USA"  group-title="Muviee",HBO FAMILY - USA
+http://niobzca.cf:8080/francis1234/francis1234/138992
 
 #EXTINF:-1, tvg-id="HBOComedy.us" tvg-logo="https://static.iptv-epg.com/us/HBOComedy.us.png" tvg-name="HBO COMEDY - USA"  group-title="Muviee",HBO COMEDY - USA
 http://195.154.214.187:2086/house/house/2902
@@ -163,40 +166,40 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/328
+http://niobzca.cf:8080/francis1234/francis1234/143552
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/352
+http://niobzca.cf:8080/francis1234/francis1234/143555
 
 #EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="SKY SPORTS  FOOTBALL - UK."  group-title="Sportee",SKY SPORTS  FOOTBALL - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/3674
+http://niobzca.cf:8080/francis1234/francis1234/143550
 
 #EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="SKY SPORTS  CRICKET - UK."  group-title="Sportee",SKY SPORTS  CRICKET - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/327
+http://niobzca.cf:8080/francis1234/francis1234/143547
 
 #EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS F1 - UK."  group-title="Sportee",SKY SPORTS F1 - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/550
+http://niobzca.cf:8080/francis1234/francis1234/143549
 
 #EXTINF:-1, tvg-id="SkySportsArena.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" tvg-name="SKY SPORTS  ARENA - UK."  group-title="Sportee",SKY SPORTS  ARENA - UK.
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1949.ts
+http://niobzca.cf:8080/francis1234/francis1234/143546
 
 #EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="SKY SPORTS  GOLF - UK."  group-title="Sportee",SKY SPORTS  GOLF - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/2470
+http://niobzca.cf:8080/francis1234/francis1234/143551
 
 #EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION - UK."  group-title="Sportee",SKY SPORTS  ACTION - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/2466
+http://niobzca.cf:8080/francis1234/francis1234/143548
 
 #EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX - UK."  group-title="Sportee",SKY SPORTS  MIX - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/3472
+http://niobzca.cf:8080/francis1234/francis1234/143553
 
 #EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/2500
+http://niobzca.cf:8080/francis1234/francis1234/120666
 
 #EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2 - UK."  group-title="Sportee",BT Sport 2 - UK.
-http://163.172.251.211:8000/electrosat-dev-tech/3268745214kjhgf/2501
+http://niobzca.cf:8080/francis1234/francis1234/94771
 
 #EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3 - UK."  group-title="Sportee",BT Sport 3 - UK.
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/1929.ts
+http://niobzca.cf:8080/francis1234/francis1234/94772
 
 #EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE - USA."  group-title="Sportee",WWE - USA.
 http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
@@ -214,13 +217,19 @@ http://23.237.22.82:8086/udp/127.0.0.1:56046
 http://23.237.22.82:8086/udp/127.0.0.1:56047
 
 #EXTINF:-1, tvg-id="beINSports11.qa" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - QA."  group-title="Sportee",beIN Sport 11 - QA.
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/171.ts
+http://195.154.214.187:2086/house/house/40
 
 #EXTINF:-1, tvg-id="beINSports12.qa" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - QA."  group-title="Sportee",beIN Sport 12 - QA.
-http://51.15.161.236:25461/live/nicsky/kryptfuckoff/172.ts
+http://niobzca.cf:8080/francis1234/francis1234/62742
+
+#EXTINF:-1, tvg-id="SonyTEN1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo2.png" tvg-name="Sony TEN 1 - IN."  group-title="Sportee",Sony TEN 1 - IN.
+http://niobzca.cf:8080/francis1234/francis1234/64332
 
 #EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
 http://163.172.218.205:8081/2Ten/2/index.m3u8
+
+#EXTINF:-1, tvg-id="SonyTEN3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo4.png" tvg-name="Sony TEN 3 - IN."  group-title="Sportee",Sony TEN 3 - IN.
+http://niobzca.cf:8080/francis1234/francis1234/64281
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_300.png" tvg-name="Hitz FM"  group-title="Radioee",Hitz FM
 http://astro1.rastream.com/hitz
@@ -254,12 +263,3 @@ http://astro4.rastream.com/jazz
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lastminutemedia.hu/image/cache/2017,09/Rock_FM_log%C3%B3uj-500x500.jpg" tvg-name="Rock FM"  group-title="Radioee",Rock FM
 http://astro4.rastream.com/rock
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://3.bp.blogspot.com/-oJW0kslnZAw/W8gMIZiy0oI/AAAAAAAAGhw/_86wkVKBkOwAFb0rBfsiKcI4QFtAn9aXgCLcBGAs/s1600/Fenomena.jpg" tvg-name="Fenomena (1990)"  group-title="VOD",Fenomena (1990)
-https://www1008.superembed.com/token=av4Qj5Dzh1bvgWN4uUPT5Q/1543765411/2001:e68::/5/b/8c/e6fd378f3d41ac24a8555258d633e8cb-720p.mp4
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://1.bp.blogspot.com/-OK7Zx-wVqPY/W8gNtdOWfVI/AAAAAAAAGiE/L7ZkmbJstSwvtxVN1lEXFuD77ycfKy4xQCLcBGAs/s1600/Prebet%2BLapok.jpg" tvg-name="Prebet Lapok (1979)"  group-title="VOD",Prebet Lapok (1979)
-http://streamango.com/v/d/dslscfbplrqafdbn~1543838386~2001:e68::~VUqUye36/720
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://2.bp.blogspot.com/-GqI2OhqWjaM/W8sJSE4HtgI/AAAAAAAAGkY/8jp5JziffCsWnzyJrG0HaPNUpA3ERaj2gCLcBGAs/s1600/Sumpah%2BOrang%2BMinyak.gif" tvg-name="Sumpah Orang Minyak (1958)"  group-title="VOD",Sumpah Orang Minyak (1958)
-https://www3977.playercdn.net/186/0/JPKfvzs6gc3KJ2apuFPyCA/1543773335/181019/854FWE58PYT3RL4XKLBYZ.mp4
