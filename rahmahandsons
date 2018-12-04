@@ -30,6 +30,21 @@ http://playbackn20.aotg-video.astro.com.my/CH2/master_HELLO_8.m3u8
 #EXTINF:-1, tvg-id="AstroAwani.my" tvg-logo="https://img.astroawani.com/template/awani.jpg" tvg-name="Awani - MY."  group-title="Malayee",Awani - MY.
 http://playbackn13.aotg-video.astro.com.my/CH1/master_AWANI_8.m3u8
 
+#EXTINF:-1, tvg-id="AstroRia.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104_120.png" tvg-name="Ria - MY."  group-title="Malayee",Ria - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18625
+
+#EXTINF:-1, tvg-id="AstroOasis.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_120.png" tvg-name="Oasis - MY."  group-title="Malayee",Oasis - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18628
+
+#EXTINF:-1, tvg-id="AstroWarna.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/132_120.png" tvg-name="Warna - MY."  group-title="Malayee",Warna - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18616
+
+#EXTINF:-1, tvg-id="Maya.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/135_120.png" tvg-name="Maya - MY."  group-title="Malayee",Maya - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1371
+
+#EXTINF:-1, tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png" tvg-name="Prima - MY."  group-title="Malayee",Prima - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18627
+
 #EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7 - IND."  group-title="Indonesee",TRANS 7 - IND.
 http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -85,31 +100,31 @@ http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
-http://niobzca.cf:8080/francis1234/francis1234/102188
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/351
 
 #EXTINF:-1, tvg-id="SkyComedy.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyComedy.uk.png" tvg-name="Sky Cinema Comedy - UK."  group-title="Muviee",Sky Cinema Comedy - UK.
-http://niobzca.cf:8080/francis1234/francis1234/65148
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/349
 
 #EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
-http://niobzca.cf:8080/francis1234/francis1234/88316
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/348
 
 #EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney - UK."  group-title="Muviee",Sky Cinema  Disney - UK.
-http://niobzca.cf:8080/francis1234/francis1234/65135
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/346
 
 #EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance - UK."  group-title="Muviee",Sky Cinema  Drama &  Romance - UK.
-http://niobzca.cf:8080/francis1234/francis1234/126543
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/345
 
 #EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family - UK."  group-title="Muviee",Sky Cinema  Family - UK.
-http://niobzca.cf:8080/francis1234/francis1234/75657
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/343
 
 #EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere - UK."  group-title="Muviee",Sky Cinema  Premiere - UK.
-http://niobzca.cf:8080/francis1234/francis1234/65154
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/341
 
 #EXTINF:-1, tvg-id="SkySciFiHorror.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySciFiHorror.uk.png" tvg-name="Sky Cinema  Sci-Fi & Horror - UK."  group-title="Muviee",Sky Cinema  Sci-Fi & Horror - UK.
-http://niobzca.cf:8080/francis1234/francis1234/122949
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/340
 
 #EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select - UK."  group-title="Muviee",Sky Cinema  Select - UK.
-http://niobzca.cf:8080/francis1234/francis1234/86333
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/339
 
 #EXTINF:-1, tvg-id="FOXMoviesPremium.id" tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_movies.jpg" tvg-name="FOX Premium Movies - USA."  group-title="Muviee",FOX Premium Movies - USA.
 http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
@@ -124,7 +139,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 http://195.154.214.187:2086/house/house/2901
 
 #EXTINF:-1, tvg-id="HBOFamily.us" tvg-logo="https://static.iptv-epg.com/us/HBOFamily.us.png" tvg-name="HBO FAMILY - USA"  group-title="Muviee",HBO FAMILY - USA
-http://niobzca.cf:8080/francis1234/francis1234/138992
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/7748
 
 #EXTINF:-1, tvg-id="HBOComedy.us" tvg-logo="https://static.iptv-epg.com/us/HBOComedy.us.png" tvg-name="HBO COMEDY - USA"  group-title="Muviee",HBO COMEDY - USA
 http://195.154.214.187:2086/house/house/2902
@@ -162,44 +177,62 @@ http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3
 #EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA - MY."  group-title="Sportee",ASTRO ARENA - MY.
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
+#EXTINF:-1, tvg-id="AstroSuperSport.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/810_160.png" tvg-name="Astro Super Sports - MY."  group-title="Sportee",Astro Super Sports - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1366
+
+#EXTINF:-1, tvg-id="AstroSuperSport2.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811_160.png" tvg-name="Astro Super Sports 2 - MY."  group-title="Sportee",Astro Super Sports 2 - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1365
+
 #EXTINF:-1, tvg-id="AstroSuperSport3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_160.png" tvg-name="Astro Super Sports 3 - MY."  group-title="Sportee",Astro Super Sports 3 - MY.
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
+#EXTINF:-1, tvg-id="AstroSuperSport4.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/817_160.png" tvg-name="Astro Super Sports 4 - MY."  group-title="Sportee",Astro Super Sports 4 - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1161
+
+#EXTINF:-1, tvg-id="FOX Sports - [Channel 301]" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" tvg-name="Fox Sports 1 - MY."  group-title="Sportee",Fox Sports 1 - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18589
+
+#EXTINF:-1, tvg-id="FOX Sports 2 HD - [Channel 422]" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg" tvg-name="Fox Sports 2 - MY."  group-title="Sportee",Fox Sports 2 - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18588
+
+#EXTINF:-1, tvg-id="FOX Sports 3 - [Channel 303]" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png" tvg-name="Fox Sports 3 - MY."  group-title="Sportee",Fox Sports 3 - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18587
+
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143552
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/335
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143555
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/331
 
 #EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="SKY SPORTS  FOOTBALL - UK."  group-title="Sportee",SKY SPORTS  FOOTBALL - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143550
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/6204
 
 #EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="SKY SPORTS  CRICKET - UK."  group-title="Sportee",SKY SPORTS  CRICKET - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143547
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/334
 
 #EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS F1 - UK."  group-title="Sportee",SKY SPORTS F1 - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143549
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/371
 
 #EXTINF:-1, tvg-id="SkySportsArena.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" tvg-name="SKY SPORTS  ARENA - UK."  group-title="Sportee",SKY SPORTS  ARENA - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143546
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/6201
 
 #EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="SKY SPORTS  GOLF - UK."  group-title="Sportee",SKY SPORTS  GOLF - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143551
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/332
 
 #EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION - UK."  group-title="Sportee",SKY SPORTS  ACTION - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143548
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/333
 
 #EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX - UK."  group-title="Sportee",SKY SPORTS  MIX - UK.
-http://niobzca.cf:8080/francis1234/francis1234/143553
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1821
 
 #EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
-http://niobzca.cf:8080/francis1234/francis1234/120666
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10751
 
 #EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2 - UK."  group-title="Sportee",BT Sport 2 - UK.
-http://niobzca.cf:8080/francis1234/francis1234/94771
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10749
 
 #EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3 - UK."  group-title="Sportee",BT Sport 3 - UK.
-http://niobzca.cf:8080/francis1234/francis1234/94772
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/10748
 
 #EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE - USA."  group-title="Sportee",WWE - USA.
 http://flu1.podzone.net:9091/WWE/Net2/index.m3u8
@@ -211,25 +244,22 @@ http://80.80.160.168/live/6/live.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1, tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" tvg-name="Fox sport 1 - USA."  group-title="Sportee",Fox sport 1 - USA.
-http://23.237.22.82:8086/udp/127.0.0.1:56046
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/553
 
 #EXTINF:-1, tvg-id="FoxSports2.us" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" tvg-name="Fox sport 2 - USA."  group-title="Sportee",Fox sport 2 - USA.
-http://23.237.22.82:8086/udp/127.0.0.1:56047
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/7759
 
 #EXTINF:-1, tvg-id="beINSports11.qa" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - QA."  group-title="Sportee",beIN Sport 11 - QA.
-http://195.154.214.187:2086/house/house/40
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9524
 
 #EXTINF:-1, tvg-id="beINSports12.qa" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - QA."  group-title="Sportee",beIN Sport 12 - QA.
-http://niobzca.cf:8080/francis1234/francis1234/62742
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/9523
 
 #EXTINF:-1, tvg-id="SonyTEN1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo2.png" tvg-name="Sony TEN 1 - IN."  group-title="Sportee",Sony TEN 1 - IN.
-http://niobzca.cf:8080/francis1234/francis1234/64332
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/16041
 
 #EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
 http://163.172.218.205:8081/2Ten/2/index.m3u8
-
-#EXTINF:-1, tvg-id="SonyTEN3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo4.png" tvg-name="Sony TEN 3 - IN."  group-title="Sportee",Sony TEN 3 - IN.
-http://niobzca.cf:8080/francis1234/francis1234/64281
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_300.png" tvg-name="Hitz FM"  group-title="Radioee",Hitz FM
 http://astro1.rastream.com/hitz
