@@ -45,6 +45,9 @@ http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1371
 #EXTINF:-1, tvg-id="AstroPrima.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_120.png" tvg-name="Prima - MY."  group-title="Malayee",Prima - MY.
 http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18627
 
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://forum.lowyat.net/uploads/attach-86/post-990686-1526261917_thumb.jpg" tvg-name="DUNIA SINEMA - MY."  group-title="Malayee",DUNIA SINEMA - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18595
+
 #EXTINF:-1, tvg-id="Trans 7 - [Channel 110]" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" tvg-name="TRANS 7 - IND."  group-title="Indonesee",TRANS 7 - IND.
 http://202.80.222.182/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
@@ -92,6 +95,24 @@ http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" tvg-name="JGO - IND."  group-title="Indonesee",JGO - IND.
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1, tvg-id="FOXActionMovies.my" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" tvg-name="Fox Action Movies - MY."  group-title="Muviee",Fox Action Movies - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1362
+
+#EXTINF:-1, tvg-id="FOXMovies.my" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" tvg-name="Fox Movies - MY."  group-title="Muviee",Fox Movies - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18590
+
+#EXTINF:-1, tvg-id="FOXFamilyMovies.my" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_410.png" tvg-name="Fox Family Movies - MY."  group-title="Muviee",Fox Family Movies - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18592
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/413_300.png" tvg-name="Fox Movies Premium - MY."  group-title="Muviee",Fox Movies Premium - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1361
+
+#EXTINF:-1, tvg-id="Tara.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108_300.png" tvg-name="Tara - MY."  group-title="Muviee",Tara - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18619
+
+#EXTINF:-1, tvg-id="Bollyone.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/251_300.png" tvg-name="Bolly One - MY."  group-title="Muviee",Bolly One - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18606
 
 #EXTINF:-1, tvg-id="AndPrive.in" tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng" tvg-name="&Prive HD - ID."  group-title="Muviee",&Prive HD - ID.
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
@@ -174,6 +195,12 @@ http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 11 - CN"  group-title="Muviee",24/7 Hollywood Movies 11 - CN
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1, tvg-id="ANIPlus.id" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" tvg-name="ANI PLUS - MY."  group-title="Cartoonee",ANI PLUS - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18637
+
+#EXTINF:-1, tvg-id="Animax.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" tvg-name="ANIMAX - MY."  group-title="Cartoonee",ANIMAX - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18635
+
 #EXTINF:-1, tvg-id="AstroArena.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_120.png" tvg-name="ASTRO ARENA - MY."  group-title="Sportee",ASTRO ARENA - MY.
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
@@ -188,6 +215,12 @@ http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1, tvg-id="AstroSuperSport4.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/817_160.png" tvg-name="Astro Super Sports 4 - MY."  group-title="Sportee",Astro Super Sports 4 - MY.
 http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/1161
+
+#EXTINF:-1, tvg-id="BeINSports.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/837_300.png" tvg-name="Bein Sport - MY."  group-title="Sportee",Bein Sport - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18608
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/808_300.png" tvg-name="EVERY GOOD GAME - MY."  group-title="Sportee",EVERY GOOD GAME - MY.
+http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18593
 
 #EXTINF:-1, tvg-id="FOX Sports - [Channel 301]" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" tvg-name="Fox Sports 1 - MY."  group-title="Sportee",Fox Sports 1 - MY.
 http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/18589
@@ -260,6 +293,9 @@ http://restream.geniptv.com:8080/n_hamees_77aly7_new/VERVxzzfgvefv/16041
 
 #EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
 http://163.172.218.205:8081/2Ten/2/index.m3u8
+
+#EXTINF:-1, tvg-id="SonyTEN3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo4.png" tvg-name="Sony TEN 3 - IN."  group-title="Sportee",Sony TEN 3 - IN.
+http://linux-app.tv:6204/jabar2/jabar2/8929
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_300.png" tvg-name="Hitz FM"  group-title="Radioee",Hitz FM
 http://astro1.rastream.com/hitz
