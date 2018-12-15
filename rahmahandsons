@@ -7,13 +7,13 @@ https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.
 https://rtm-live-stream1.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_120.png" tvg-name="TV3 - MY."  group-title="Malayee",TV3 - MY.
-https://www.dailymotion.com/cdn/live/video/x6qp375.m3u8?sec=rDula8zIgjPdGJpc650XaKMkkKihhdxo696ej9aRbGCBxsdowmU1wk5YApt7dztEQNFrAH_A8JPw0syFR0S7QQ&redirect=0
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUxQvjPhiSWQU87IBICA-PA)/dm/3/x6qp375/live-3.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_120.png" tvg-name="OKEY - MY."  group-title="Malayee",OKEY - MY.
 https://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_120.png" tvg-name="NTV7 - MY."  group-title="Malayee",NTV7 - MY.
-https://www.dailymotion.com/cdn/live/video/x6qp6ou.m3u8?sec=O92yQs7wUNG3lxJjphgbqyS4EO7lqiH1X-FYIEqVj5LHqDrMPEc76GmLHHSQgHh94ozgGthGFn_0K1JIJPDd1g&redirect=0
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTXVQJ2hvUHOXbnvE6GyTI8)/dm/3/x6qp6ou/live-3.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_300.png" tvg-name="8TV - MY."  group-title="Malayee",8TV - MY.
 https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTwlwu-Q4ucB9SGrEPBHV5c)/dm/3/x6qud17/live-3.m3u8
