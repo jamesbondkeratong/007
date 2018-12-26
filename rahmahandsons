@@ -78,6 +78,12 @@ http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" tvg-name="JGO - IND."  group-title="Indonesee",JGO - IND.
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
+#EXTINF:-1, tvg-id="FOXActionMovies.my" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_16.png" tvg-name="Fox Action Movies - MY."  group-title="Muviee",Fox Action Movies - MY.
+http://103.242.13.90:5555/udp/239.4.1.72:10000
+
+#EXTINF:-1, tvg-id="FOXMovies.my" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" tvg-name="Fox Movies - MY."  group-title="Muviee",Fox Movies - MY.
+http://103.242.13.90:5555/udp/239.4.1.84:10000
+
 #EXTINF:-1, tvg-id="AndPrive.in" tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng" tvg-name="&Prive HD - ID."  group-title="Muviee",&Prive HD - ID.
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 
@@ -131,6 +137,15 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1, tvg-id="AstroSuperSport3.my" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/816_160.png" tvg-name="Astro Super Sports 3 - MY."  group-title="Sportee",Astro Super Sports 3 - MY.
 http://103.242.13.90:5555/udp/239.4.1.148:10000
+
+#EXTINF:-1, tvg-id="FOXSports1.my" tvg-logo="https://mncvision.id/userfiles/image/channel/FOXsport150x150.jpg" tvg-name="Fox Sports 1 - MY."  group-title="Sportee",Fox Sports 1 - MY.
+http://103.242.13.90:5555/udp/239.4.1.47:10000
+
+#EXTINF:-1, tvg-id="FOXSports2.my" tvg-logo="https://mncvision.id/userfiles/image/channel/FoxSport2_150x150.jpg" tvg-name="Fox Sports 2 - MY."  group-title="Sportee",Fox Sports 2 - MY.
+http://103.242.13.90:5555/udp/239.4.1.48:10000
+
+#EXTINF:-1, tvg-id="FOXSports3.my" tvg-logo="https://mncvision.id/userfiles/image/channel/Untitled-1.png" tvg-name="Fox Sports 3 - MY."  group-title="Sportee",Fox Sports 3 - MY.
+http://103.242.13.90:5555/udp/239.4.1.44:10000
 
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
 http://thepk.co:2086/dslslave/Mz349apJs9/598
