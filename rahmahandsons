@@ -78,32 +78,32 @@ http://stream1.ninmedia.tv/live/xmedia-sfitv.stream_nin/chunklist_w1327035077.m3
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://images-channel.mivo.com/channel/image/89/img-live-jgo.jpg" tvg-name="JGO - IND."  group-title="Indonesee",JGO - IND.
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
 
+#EXTINF:-1, tvg-id="AndPrive.in" tvg-logo="https://d2rgi4g6h400px.cloudfront.net/channel-images/And%20Prive%20HD%2ew132%2epng" tvg-name="&Prive HD - ID."  group-title="Muviee",&Prive HD - ID.
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://s3.amazonaws.com/medianetmv/resources/channel/124_&flix_HD-01.png" tvg-name="&Flix HD - ID."  group-title="Muviee",&Flix HD - ID.
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
-http://ipsatpro.biz:8080/sean/sean123/511
+http://thepk.co:2086/dslslave/Mz349apJs9/581
+
+#EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
+http://thepk.co:2086/dslslave/Mz349apJs9/8293
 
 #EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney - UK."  group-title="Muviee",Sky Cinema  Disney - UK.
-http://ipsatpro.biz:8080/sean/sean123/516
+http://thepk.co:2086/dslslave/Mz349apJs9/577
 
 #EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance - UK."  group-title="Muviee",Sky Cinema  Drama &  Romance - UK.
-http://ipsatpro.biz:8080/sean/sean123/521
+http://thepk.co:2086/dslslave/Mz349apJs9/576
 
 #EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family - UK."  group-title="Muviee",Sky Cinema  Family - UK.
-http://ipsatpro.biz:8080/sean/sean123/520
+http://thepk.co:2086/dslslave/Mz349apJs9/574
 
 #EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere - UK."  group-title="Muviee",Sky Cinema  Premiere - UK.
-http://ipsatpro.biz:8080/sean/sean123/519
+http://thepk.co:2086/dslslave/Mz349apJs9/570
 
 #EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select - UK."  group-title="Muviee",Sky Cinema  Select - UK.
-http://ipsatpro.biz:8080/sean/sean123/517
-
-#EXTINF:-1, tvg-id="FOXMoviesPremium.id" tvg-logo="http://promocionestigo.com/report-tigo/SV/tigo-star-canales/images/fox_movies.jpg" tvg-name="FOX Premium Movies - USA."  group-title="Muviee",FOX Premium Movies - USA.
-http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
-
-#EXTINF:-1, tvg-id="HBO2.us" tvg-logo="https://static.iptv-epg.com/us/HBO2.us.png" tvg-name="HBO2 - USA"  group-title="Muviee",HBO2 - USA
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 1 - CN"  group-title="Muviee",24/7 Hollywood Movies 1 - CN
-http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+http://thepk.co:2086/dslslave/Mz349apJs9/566
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 2 - CN"  group-title="Muviee",24/7 Hollywood Movies 2 - CN
 http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
@@ -123,9 +123,6 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 8 - CN"  group-title="Muviee",24/7 Hollywood Movies 8 - CN
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 10 - CN"  group-title="Muviee",24/7 Hollywood Movies 10 - CN
-http://aldirect.hls.huya.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-1521102596-1_1200.m3u8
-
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 11 - CN"  group-title="Muviee",24/7 Hollywood Movies 11 - CN
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
@@ -136,34 +133,40 @@ http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 http://103.242.13.90:5555/udp/239.4.1.148:10000
 
 #EXTINF:-1, tvg-id="SkySportsMainEvent.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMainEvent.uk.png" tvg-name="SKY SPORTS MAIN EVENT - UK."  group-title="Sportee",SKY SPORTS MAIN EVENT - UK.
-http://ipsatpro.biz:8080/sean/sean123/546
+http://thepk.co:2086/dslslave/Mz349apJs9/598
 
 #EXTINF:-1, tvg-id="SkySportsPremiereLeague.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsPremiereLeague.uk.png" tvg-name="SKY SPORTS  PREMIER LEAGUE - UK."  group-title="Sportee",SKY SPORTS  PREMIER LEAGUE - UK.
-http://ipsatpro.biz:8080/sean/sean123/544
+http://thepk.co:2086/dslslave/Mz349apJs9/2835
 
 #EXTINF:-1, tvg-id="SkySportsFootball.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsFootball.uk.png" tvg-name="SKY SPORTS  FOOTBALL - UK."  group-title="Sportee",SKY SPORTS  FOOTBALL - UK.
-http://ipsatpro.biz:8080/sean/sean123/1559
+http://thepk.co:2086/dslslave/Mz349apJs9/1923
 
 #EXTINF:-1, tvg-id="SkySportsCricket.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsCricket.uk.png" tvg-name="SKY SPORTS  CRICKET - UK."  group-title="Sportee",SKY SPORTS  CRICKET - UK.
-http://ipsatpro.biz:8080/sean/sean123/547
+http://thepk.co:2086/dslslave/Mz349apJs9/597
+
+#EXTINF:-1, tvg-id="SkySportsF1.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsF1.uk.png" tvg-name="SKY SPORTS F1 - UK."  group-title="Sportee",SKY SPORTS F1 - UK.
+http://thepk.co:2086/dslslave/Mz349apJs9/595
 
 #EXTINF:-1, tvg-id="SkySportsGolf.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsGolf.uk.png" tvg-name="SKY SPORTS  GOLF - UK."  group-title="Sportee",SKY SPORTS  GOLF - UK.
-http://ipsatpro.biz:8080/sean/sean123/1563
+http://thepk.co:2086/dslslave/Mz349apJs9/2834
 
 #EXTINF:-1, tvg-id="SkySportsAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsAction.uk.png" tvg-name="SKY SPORTS  ACTION - UK."  group-title="Sportee",SKY SPORTS  ACTION - UK.
-http://ipsatpro.biz:8080/sean/sean123/545
+http://thepk.co:2086/dslslave/Mz349apJs9/596
 
 #EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX - UK."  group-title="Sportee",SKY SPORTS  MIX - UK.
-http://ipsatpro.biz:8080/sean/sean123/513
+http://thepk.co:2086/dslslave/Mz349apJs9/3317
 
 #EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
-http://ipsatpro.biz:8080/sean/sean123/528
+http://thepk.co:2086/dslslave/Mz349apJs9/602
 
 #EXTINF:-1, tvg-id="BTSport2.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" tvg-name="BT Sport 2 - UK."  group-title="Sportee",BT Sport 2 - UK.
-http://ipsatpro.biz:8080/sean/sean123/527
+http://thepk.co:2086/dslslave/Mz349apJs9/601
 
 #EXTINF:-1, tvg-id="BTSport3.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport3.uk.png" tvg-name="BT Sport 3 - UK."  group-title="Sportee",BT Sport 3 - UK.
-http://ipsatpro.biz:8080/sean/sean123/453
+http://thepk.co:2086/dslslave/Mz349apJs9/600
+
+#EXTINF:-1, tvg-id="WWE.us" tvg-logo="https://static.iptv-epg.com/us/WWE.us.png" tvg-name="WWE - USA."  group-title="Sportee",WWE - USA.
+http://thepk.co:2086/dslslave/Mz349apJs9/303
 
 #EXTINF:-1, tvg-id="ESPN.us" tvg-logo="http://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" tvg-name="ESPN - USA."  group-title="Sportee",ESPN - USA.
 http://80.80.160.168/live/6/live.m3u8
@@ -172,16 +175,25 @@ http://80.80.160.168/live/6/live.m3u8
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
 
 #EXTINF:-1, tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" tvg-name="Fox sport 1 - USA."  group-title="Sportee",Fox sport 1 - USA.
-http://ipsatpro.biz:8080/sean/sean123/1516
+http://thepk.co:2086/dslslave/Mz349apJs9/188
 
 #EXTINF:-1, tvg-id="FoxSports2.us" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" tvg-name="Fox sport 2 - USA."  group-title="Sportee",Fox sport 2 - USA.
-http://ipsatpro.biz:8080/sean/sean123/1502
+http://thepk.co:2086/dslslave/Mz349apJs9/187
 
 #EXTINF:-1, tvg-id="beINSports11.qa" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - QA."  group-title="Sportee",beIN Sport 11 - QA.
-http://ipsatpro.biz:8080/sean/sean123/159
+http://thepk.co:2086/dslslave/Mz349apJs9/18552
 
 #EXTINF:-1, tvg-id="beINSports12.qa" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - QA."  group-title="Sportee",beIN Sport 12 - QA.
-http://ipsatpro.biz:8080/sean/sean123/170
+http://thepk.co:2086/dslslave/Mz349apJs9/18551
+
+#EXTINF:-1, tvg-id="SonyTEN1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo2.png" tvg-name="Sony TEN 1 - IN."  group-title="Sportee",Sony TEN 1 - IN.
+http://thepk.co:2086/dslslave/Mz349apJs9/18600
+
+#EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
+http://thepk.co:2086/dslslave/Mz349apJs9/18599
+
+#EXTINF:-1, tvg-id="SonyTEN3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo4.png" tvg-name="Sony TEN 3 - IN."  group-title="Sportee",Sony TEN 3 - IN.
+http://thepk.co:2086/dslslave/Mz349apJs9/18598
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_300.png" tvg-name="Hitz FM"  group-title="Radioee",Hitz FM
 http://astro1.rastream.com/hitz
