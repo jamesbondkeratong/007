@@ -91,25 +91,25 @@ http://103.242.13.90:5555/udp/239.4.1.72:10000
 http://103.242.13.90:5555/udp/239.4.1.84:10000
 
 #EXTINF:-1, tvg-id="SkyAction.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyAction.uk.png" tvg-name="Sky Cinema Action & Adventure - UK."  group-title="Muviee",Sky Cinema Action & Adventure - UK.
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/428
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6056
 
 #EXTINF:-1, tvg-id="SkyCrimeThriller.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyCrimeThriller.uk.png" tvg-name="Sky Cinema  Crime & Thriller"  group-title="Muviee",Sky Cinema  Crime & Thriller
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/3488
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6046
 
 #EXTINF:-1, tvg-id="SkyDisney.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDisney.uk.png" tvg-name="Sky Cinema  Disney - UK."  group-title="Muviee",Sky Cinema  Disney - UK.
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/193
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6054
 
 #EXTINF:-1, tvg-id="SkyDrama.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyDrama.uk.png" tvg-name="Sky Cinema  Drama &  Romance - UK."  group-title="Muviee",Sky Cinema  Drama &  Romance - UK.
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/3483
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6053
 
 #EXTINF:-1, tvg-id="SkyFamily.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyFamily.uk.png" tvg-name="Sky Cinema  Family - UK."  group-title="Muviee",Sky Cinema  Family - UK.
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/797
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6052
 
 #EXTINF:-1, tvg-id="SkyPremiere.uk" tvg-logo="https://static.iptv-epg.com/gb/SkyPremiere.uk.png" tvg-name="Sky Cinema  Premiere - UK."  group-title="Muviee",Sky Cinema  Premiere - UK.
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/696
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6049
 
 #EXTINF:-1, tvg-id="SkySelect.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySelect.uk.png" tvg-name="Sky Cinema  Select - UK."  group-title="Muviee",Sky Cinema  Select - UK.
-http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/3484
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6047
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/92/83/57/9283575c-d080-d8e5-0c16-056b344108cf/source/512x512bb.jpg" tvg-name="24/7 Hollywood Movies 2 - CN"  group-title="Muviee",24/7 Hollywood Movies 2 - CN
 http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
@@ -171,6 +171,9 @@ http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27626
 #EXTINF:-1, tvg-id="SkySportsMix.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsMix.uk.png" tvg-name="SKY SPORTS  MIX - UK."  group-title="Sportee",SKY SPORTS  MIX - UK.
 http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27619
 
+#EXTINF:-1, tvg-id="SkySportsArena.uk" tvg-logo="https://static.iptv-epg.com/gb/SkySportsArena.uk.png" tvg-name="SKY SPORTS  ARENA - UK."  group-title="Sportee",SKY SPORTS  ARENA - UK.
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6040
+
 #EXTINF:-1, tvg-id="BTSport1.uk" tvg-logo="https://static.iptv-epg.com/gb/BTSport1.uk.png" tvg-name="BT Sport 1 - UK."  group-title="Sportee",BT Sport 1 - UK.
 http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/27637
 
@@ -194,6 +197,21 @@ http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/142
 
 #EXTINF:-1, tvg-id="FoxSports2.us" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/12472/fs2_2400_color_light.png" tvg-name="Fox sport 2 - USA."  group-title="Sportee",Fox sport 2 - USA.
 http://twistedhostingservices.xyz:2086/globaltest/r3str3am36486/143
+
+#EXTINF:-1, tvg-id="beINSports11.qa" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 11 - QA."  group-title="Sportee",beIN Sport 11 - QA.
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6389
+
+#EXTINF:-1, tvg-id="beINSports12.qa" tvg-logo="http://assets.beinsports.com/beIN_SPORTS.png" tvg-name="beIN Sport 12 - QA."  group-title="Sportee",beIN Sport 12 - QA.
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6388
+
+#EXTINF:-1, tvg-id="SonyTEN1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo2.png" tvg-name="Sony TEN 1 - IN."  group-title="Sportee",Sony TEN 1 - IN.
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6541
+
+#EXTINF:-1, tvg-id="SonyTEN2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo3.png" tvg-name="Sony TEN 2 - IN."  group-title="Sportee",Sony TEN 2 - IN.
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6540
+
+#EXTINF:-1, tvg-id="SonyTEN3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/images/logos/logo4.png" tvg-name="Sony TEN 3 - IN."  group-title="Sportee",Sony TEN 3 - IN.
+http://54.38.179.195:25461/onkdwtuz/m337WdU7ty/6539
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/852_300.png" tvg-name="Hitz FM"  group-title="Radioee",Hitz FM
 http://astro1.rastream.com/hitz
