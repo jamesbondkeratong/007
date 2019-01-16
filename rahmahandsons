@@ -7,22 +7,22 @@ https://rtm-live-stream1.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.
 https://rtm-live-stream1.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_120.png" tvg-name="TV3 - MY."  group-title="Malayee",TV3 - MY.
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHSCIE2X7TG4ipdm-APH4ZTM)/dm/3/x6qp375/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTn3XrPQvrqlwVYPfhTF16U)/dm/3/x6qp375/s/live-4.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_120.png" tvg-name="OKEY - MY."  group-title="Malayee",OKEY - MY.
 https://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107_120.png" tvg-name="NTV7 - MY."  group-title="Malayee",NTV7 - MY.
-https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHV13baFFmhhrPIcv01OfIkU)/dm/3/x6qp6ou/s/live-4.m3u8
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHf8pEuZWjeftteKDuMTwKWU)/dm/3/x6qp6ou/s/live-4.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/708_300.png" tvg-name="8TV - MY."  group-title="Malayee",8TV - MY.
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHZ8DnMNipKMqWPiRvZkmQ_Q)/dm/3/x6qud17/s/live-4.m3u8
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVwZTMsnd3XSFtl5JvlUO3o)/dm/3/x6qud17/s/live-4.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/119_120.png" tvg-name="TV 9 - MY."  group-title="Malayee",TV 9 - MY.
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHeVN9HUOtK8N5Pu9vpohkOs)/dm/3/x6qqja6/s/live-4.m3u8
+https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHdTEVbR4A3Si4UgWNZDxPF4)/dm/3/x6qqja6/s/live-4.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.dramasangat.my/frontend/assets/images/icons/logo.png" tvg-name="Drama Sangat - MY."  group-title="Malayee",Drama Sangat - MY.
-https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0k9D_H8RaIPqfnKpDfNynpw)/dm/3/x6zvnex/s/live-4.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://www.xtra.com.my/img/logo/dramasangat2.png" tvg-name="Drama Sangat - MY."  group-title="Malayee",Drama Sangat - MY.
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0h_7d8LLfIhCkl_8OHpOr3Q)/dm/3/x6zvnex/s/live-4.m3u8
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://alhijrahmedia.com/wp-content/uploads/2014/04/153x44.png" tvg-name="Al Hijrah"  group-title="Malayee",Al Hijrah
 http://103.82.219.66:6543/live/80F2361F36DA417F87672CF14CDC9D85/playlist.m3u8?sid=56284c63a1d04b729926aad05d4145e5&origin=MTAuMjAuNjMuMjAyOjYwNjA=
