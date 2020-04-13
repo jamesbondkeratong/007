@@ -59,3 +59,6 @@ http://astro3.rastream.com/gegar
 
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1200px-Logo_Fly_FM.svg.png" radio="true",Fly FM
 http://mediaprima.rastream.com/mediaprima-flyfm
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
+https://www98.uptostream.com/1xudcvn5a17/720/0/video.mp4|Referer=https://uptostream.com/0mddxlmjki1q
